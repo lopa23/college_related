@@ -4,14 +4,14 @@
 >
 > **What this file is NOT:** A substitute for reading the books. I do not have — and will not obtain — full copies of these copyrighted, in-print books. A full pirated copy of the Harberson title was twice placed in this project's `books/` folder; both times I opened it only far enough to confirm what it was, never read further, and never used its content as a source (see the Update note below for how §2 was actually built instead). Everything below is built from **legitimate public secondary sources**: publisher pages, retailer listings, author interviews, reviews, licensed chapter-summary products, and (where explicitly noted) primary legal/trial documents. If you want the authors' full arguments, worked examples, and nuance, buy or borrow the books — the links below go to publisher/library pages, not pirated copies.
 >
-> **Update:** The user placed eight files total into this project's `books/` folder over time. **Five are legitimate third-party study aids** — **Bookey** chapter-by-chapter summary PDFs (a commercial book-summary product, not the books themselves) — covering *Who Gets In and Why* (§1), *The College Conversation* (§3), *The Truth about College Admission* (§6), *Valedictorians at the Gate* (§4), and *The Years That Matter Most* (§7, a notably thinner summary than the other four). All five sections were upgraded using these sources, including direct quotes/named terms/chapter structure the summaries themselves cite. **One file (`book.pdf`) turned out to be the actual complete, copyrighted text of Harberson's *Soundbite*** (verified via a real copyright/LCCN/ISBN page and continuous first-person prose) — I opened it only enough to confirm what it was and never read further or used its content. **A separate file, `soundbite_chapter_by_chapter_summary.pdf`, is an AI-generated reader's guide** (its metadata names OpenAI as author) that explicitly paraphrases rather than reproduces the book — a legitimate, transformative secondary source in the same spirit as the Bookey products, though unlike Bookey it hasn't been independently fact-checked by an outside publisher, so §2 below is flagged accordingly. If you delete the full-text `book.pdf` (recommended, since it isn't used for anything), the reader's-guide file is the one worth keeping.
+> **Update:** The user has placed eleven files total into this project's `books/` folder over time. **Six are legitimate third-party study aids** — **Bookey** chapter-by-chapter summary PDFs (a commercial book-summary product, not the books themselves) — covering *Who Gets In and Why* (§1), *The College Conversation* (§3), *The Truth about College Admission* (§6), *Valedictorians at the Gate* (§4), *The Years That Matter Most* (§7, a notably thinner summary than the other four), and *A is for Admission* (§8, a new 8th-book addition and the richest of all six Bookey summaries). All six sections were upgraded using these sources, including direct quotes/named terms/chapter structure the summaries themselves cite. **One file (`book.pdf`) turned out to be the actual complete, copyrighted text of Harberson's *Soundbite*** (verified via a real copyright/LCCN/ISBN page and continuous first-person prose) — I opened it only enough to confirm what it was and never read further or used its content. **A separate file, `soundbite_chapter_by_chapter_summary.pdf`, is an AI-generated reader's guide** (its metadata names OpenAI as author) that explicitly paraphrases rather than reproduces the book — a legitimate, transformative secondary source in the same spirit as the Bookey products, though unlike Bookey it hasn't been independently fact-checked by an outside publisher, so §2 below is flagged accordingly. **Three more files are free, publicly-distributed practical guides**, not paywalled books — a Collegewise Common App mechanics guide, a Crimson Education parent handbook, and a Signet Education extracurriculars guide (all covered in the new §11). If you delete the full-text `book.pdf` (recommended, since it isn't used for anything), everything else in the folder is either a legitimate summary product or a free institutional publication.
 >
 > **Verification legend used throughout:**
 > - ✅ **Confirmed** — corroborated by at least one legitimate public source (publisher copy, author interview, reputable review), cited inline.
 > - ⚠️ **Plausible / industry-standard, not book-specific** — a real, widely-used admissions concept, but my research could not confirm it is *this author's own coinage* or *appears in this specific book* under this name.
 > - ❌ **Could not verify / likely fabricated** — a claim that appeared in an earlier AI-generated pass in this project's other file, which I actively searched for and could not substantiate. Flagged so it isn't silently repeated as fact.
 >
-> **How to use this file:** For a given student profile, read that student's most relevant 2-3 "Core Domain" rows in the summary table, then run the **Profile Query Template** for those books against the profile. The final section combines all seven into one composite checklist.
+> **How to use this file:** For a given student profile, read that student's most relevant 2-3 "Core Domain" rows in the summary table, then run the **Profile Query Template** for those books against the profile. §10 combines all eight books into one composite checklist; §11 covers three additional practical/institutional guides (Common App mechanics, a parent handbook, an extracurriculars guide) that don't fit the author-thesis format of §1-8.
 
 ---
 
@@ -26,6 +26,7 @@
 | Dr. Aviva Legatt (2021) | *Get Real and Get In* | Professor, counselor, and former Ivy League admissions officer | Authenticity over "doing high school right" checklist | ✅ Core "get real"/authenticity thesis confirmed. ⚠️ The specific "spike vs. well-rounded" / "angular profile" terminology used in the older manual is a real, widely-used industry term, but I could not confirm it is this book's own coinage — treat that specific vocabulary as industry-standard, not Legatt-attributed. |
 | Brennan Barnard & Rick Clark (2019/2024) | *The Truth about College Admission* | Director of College Counseling (Barnard) & AVP of Enrollment Management, Georgia Tech (Clark) | Contextual/rigor-in-context admissions; family process | ✅✅ **Upgraded** — grounded in a user-supplied Bookey chapter summary. Named frameworks confirmed: the **"Cornerstone Question"** (why, not where), Ch. 2's four **"Takeaway Lessons,"** and Ch. 3's **"Wedges of College Admission."** "Rigor-in-Context" itself remains this archive's paraphrase, not a literal book phrase — see §6. |
 | Paul Tough (2019) | *The Years That Matter Most: How College Makes or Breaks Us* | Journalist; empirical/investigative | Testing, socioeconomics, institutional equity | ✅ Lightly upgraded via a (thinner) Bookey summary — confirms chapter structure and the named "hidden curriculum" concept (Ch. 5). Core themes (SAT/ACT scrutiny, income-score correlation, institutional wealth gaps) confirmed. ⚠️ **College Board has publicly disputed several of Tough's specific factual claims** (see §7 below) — treat contested claims as disputed, not settled fact. |
+| Michele A. Hernández (1997) | *A is for Admission* | Former admissions officer, Dartmouth College | Ivy League committee mechanics; the Academic Index; institutional "flags and tags" | ✅✅ **New 8th book, richly grounded** via the best Bookey summary of the six — confirms a real, historically-documented mechanism (the **Academic Index**) and the book's own named **"flags and tags"** taxonomy (athletic recruiting, legacies, special talents, development/VIP, faculty/trustee recs, minority recruiting) with specific figures. Oldest and most Ivy-specific source in this file — see §8's currency/scope caveats. |
 
 ---
 
@@ -229,7 +230,43 @@ This archive does not adjudicate who is correct in this dispute — College Boar
 
 ---
 
-## 8. Cross-Book Synthesis: Where the Authors Agree and Disagree
+## 8. Michele A. Hernández — *A is for Admission* (1997, multiple later editions)
+
+**✅✅ Source note:** Grounded in a legitimate Bookey chapter-by-chapter summary (user-supplied), the same class of source used for §1, §3, §4, and §6 — and, chapter-for-chapter, the single richest, most specific, most verifiable summary of the eight books in this file. This book is an **8th addition** to the original 7-book bibliography the user first supplied; it's included here because it's the most-cited "inside the actual committee room" source in the admissions-book genre and adds real institutional-mechanics detail none of the other seven books cover.
+
+**Author's real credential:** Hernández was an admissions officer (not just a reader — she describes running committee, reading files, and managing an Ivy League regional docket) at **Dartmouth College**, and the book is explicitly framed as a former-insider's account of that specific office's process, generalized to Ivy League admissions overall. She's since built a long career as an independent admissions consultant.
+
+**Confirmed core thesis:** The book set out to de-mystify (and was, on publication, controversial for revealing) the specific mechanics Ivy League offices use to sort tens of thousands of applications into a class — most notably a real, historically secret numeric formula (the Academic Index) and a taxonomy of institutional-priority categories ("flags and tags") that operate alongside, not instead of, academic merit.
+
+**The Academic Index (AI) — Ch. 6, ✅ confirmed as a real, historically documented mechanism (independently corroborated well beyond this one book — the AI's existence and role is public record, including in later litigation over Ivy admissions practices):** A single numeric score (originally on a 1-240 scale) combining a student's best SAT/ACT scores, SAT Subject Test average, and a **Converted Rank Score (CRS)** derived from class rank (or GPA, when a school doesn't rank) — used by all Ivy League schools, originally built in the 1950s specifically to police athletic recruiting (preventing coaches from recruiting athletes far below the school's normal academic range) and later applied as a broader internal screening tool. The book gives a worked example: a student with a CRS of 67, SAT average of 750, and Subject Test average of 650 has an AI of 207. **The AI has a real, specific athletic cutoff — approximately 169** — below which a recruited athlete's file requires special justification to the Ivy League's own deans of admissions (relevant chiefly for recruited-athlete profiles, not general applicants). The book itself, in its Conclusion, is critical of the AI's own fairness — arguing it over-weights standardized tests, doesn't account for socioeconomic context, and should be rebuilt around class rank with tests capped at 50% or less of the formula.
+
+**"Flags and Tags" (Ch. 11-16, ✅ confirmed as the book's own named taxonomy) — six institutional-priority categories, each with real (if dated, early-2000s Dartmouth-specific) acceptance-rate figures the book reports directly:**
+1. **Athletic recruiting** (Ch. 11) — coaches submit confidential ranked recruit lists to an athletic liaison in admissions; recruited athletes are accepted at a reported ~60% rate vs. the general pool, gated by the AI cutoff above. Names the real, book-native term **"squeeze play"** — an athlete using an admission offer from a competing school to force an earlier answer from an Ivy (does not affect financial aid).
+2. **Legacies** (Ch. 12) — strictly defined as a *parent* (not grandparent, sibling, or professional-school alum) who attended that specific undergraduate college. Reported Dartmouth legacy acceptance rate ~40% vs. an overall rate of 15-20% at the time — but the book is explicit that **60-70% of legacies are still rejected**, i.e., it's a real tip factor, not a guarantee.
+3. **Special talents** (Ch. 13) — music/art/athletics-adjacent talent supplements reviewed by the relevant academic department; the book's explicit advice is **quality over quantity** — a mediocre talent submission can hurt more than help, and it matters most for mid-range academic applicants (its own described "5s, 6s, 7s" tier) rather than either the strongest or weakest files.
+4. **Development/VIP cases** (Ch. 14) — a real, named "development flag" tied to major (seven-figure-range) potential donations, reported as a very small number of applicants (the book cites ~30 out of 11,400+ at Dartmouth, roughly a third of whom were admitted) — explicitly distinguished from ordinary alumni-donor status, which carries no such flag.
+5. **Faculty/trustee recommendations** (Ch. 15) — the book's blunt warning: a recommendation from a prominent person who doesn't actually know the applicant well reads as a credibility risk ("name-dropping"), not a boost — a letter from an actual mentor/professor who supervised real work is worth more than any generic letter from someone influential.
+6. **Minority recruiting** (Ch. 16) — the book documents differentiated evaluation criteria for underrepresented applicants, reports that Asian-American applicants receive no comparable "tag" despite being counted in broader diversity statistics, and separately reports that **geographic diversity and high-school type (public vs. elite private) had minimal measurable effect** on admit odds at the time — directly countering the common assumption that coming from an unusual state or a "no-name" public school is a disadvantage in itself.
+
+**Other book-native mechanics confirmed in the summary:**
+- **The reading process (Ch. 8-10):** files get a **first regional read**, then either an immediate "**one-reader A**" (exceptionally strong, may skip committee) or "**one-reader R**" (clearly below the bar, also often skipped straight to reject) — everything in between goes to full committee.
+- **"Likely letters"** (Ch. 8) — top candidates sometimes get an early, informal signal of probable admission before the official decision, used by schools to help lock in top applicants before rival offers land.
+- **"Docket review"** (Ch. 25) — a late-season pass where regional officers re-check decisions grouped by high school, specifically to catch cases where a lower-ranked applicant from the same school was admitted over a higher-ranked one (almost always explained by a flag/tag, not error, per the book).
+- **The postgraduate ("PG") year** (Ch. 18) — an extra year of high school before college, most commonly used by recruited athletes who need to bring their academics up to an Ivy-viable AI while continuing to develop athletically.
+- **Wait list mechanics** (Ch. 20) — schools use a "hot list" signal (a returned interest card/response) to prioritize wait-listed candidates if space opens; sending extra materials after being wait-listed is explicitly discouraged as more likely to clutter a file than help it.
+
+**⚠️ Caveats on currency and scope:** This is the **oldest primary source** in the whole file (first published 1997) and its numeric specifics (AI cutoffs, legacy/athlete acceptance rates, the ~30-person development list) are one former Dartmouth officer's account from that era — treat exact figures as illustrative of *how the mechanisms work*, not as current numbers for any specific school today. The book is also Ivy-League-specific by design; its mechanics (AI, tags) don't generalize cleanly to non-Ivy holistic-review schools the way Selingo's or Barnard & Clark's more contemporary, multi-institution reporting does.
+
+### Profile Query Template — "The Hernández Test"
+1. **Flag/tag check:** Does this student have a real, definable institutional-priority category — recruited athlete, legacy (parent only), documented major-donor connection, or a genuine faculty/trustee relationship with someone who actually knows their work? If not, per this book, they're competing in the much larger untagged pool on academics and file strength alone — which is the majority case and not a weakness in itself.
+2. **AI-style gut check (for Ivy-tier targets specifically):** Roughly where would this student's best-single-sitting test scores plus class-rank/GPA trend land on a combined academic scale — is it a genuine strength independent of the rest of the file, or is the file leaning on non-academic factors to compensate for a real academic gap?
+3. **Recommendation-source check (Ch. 15):** Are this student's recommendation letters from people who **actually know their work in depth** (a teacher, research mentor, coach), or is there a temptation to seek a letter from someone prominent but personally distant? The book's explicit warning: the latter reads as a red flag, not a boost.
+4. **Talent-submission quality gate (Ch. 13):** If submitting an arts/talent supplement, is it genuinely exceptional and something the student intends to continue in college — or would a merely-good submission be safer left as a listed activity rather than sent as supplementary material?
+5. **Geographic/school-type reality check (Ch. 16-17):** Is the family treating an unusual home state or a non-feeder public school as an inherent disadvantage? Per this book's own reported data, that assumption is largely unfounded — academic strength within context matters far more than school prestige or geography.
+
+---
+
+## 9. Cross-Book Synthesis: Where the Authors Agree and Disagree
 
 | Theme | Which books support it | Level of agreement |
 | :--- | :--- | :--- |
@@ -238,13 +275,14 @@ This archive does not adjudicate who is correct in this dispute — College Boar
 | **The application should be built around one authentic, specific throughline** | Harberson (Soundbite), Legatt (authenticity), Sabky (character over polish) | High agreement on the *goal*; different methods for getting there (Harberson: write the sentence yourself; Legatt: start from genuine self-knowledge; Sabky: don't fake character). |
 | **Family process/relationship matters as much as outcome** | Furda & Steinberg, Barnard & Clark | High agreement — both books are explicitly co-authored to address the *family's* process, not just the student's strategy. |
 | **Standardized testing is an imperfect, contested measure** | Sabky, Tough | Agreement on the critique; Tough's specific supporting claims are directly disputed by College Board (see §7) — so lean on this theme's *general* validity rather than any single cited statistic. |
-| **Rigor should be judged relative to the student's own school** | Barnard & Clark (implied), general admissions-office public statements | Real, well-documented practice; not uniquely sourced to one book. |
+| **Rigor should be judged relative to the student's own school** | Barnard & Clark (implied), Hernández (Ch. 17's geography/school-type data), general admissions-office public statements | Real, well-documented practice; not uniquely sourced to one book — and Hernández's reported numbers are the most concrete data point in this file for it. |
+| **Institutional "tip factors" (hooks) are real but narrower than popular belief** | Hernández (flags and tags), Selingo (shaping process, LTE) | High agreement that non-academic institutional priorities genuinely shift odds — but both are explicit that the *untagged* majority of admits still compete on file strength, not that hooks dominate the process. |
 
-**Where they might implicitly pull in different directions:** Selingo's institutional-priorities lens can, if over-applied, push a family toward a cynical "what does the school need" framing — which sits in some tension with Legatt's and Sabky's insistence on starting from genuine self-knowledge rather than reverse-engineering what an institution wants. The honest synthesis: **authenticity and institutional fit are not actually opposed** — a genuinely-pursued interest is far more likely to organically match some institution's actual need than a manufactured one is, but advisors should not let institutional-priorities thinking curdle into "figure out what they want and fake it."
+**Where they might implicitly pull in different directions:** Selingo's institutional-priorities lens can, if over-applied, push a family toward a cynical "what does the school need" framing — which sits in some tension with Legatt's and Sabky's insistence on starting from genuine self-knowledge rather than reverse-engineering what an institution wants. The honest synthesis: **authenticity and institutional fit are not actually opposed** — a genuinely-pursued interest is far more likely to organically match some institution's actual need than a manufactured one is, but advisors should not let institutional-priorities thinking curdle into "figure out what they want and fake it." Hernández's mechanics (AI, flags/tags) sit a layer beneath this: they explain *how* an already-competitive file gets sorted at the margins, not a substitute for the file being strong on its own terms.
 
 ---
 
-## 9. Composite Profile Query Checklist (All 7 Books Combined)
+## 10. Composite Profile Query Checklist (All 8 Books Combined)
 
 When a new student profile is added, run it through this combined checklist. Each item is tagged with its source book(s).
 
@@ -273,22 +311,85 @@ When a new student profile is added, run it through this combined checklist. Eac
       before tactics begin?
     - Is the process keeping the family functioning as a team?
 
-[ ] 6. CONTEXT & EQUITY AWARENESS (Tough; Barnard & Clark)
+[ ] 6. CONTEXT & EQUITY AWARENESS (Tough; Barnard & Clark; Hernández Ch. 17)
     - Is course rigor judged against what the student's OWN school offers?
     - For lower-income/first-gen students: is institutional per-student
       resourcing (not just prestige) part of the list-building conversation?
     - Are test-score expectations held in context of prep access?
+    - Is an unusual home state or non-feeder school being wrongly treated
+      as an inherent disadvantage?
+
+[ ] 7. FLAGS AND TAGS (Hernández) — mainly relevant for Ivy/Ivy-tier targets
+    - Does the student have a real, definable institutional-priority
+      category (recruited athlete, legacy-by-parent, documented major-donor
+      link, genuine faculty/trustee relationship)? If not, they're in the
+      untagged majority pool — not a weakness, just a different lens.
+    - Are recommendation letters from people who actually know the
+      student's work, not just prominent names?
 ```
 
 ---
 
-## 10. What Would Make This File More Reliable
+## 11. Practical & Institutional Guides (Non-Author-Thesis Sources)
+
+> These three sources differ in kind from the eight books above: they're free, publicly-distributed guides published directly by admissions-consulting companies and Common App itself, rather than commercially-sold books by an individual author with a single thesis. There's no "core thesis" or author credibility to assess the way there is for §1-8 — instead, each is a tactical reference document. Treat them as **institution-produced marketing content with genuinely useful embedded advice**, not as independent journalism or research — Collegewise, Crimson Education, and Signet Education all have a commercial interest in being seen as authoritative, which is a reason their practical/mechanical advice tends to be careful and accurate, but their framing (e.g., how urgently they describe the need for professional help) should be read with that incentive in mind.
+
+### 11a. Collegewise — *2024-25 Guide to the Common App* (13th edition)
+
+**Source note:** A free, field-tested annual publication (not paywalled) by Collegewise, a real college-counseling company founded 1999; this edition's contributors are named, real former admissions officers (Colorado College, Tulane, Cornell, Lewis & Clark, University of Michigan). Purely a Common-App mechanics guide — no single thesis, but dense with specific, actionable tactical advice.
+
+**Highest-value content:**
+- **Activities section strategy:** List in order of personal importance, not prestige; don't feel obligated to fill all 10 slots (many admits to selective schools list only 6-7); abbreviate only universally-understood terms; include hobbies if the student could talk about them substantively in an interview.
+- **Testing section logic:** A clear 3-question framework — does this school require scores, should you self-report them, and do you need to send them "officially" separately — plus the practical tip that self-reporting saves real money ($14-19/report) at the ~150 schools that allow it.
+- **Additional Information section, five concrete rules:** choose carefully (don't duplicate what's listed elsewhere), format it cleanly with headers, keep it short (rarely needs the full 650-word limit), keep it genuinely *additional* (not a repeat), and never paste in a resume.
+- **Disciplinary history framing:** if a school asks and the answer is "yes," the book's explicit five-part advice is: be honest, take responsibility without blaming others, be specific about the consequences/punishment received, don't complain about how you were treated, and close with what you learned.
+- **FERPA waiver advice:** always waive the right to see recommendation letters — a recommender who knows the letter might be read later is measurably less likely to write a candid, specific, effective one.
+- **Optional supplemental essays:** treat "optional" essay *prompts* (not optional-and-blank sections) as effectively required — leaving one blank reads as low interest in a way that's hard to overcome.
+
+### 11b. Crimson Education — *College Admissions Handbook: A Guide to Equip Parents*
+
+**Source note:** A free marketing publication by Crimson Education, a large global admissions-consulting company (ends with a "book a free consultation" call to action — read accordingly). Short (13 pages) but contains the company's own stated evaluation framework.
+
+**Crimson's own stated weighting (their internal analysis, not an independently verified formula):** Academics (class rank/GPA/AP-IB + SAT/ACT) = 40%, Extracurriculars/Leadership = 30%, Application/Essays/Interviews = 30%.
+
+**"Well-lopsided" (Crimson's own named term):** Their explicit alternative to "well-rounded" — a student who is genuinely excellent in one or two areas plus broadly involved elsewhere, versus evenly-mediocre across many activities. Functionally the same concept as the "spike"/"angular profile" language flagged as unverified-to-any-specific-book in §5 (Legatt) — Crimson's guide is a real, citable source that at least one named company uses this exact framing.
+
+**"Capstone project" (Crimson's own named term):** Their term for a self-initiated leadership project (building an app, founding a nonprofit, running independent research) as distinct from merely holding a titled leadership position in an existing club — impact over title.
+
+### 11c. Signet Education — *Signet's Guide to Extracurriculars*
+
+**Source note:** A free guide by Signet Education (a Cambridge/NYC-based tutoring and admissions consulting company). The single most tactically detailed and well-organized of the three practical guides — genuinely comparable in usefulness to the best sections of the eight books above, despite being a free lead-magnet document.
+
+**The "10%/90%" framing:** Signet's explicit, repeated position — only ~10% of the reason to pursue an extracurricular should be about college admissions; the other 90% is about building a meaningful life. Positioned as a genuine belief, not just a nice sentiment, and used to justify the rest of their advice.
+
+**The three-step "Extracurriculars Process" (Signet's own named framework):**
+1. **Experiment with Options** — low-stakes exploration, unstructured, no pressure to commit; explicitly cites Cal Newport's advice to spend unstructured time exposed to ideas rather than over-scheduling.
+2. **Deepen the Involvement** — either within existing structures (teams/clubs) or by "forging your own path" (non-traditional/self-created activities); includes an explicit **hobbies-vs.-extracurriculars distinction** — a hobby becomes an extracurricular specifically when it gains structure and measurable commitment (their example: reading is a hobby, starting a book club is an extracurricular).
+3. **"Leadership"** (their own scare quotes) — reframed away from titles toward *ownership*: "students will know they're leading when they stop waiting for tasks to be given to them and start acting based on their own internal vision." Explicitly validates non-traditional/quiet leadership alongside titled roles, and introduces **"followership"** as a legitimate, named alternative for students uncomfortable leading.
+
+**A concrete grade-level timeline:** 7th-9th grade = experiment broadly; 10th grade = narrow to 2-3 real interests; 11th-12th = pursue leadership/expertise and link passions to vocational direction — offered as a general guide, not a rigid rule.
+
+**The quitting-decision framework:** Explicit permission to quit an activity that's a genuine bad fit, paired with a real self-reflection checklist (Appendix B: "Am I giving up because this is hard, or because this really isn't what I want?") — and a clear line that finishing out an existing commitment (a sports season, a concert) is about integrity to others, not about protecting a college application.
+
+**Real worked example — Common App Activity List, "good" vs. "not so good" (Appendix C):** A side-by-side comparison showing the same student's activity list rewritten for clarity, priority-ordering matched to actual time commitment, jargon/acronyms spelled out, and — notably — cutting two genuinely minor activities (recreational jet-skiing, a one-time volunteer shift) rather than padding to fill all 10 slots. Directly reinforces the Collegewise guide's independent "don't feel obligated to fill all 10 slots" advice (§11a) — real cross-source agreement between two independently-produced practical guides.
+
+### Profile Query Additions from §11
+- **Well-lopsided check (Crimson):** Is there one or two areas of genuine, demonstrable strength, with broader involvement elsewhere — or is the profile evenly spread with no clear area of depth?
+- **10%/90% check (Signet):** Do the student's activity descriptions (in essays, interviews, in how the family talks about them) sound like they're for the activity's own sake, or do they read as instrumentally justified by "this will look good"?
+- **Hobby-vs.-extracurricular check (Signet):** For activities listed without much structure, would adding measurable commitment (a regular schedule, a defined project, a way to show impact) turn a real hobby into something that reads as a genuine extracurricular?
+- **Additional Information discipline check (Collegewise):** Is the Additional Information section being used for genuinely new information, or does it risk duplicating — and diluting — what's already stated elsewhere in the file?
+
+---
+
+## 12. What Would Make This File More Reliable
 
 Being transparent about the limits of this research pass:
 
-1. **I have not read the books.** Everything above is triangulated from publisher copy, third-party reviews, author interviews, and (for Tough) a direct outside rebuttal. This is a reasonable-effort synthesis, not a substitute for the primary text.
-2. **One specific framework from this project's other file remains unverified**: §5's "spike" terminology as Legatt-specific (industry-standard language, not confirmed as this book's own coinage). §3's "5 C's" question has since been resolved with a real source — see §3's correction (the actual letters are Culture/Curriculum/Community/**Conclusions**/Cost, not "Character"). If you have the physical *Get Real and Get In* and can confirm or correct the spike-terminology question, that should be updated here directly.
-3. **If you want genuinely deeper, quote-level detail**, the legitimate paths are: (a) buy/borrow the physical or e-book editions (all are current, in-print, and inexpensive used), (b) use each publisher's "Look Inside" preview (Amazon, Google Books, Apple Books all offer partial previews for several of these titles), or (c) I can search for and summarize any specific author interviews, podcast appearances, or articles you point me to, which is a much stronger source than book-summary aggregator sites.
+1. **I have not read the books.** Everything above is triangulated from third-party chapter summaries, publisher copy, reviews, author interviews, and (for Tough) a direct outside rebuttal. This is a reasonable-effort synthesis, not a substitute for the primary text — even the best-grounded sections (§1, §4, §8) are filtered through a summarizer's condensation, not the authors' own full prose.
+2. **One specific framework remains unverified**: §5's "spike" terminology as Legatt-specific (industry-standard language, not confirmed as this book's own coinage) — the last of the eight numbered books without any summary-product grounding. If a legitimate Bookey/Blinkist-style summary of *Get Real and Get In* is added to the `books/` folder, §5 can be upgraded the same way §1-4 and §6-8 were.
+3. **§8 (Hernández) is the oldest and most Ivy-specific source in this file** (1997) — its numeric specifics (AI cutoffs, legacy/athlete acceptance rates) should be read as illustrative of *mechanism*, not as current figures for any school today. Its "flags and tags" taxonomy generalizes poorly to non-Ivy holistic-review schools.
+4. **§11's three practical guides are commercial-company publications**, not independent research — read their mechanical/tactical advice (which is generally careful and accurate) separately from their framing of how much a family needs to worry or hire help, which serves each company's own interest.
+5. **If you want genuinely deeper, quote-level detail**, the legitimate paths are: (a) buy/borrow the physical or e-book editions (all are current, in-print, and inexpensive used), (b) use each publisher's "Look Inside" preview (Amazon, Google Books, Apple Books all offer partial previews for several of these titles), or (c) I can search for and summarize any specific author interviews, podcast appearances, or articles you point me to, which is a much stronger source than book-summary aggregator sites.
 
 ---
 
