@@ -1,0 +1,6286 @@
+{
+ "Massachusetts Institute of Technology": {
+  "ipeds_id": "166683",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 8,
+  "admit_rate_end": 5,
+  "admit_rate_pt_change": -3,
+  "applicants_start": 18356,
+  "applicants_end": 28232,
+  "applicants_pct_change": 53.8,
+  "yield_start": 72,
+  "yield_end": 86,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1560,
+  "full_series": {
+   "2014": {
+    "admit_rate": 8,
+    "applicants": 18356,
+    "yield": 72,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 8,
+    "applicants": 18306,
+    "yield": 73,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 8,
+    "applicants": 19020,
+    "yield": 73,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 7,
+    "applicants": 20247,
+    "yield": 76,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 7,
+    "applicants": 21706,
+    "yield": 76,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 7,
+    "applicants": 21312,
+    "yield": 77,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 7,
+    "applicants": 20075,
+    "yield": 73,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 4,
+    "applicants": 33240,
+    "yield": 86,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 4,
+    "applicants": 33767,
+    "yield": 85,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 800,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 5,
+    "applicants": 26904,
+    "yield": 86,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2024": {
+    "admit_rate": 5,
+    "applicants": 28232,
+    "yield": 86,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 800,
+    "act_composite_p50": 35
+   }
+  }
+ },
+ "Stanford University": {
+  "ipeds_id": "243744",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 5,
+  "admit_rate_end": 4,
+  "admit_rate_pt_change": -1,
+  "applicants_start": 42167,
+  "applicants_end": 57326,
+  "applicants_pct_change": 35.9,
+  "yield_start": 78,
+  "yield_end": 82,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1550,
+  "full_series": {
+   "2014": {
+    "admit_rate": 5,
+    "applicants": 42167,
+    "yield": 78,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 5,
+    "applicants": 42497,
+    "yield": 80,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 5,
+    "applicants": 43997,
+    "yield": 82,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 5,
+    "applicants": 44073,
+    "yield": 82,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 4,
+    "applicants": 47452,
+    "yield": 82,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 4,
+    "applicants": 47498,
+    "yield": 82,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 5,
+    "applicants": 45227,
+    "yield": 68,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 4,
+    "applicants": 55471,
+    "yield": 80,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 4,
+    "applicants": 56378,
+    "yield": 84,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 4,
+    "applicants": 53733,
+    "yield": 81,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2024": {
+    "admit_rate": 4,
+    "applicants": 57326,
+    "yield": 82,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   }
+  }
+ },
+ "Carnegie Mellon University": {
+  "ipeds_id": "211440",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 25,
+  "admit_rate_end": 12,
+  "admit_rate_pt_change": -13,
+  "applicants_start": 19812,
+  "applicants_end": 33941,
+  "applicants_pct_change": 71.3,
+  "yield_start": 30,
+  "yield_end": 46,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1540,
+  "full_series": {
+   "2014": {
+    "admit_rate": 25,
+    "applicants": 19812,
+    "yield": 30,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 24,
+    "applicants": 20547,
+    "yield": 32,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 22,
+    "applicants": 21189,
+    "yield": 34,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 22,
+    "applicants": 20497,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 17,
+    "applicants": 24351,
+    "yield": 38,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 15,
+    "applicants": 27634,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 17,
+    "applicants": 26189,
+    "yield": 36,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 14,
+    "applicants": 32896,
+    "yield": 43,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 11,
+    "applicants": 34261,
+    "yield": 44,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 11,
+    "applicants": 33707,
+    "yield": 44,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2024": {
+    "admit_rate": 12,
+    "applicants": 33941,
+    "yield": 46,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   }
+  }
+ },
+ "University of California, Berkeley": {
+  "ipeds_id": "110635",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 16,
+  "admit_rate_end": 11,
+  "admit_rate_pt_change": -5,
+  "applicants_start": 73782,
+  "applicants_end": 124242,
+  "applicants_pct_change": 68.4,
+  "yield_start": 46,
+  "yield_end": 46,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": null,
+  "full_series": {
+   "2014": {
+    "admit_rate": 16,
+    "applicants": 73782,
+    "yield": 46,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 17,
+    "applicants": 78893,
+    "yield": 42,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 17,
+    "applicants": 82561,
+    "yield": 44,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 17,
+    "applicants": 85044,
+    "yield": 44,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 15,
+    "applicants": 89607,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 16,
+    "applicants": 87847,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 17,
+    "applicants": 88062,
+    "yield": 40,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 14,
+    "applicants": 112843,
+    "yield": 43,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 11,
+    "applicants": 128209,
+    "yield": 46,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2023": {
+    "admit_rate": 12,
+    "applicants": 125910,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2024": {
+    "admit_rate": 11,
+    "applicants": 124242,
+    "yield": 46,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   }
+  }
+ },
+ "California Institute of Technology": {
+  "ipeds_id": "110404",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 9,
+  "admit_rate_end": 3,
+  "admit_rate_pt_change": -6,
+  "applicants_start": 6525,
+  "applicants_end": 13856,
+  "applicants_pct_change": 112.4,
+  "yield_start": 39,
+  "yield_end": 61,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": null,
+  "full_series": {
+   "2014": {
+    "admit_rate": 9,
+    "applicants": 6525,
+    "yield": 39,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 9,
+    "applicants": 6506,
+    "yield": 42,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 8,
+    "applicants": 6855,
+    "yield": 42,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 8,
+    "applicants": 7339,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 7,
+    "applicants": 8208,
+    "yield": 43,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 6,
+    "applicants": 8367,
+    "yield": 44,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 7,
+    "applicants": 8007,
+    "yield": 42,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 4,
+    "applicants": 13026,
+    "yield": 53,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 3,
+    "applicants": 16626,
+    "yield": 50,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2023": {
+    "admit_rate": 3,
+    "applicants": 13107,
+    "yield": 65,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2024": {
+    "admit_rate": 3,
+    "applicants": 13856,
+    "yield": 61,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   }
+  }
+ },
+ "Georgia Institute of Technology": {
+  "ipeds_id": "139755",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 33,
+  "admit_rate_end": 14,
+  "admit_rate_pt_change": -19,
+  "applicants_start": 25884,
+  "applicants_end": 59789,
+  "applicants_pct_change": 131.0,
+  "yield_start": 33,
+  "yield_end": 46,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1480,
+  "full_series": {
+   "2014": {
+    "admit_rate": 33,
+    "applicants": 25884,
+    "yield": 33,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 32,
+    "applicants": 27277,
+    "yield": 35,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 26,
+    "applicants": 30528,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 23,
+    "applicants": 31497,
+    "yield": 39,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 22,
+    "applicants": 35644,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 21,
+    "applicants": 36856,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 21,
+    "applicants": 40852,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 16,
+    "applicants": 44048,
+    "yield": 49,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 17,
+    "applicants": 50610,
+    "yield": 42,
+    "sat_ebrw_p50": 720,
+    "sat_math_p50": 760,
+    "act_composite_p50": 33
+   },
+   "2023": {
+    "admit_rate": 16,
+    "applicants": 52377,
+    "yield": 44,
+    "sat_ebrw_p50": 700,
+    "sat_math_p50": 750,
+    "act_composite_p50": 32
+   },
+   "2024": {
+    "admit_rate": 14,
+    "applicants": 59789,
+    "yield": 46,
+    "sat_ebrw_p50": 720,
+    "sat_math_p50": 760,
+    "act_composite_p50": 33
+   }
+  }
+ },
+ "University of Illinois Urbana-Champaign": {
+  "ipeds_id": "145637",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 59,
+  "admit_rate_end": 42,
+  "admit_rate_pt_change": -17,
+  "applicants_start": 35822,
+  "applicants_end": 73742,
+  "applicants_pct_change": 105.9,
+  "yield_start": 33,
+  "yield_end": 29,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1440,
+  "full_series": {
+   "2014": {
+    "admit_rate": 59,
+    "applicants": 35822,
+    "yield": 33,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 66,
+    "applicants": 34277,
+    "yield": 34,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 60,
+    "applicants": 38093,
+    "yield": 33,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 62,
+    "applicants": 38965,
+    "yield": 31,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 62,
+    "applicants": 39406,
+    "yield": 31,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 59,
+    "applicants": 43509,
+    "yield": 30,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 63,
+    "applicants": 43473,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 60,
+    "applicants": 47593,
+    "yield": 29,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 45,
+    "applicants": 63257,
+    "yield": 28,
+    "sat_ebrw_p50": 700,
+    "sat_math_p50": 740,
+    "act_composite_p50": 32
+   },
+   "2023": {
+    "admit_rate": 44,
+    "applicants": 67398,
+    "yield": 28,
+    "sat_ebrw_p50": 690,
+    "sat_math_p50": 720,
+    "act_composite_p50": 32
+   },
+   "2024": {
+    "admit_rate": 42,
+    "applicants": 73742,
+    "yield": 29,
+    "sat_ebrw_p50": 700,
+    "sat_math_p50": 740,
+    "act_composite_p50": 32
+   }
+  }
+ },
+ "Cornell University": {
+  "ipeds_id": "190415",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 14,
+  "admit_rate_end": 9,
+  "admit_rate_pt_change": -5,
+  "applicants_start": 43037,
+  "applicants_end": 62993,
+  "applicants_pct_change": 46.4,
+  "yield_start": 53,
+  "yield_end": 64,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1540,
+  "full_series": {
+   "2014": {
+    "admit_rate": 14,
+    "applicants": 43037,
+    "yield": 53,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 15,
+    "applicants": 41900,
+    "yield": 50,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 14,
+    "applicants": 44965,
+    "yield": 52,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 13,
+    "applicants": 47039,
+    "yield": 56,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 11,
+    "applicants": 51324,
+    "yield": 60,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 11,
+    "applicants": 49114,
+    "yield": 60,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 11,
+    "applicants": 51500,
+    "yield": 59,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 9,
+    "applicants": 67380,
+    "yield": 64,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 7,
+    "applicants": 69195,
+    "yield": 68,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   },
+   "2023": {
+    "admit_rate": 8,
+    "applicants": 65635,
+    "yield": 66,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   },
+   "2024": {
+    "admit_rate": 9,
+    "applicants": 62993,
+    "yield": 64,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 790,
+    "act_composite_p50": 34
+   }
+  }
+ },
+ "Princeton University": {
+  "ipeds_id": "186131",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 7,
+  "admit_rate_end": 5,
+  "admit_rate_pt_change": -2,
+  "applicants_start": 26641,
+  "applicants_end": 40468,
+  "applicants_pct_change": 51.9,
+  "yield_start": 66,
+  "yield_end": 75,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1550,
+  "full_series": {
+   "2014": {
+    "admit_rate": 7,
+    "applicants": 26641,
+    "yield": 66,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 7,
+    "applicants": 27290,
+    "yield": 68,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 7,
+    "applicants": 29303,
+    "yield": 68,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 6,
+    "applicants": 31056,
+    "yield": 66,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 5,
+    "applicants": 35370,
+    "yield": 69,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 6,
+    "applicants": 32804,
+    "yield": 70,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 6,
+    "applicants": 32835,
+    "yield": 62,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 4,
+    "applicants": 37601,
+    "yield": 78,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 6,
+    "applicants": 38019,
+    "yield": 69,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 4,
+    "applicants": 39644,
+    "yield": 77,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   },
+   "2024": {
+    "admit_rate": 5,
+    "applicants": 40468,
+    "yield": 75,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   }
+  }
+ },
+ "University of Michigan": {
+  "ipeds_id": "170976",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 32,
+  "admit_rate_end": 16,
+  "admit_rate_pt_change": -16,
+  "applicants_start": 49776,
+  "applicants_end": 98310,
+  "applicants_pct_change": 97.5,
+  "yield_start": 41,
+  "yield_end": 47,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1460,
+  "full_series": {
+   "2014": {
+    "admit_rate": 32,
+    "applicants": 49776,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 26,
+    "applicants": 51797,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 29,
+    "applicants": 55504,
+    "yield": 42,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 27,
+    "applicants": 59886,
+    "yield": 43,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 23,
+    "applicants": 64917,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 23,
+    "applicants": 64972,
+    "yield": 46,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 26,
+    "applicants": 65021,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 20,
+    "applicants": 79743,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 18,
+    "applicants": 84289,
+    "yield": 47,
+    "sat_ebrw_p50": 720,
+    "sat_math_p50": 750,
+    "act_composite_p50": 33
+   },
+   "2023": {
+    "admit_rate": 18,
+    "applicants": 87632,
+    "yield": 47,
+    "sat_ebrw_p50": 720,
+    "sat_math_p50": 750,
+    "act_composite_p50": 33
+   },
+   "2024": {
+    "admit_rate": 16,
+    "applicants": 98310,
+    "yield": 47,
+    "sat_ebrw_p50": 720,
+    "sat_math_p50": 740,
+    "act_composite_p50": 33
+   }
+  }
+ },
+ "University of Texas at Austin": {
+  "ipeds_id": "228778",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 40,
+  "admit_rate_end": 27,
+  "admit_rate_pt_change": -13,
+  "applicants_start": 38785,
+  "applicants_end": 72885,
+  "applicants_pct_change": 87.9,
+  "yield_start": 47,
+  "yield_end": 47,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1390,
+  "full_series": {
+   "2014": {
+    "admit_rate": 40,
+    "applicants": 38785,
+    "yield": 47,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 39,
+    "applicants": 42392,
+    "yield": 47,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 40,
+    "applicants": 47511,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 36,
+    "applicants": 51033,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 39,
+    "applicants": 50575,
+    "yield": 46,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 32,
+    "applicants": 53525,
+    "yield": 48,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 32,
+    "applicants": 57241,
+    "yield": 46,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 29,
+    "applicants": 66077,
+    "yield": 48,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 31,
+    "applicants": 60055,
+    "yield": 48,
+    "sat_ebrw_p50": 680,
+    "sat_math_p50": 690,
+    "act_composite_p50": 30
+   },
+   "2023": {
+    "admit_rate": 29,
+    "applicants": 66109,
+    "yield": 49,
+    "sat_ebrw_p50": 680,
+    "sat_math_p50": 690,
+    "act_composite_p50": 31
+   },
+   "2024": {
+    "admit_rate": 27,
+    "applicants": 72885,
+    "yield": 47,
+    "sat_ebrw_p50": 690,
+    "sat_math_p50": 700,
+    "act_composite_p50": 31
+   }
+  }
+ },
+ "University of Washington": {
+  "ipeds_id": "236948",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 55,
+  "admit_rate_end": 39,
+  "admit_rate_pt_change": -16,
+  "applicants_start": 31611,
+  "applicants_end": 69166,
+  "applicants_pct_change": 118.8,
+  "yield_start": 36,
+  "yield_end": 27,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": null,
+  "full_series": {
+   "2014": {
+    "admit_rate": 55,
+    "applicants": 31611,
+    "yield": 36,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 53,
+    "applicants": 36840,
+    "yield": 35,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 45,
+    "applicants": 43517,
+    "yield": 33,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 46,
+    "applicants": 44877,
+    "yield": 33,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 49,
+    "applicants": 45907,
+    "yield": 32,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 52,
+    "applicants": 45579,
+    "yield": 30,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 56,
+    "applicants": 43778,
+    "yield": 29,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 53,
+    "applicants": 48840,
+    "yield": 28,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 48,
+    "applicants": 52488,
+    "yield": 30,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2023": {
+    "admit_rate": 43,
+    "applicants": 62428,
+    "yield": 26,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2024": {
+    "admit_rate": 39,
+    "applicants": 69166,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   }
+  }
+ },
+ "Purdue University": {
+  "ipeds_id": "243780",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 59,
+  "admit_rate_end": 50,
+  "admit_rate_pt_change": -9,
+  "applicants_start": 39896,
+  "applicants_end": 78745,
+  "applicants_pct_change": 97.4,
+  "yield_start": 27,
+  "yield_end": 29,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1350,
+  "full_series": {
+   "2014": {
+    "admit_rate": 59,
+    "applicants": 39896,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 59,
+    "applicants": 45264,
+    "yield": 26,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 56,
+    "applicants": 49007,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 57,
+    "applicants": 49354,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 58,
+    "applicants": 53722,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 60,
+    "applicants": 55311,
+    "yield": 25,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 67,
+    "applicants": 57510,
+    "yield": 23,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 69,
+    "applicants": 59436,
+    "yield": 25,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 53,
+    "applicants": 68582,
+    "yield": 26,
+    "sat_ebrw_p50": 650,
+    "sat_math_p50": 680,
+    "act_composite_p50": 31
+   },
+   "2023": {
+    "admit_rate": 50,
+    "applicants": 73083,
+    "yield": 26,
+    "sat_ebrw_p50": 650,
+    "sat_math_p50": 670,
+    "act_composite_p50": 31
+   },
+   "2024": {
+    "admit_rate": 50,
+    "applicants": 78745,
+    "yield": 29,
+    "sat_ebrw_p50": 660,
+    "sat_math_p50": 690,
+    "act_composite_p50": 31
+   }
+  }
+ },
+ "Harvard University": {
+  "ipeds_id": "166027",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 6,
+  "admit_rate_end": 4,
+  "admit_rate_pt_change": -2,
+  "applicants_start": 34295,
+  "applicants_end": 54008,
+  "applicants_pct_change": 57.5,
+  "yield_start": 81,
+  "yield_end": 84,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1550,
+  "full_series": {
+   "2014": {
+    "admit_rate": 6,
+    "applicants": 34295,
+    "yield": 81,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 6,
+    "applicants": 37307,
+    "yield": 80,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 5,
+    "applicants": 39041,
+    "yield": 79,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 5,
+    "applicants": 39506,
+    "yield": 83,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 5,
+    "applicants": 42749,
+    "yield": 82,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 5,
+    "applicants": 43330,
+    "yield": 82,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 5,
+    "applicants": 40248,
+    "yield": 70,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 4,
+    "applicants": 57786,
+    "yield": 84,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 3,
+    "applicants": 61221,
+    "yield": 83,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 3,
+    "applicants": 56937,
+    "yield": 84,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2024": {
+    "admit_rate": 4,
+    "applicants": 54008,
+    "yield": 84,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   }
+  }
+ },
+ "Yale University": {
+  "ipeds_id": "130794",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 6,
+  "admit_rate_end": 4,
+  "admit_rate_pt_change": -2,
+  "applicants_start": 30932,
+  "applicants_end": 57517,
+  "applicants_pct_change": 85.9,
+  "yield_start": 70,
+  "yield_end": 70,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1540,
+  "full_series": {
+   "2014": {
+    "admit_rate": 6,
+    "applicants": 30932,
+    "yield": 70,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 7,
+    "applicants": 30236,
+    "yield": 67,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 6,
+    "applicants": 31445,
+    "yield": 69,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 7,
+    "applicants": 32879,
+    "yield": 69,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 6,
+    "applicants": 35301,
+    "yield": 70,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 6,
+    "applicants": 36844,
+    "yield": 69,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 7,
+    "applicants": 35220,
+    "yield": 55,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 5,
+    "applicants": 47240,
+    "yield": 71,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 5,
+    "applicants": 50060,
+    "yield": 68,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 5,
+    "applicants": 51803,
+    "yield": 70,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   },
+   "2024": {
+    "admit_rate": 4,
+    "applicants": 57517,
+    "yield": 70,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   }
+  }
+ },
+ "University of Pennsylvania": {
+  "ipeds_id": "215062",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 10,
+  "admit_rate_end": 5,
+  "admit_rate_pt_change": -5,
+  "applicants_start": 35866,
+  "applicants_end": 65226,
+  "applicants_pct_change": 81.9,
+  "yield_start": 65,
+  "yield_end": 68,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1550,
+  "full_series": {
+   "2014": {
+    "admit_rate": 10,
+    "applicants": 35866,
+    "yield": 65,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 10,
+    "applicants": 37268,
+    "yield": 64,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 9,
+    "applicants": 38918,
+    "yield": 68,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 9,
+    "applicants": 40413,
+    "yield": 65,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 8,
+    "applicants": 44491,
+    "yield": 67,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 8,
+    "applicants": 44961,
+    "yield": 70,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 9,
+    "applicants": 42205,
+    "yield": 61,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 6,
+    "applicants": 56332,
+    "yield": 73,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 7,
+    "applicants": 54588,
+    "yield": 68,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 6,
+    "applicants": 59465,
+    "yield": 69,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2024": {
+    "admit_rate": 5,
+    "applicants": 65226,
+    "yield": 68,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   }
+  }
+ },
+ "Columbia University": {
+  "ipeds_id": "190150",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 7,
+  "admit_rate_end": 4,
+  "admit_rate_pt_change": -3,
+  "applicants_start": 32967,
+  "applicants_end": 60115,
+  "applicants_pct_change": 82.3,
+  "yield_start": 62,
+  "yield_end": 65,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1550,
+  "full_series": {
+   "2014": {
+    "admit_rate": 7,
+    "applicants": 32967,
+    "yield": 62,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 7,
+    "applicants": 36911,
+    "yield": 63,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 7,
+    "applicants": 37009,
+    "yield": 62,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 6,
+    "applicants": 37673,
+    "yield": 61,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 6,
+    "applicants": 40572,
+    "yield": 62,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 5,
+    "applicants": 42823,
+    "yield": 63,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 7,
+    "applicants": 40462,
+    "yield": 56,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 4,
+    "applicants": 61110,
+    "yield": 65,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 4,
+    "applicants": 60879,
+    "yield": 64,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 780,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 4,
+    "applicants": 57613,
+    "yield": 63,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 35
+   },
+   "2024": {
+    "admit_rate": 4,
+    "applicants": 60115,
+    "yield": 65,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   }
+  }
+ },
+ "Duke University": {
+  "ipeds_id": "198419",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 11,
+  "admit_rate_end": 6,
+  "admit_rate_pt_change": -5,
+  "applicants_start": 31523,
+  "applicants_end": 51795,
+  "applicants_pct_change": 64.3,
+  "yield_start": 48,
+  "yield_end": 59,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1540,
+  "full_series": {
+   "2014": {
+    "admit_rate": 11,
+    "applicants": 31523,
+    "yield": 48,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 11,
+    "applicants": 31220,
+    "yield": 49,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 11,
+    "applicants": 31671,
+    "yield": 50,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 10,
+    "applicants": 33077,
+    "yield": 54,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 9,
+    "applicants": 35786,
+    "yield": 55,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 8,
+    "applicants": 41947,
+    "yield": 54,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 8,
+    "applicants": 39639,
+    "yield": 51,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 6,
+    "applicants": 49703,
+    "yield": 60,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 6,
+    "applicants": 50016,
+    "yield": 55,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 7,
+    "applicants": 46365,
+    "yield": 55,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 34
+   },
+   "2024": {
+    "admit_rate": 6,
+    "applicants": 51795,
+    "yield": 59,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 35
+   }
+  }
+ },
+ "Northwestern University": {
+  "ipeds_id": "147767",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 13,
+  "admit_rate_end": 8,
+  "admit_rate_pt_change": -5,
+  "applicants_start": 33674,
+  "applicants_end": 49474,
+  "applicants_pct_change": 46.9,
+  "yield_start": 46,
+  "yield_end": 55,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1540,
+  "full_series": {
+   "2014": {
+    "admit_rate": 13,
+    "applicants": 33674,
+    "yield": 46,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 13,
+    "applicants": 32122,
+    "yield": 48,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 11,
+    "applicants": 35100,
+    "yield": 53,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 9,
+    "applicants": 37259,
+    "yield": 55,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 8,
+    "applicants": 40425,
+    "yield": 56,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 9,
+    "applicants": 40585,
+    "yield": 55,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 9,
+    "applicants": 39263,
+    "yield": 52,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 7,
+    "applicants": 47636,
+    "yield": 63,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 7,
+    "applicants": 51261,
+    "yield": 55,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   },
+   "2023": {
+    "admit_rate": 7,
+    "applicants": 51769,
+    "yield": 57,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   },
+   "2024": {
+    "admit_rate": 8,
+    "applicants": 49474,
+    "yield": 55,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   }
+  }
+ },
+ "Johns Hopkins University": {
+  "ipeds_id": "162928",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 16,
+  "admit_rate_end": 6,
+  "admit_rate_pt_change": -10,
+  "applicants_start": 24590,
+  "applicants_end": 45895,
+  "applicants_pct_change": 86.6,
+  "yield_start": 37,
+  "yield_end": 47,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1550,
+  "full_series": {
+   "2014": {
+    "admit_rate": 16,
+    "applicants": 24590,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 14,
+    "applicants": 25474,
+    "yield": 38,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 13,
+    "applicants": 27852,
+    "yield": 38,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 13,
+    "applicants": 27156,
+    "yield": 42,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 11,
+    "applicants": 29776,
+    "yield": 42,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 11,
+    "applicants": 31139,
+    "yield": 42,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 11,
+    "applicants": 30115,
+    "yield": 42,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 8,
+    "applicants": 39515,
+    "yield": 48,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 8,
+    "applicants": 37844,
+    "yield": 49,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 8,
+    "applicants": 38926,
+    "yield": 48,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2024": {
+    "admit_rate": 6,
+    "applicants": 45895,
+    "yield": 47,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   }
+  }
+ },
+ "Dartmouth College": {
+  "ipeds_id": "182670",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 12,
+  "admit_rate_end": 5,
+  "admit_rate_pt_change": -7,
+  "applicants_start": 19297,
+  "applicants_end": 31656,
+  "applicants_pct_change": 64.0,
+  "yield_start": 52,
+  "yield_end": 69,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1540,
+  "full_series": {
+   "2014": {
+    "admit_rate": 12,
+    "applicants": 19297,
+    "yield": 52,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 11,
+    "applicants": 20507,
+    "yield": 50,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 11,
+    "applicants": 20675,
+    "yield": 51,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 10,
+    "applicants": 20035,
+    "yield": 58,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 9,
+    "applicants": 22033,
+    "yield": 61,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 8,
+    "applicants": 23650,
+    "yield": 63,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 9,
+    "applicants": 21392,
+    "yield": 54,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 6,
+    "applicants": 28356,
+    "yield": 70,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 6,
+    "applicants": 28336,
+    "yield": 62,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 34
+   },
+   "2023": {
+    "admit_rate": 6,
+    "applicants": 28841,
+    "yield": 67,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   },
+   "2024": {
+    "admit_rate": 5,
+    "applicants": 31656,
+    "yield": 69,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   }
+  }
+ },
+ "Brown University": {
+  "ipeds_id": "217156",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 9,
+  "admit_rate_end": 5,
+  "admit_rate_pt_change": -4,
+  "applicants_start": 30431,
+  "applicants_end": 48904,
+  "applicants_pct_change": 60.7,
+  "yield_start": 59,
+  "yield_end": 65,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1540,
+  "full_series": {
+   "2014": {
+    "admit_rate": 9,
+    "applicants": 30431,
+    "yield": 59,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 9,
+    "applicants": 30396,
+    "yield": 56,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 9,
+    "applicants": 32390,
+    "yield": 56,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 8,
+    "applicants": 32723,
+    "yield": 59,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 8,
+    "applicants": 35437,
+    "yield": 61,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 7,
+    "applicants": 38674,
+    "yield": 61,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 8,
+    "applicants": 36793,
+    "yield": 62,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 6,
+    "applicants": 46568,
+    "yield": 66,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 5,
+    "applicants": 50649,
+    "yield": 67,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 5,
+    "applicants": 51316,
+    "yield": 63,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 35
+   },
+   "2024": {
+    "admit_rate": 5,
+    "applicants": 48904,
+    "yield": 65,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 35
+   }
+  }
+ },
+ "Vanderbilt University": {
+  "ipeds_id": "221999",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 13,
+  "admit_rate_end": 6,
+  "admit_rate_pt_change": -7,
+  "applicants_start": 29518,
+  "applicants_end": 45409,
+  "applicants_pct_change": 53.8,
+  "yield_start": 42,
+  "yield_end": 61,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1540,
+  "full_series": {
+   "2014": {
+    "admit_rate": 13,
+    "applicants": 29518,
+    "yield": 42,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 12,
+    "applicants": 31464,
+    "yield": 44,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 11,
+    "applicants": 32442,
+    "yield": 46,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 11,
+    "applicants": 31462,
+    "yield": 47,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 10,
+    "applicants": 34313,
+    "yield": 49,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 9,
+    "applicants": 37310,
+    "yield": 47,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 12,
+    "applicants": 36646,
+    "yield": 40,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 7,
+    "applicants": 47152,
+    "yield": 48,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 7,
+    "applicants": 46377,
+    "yield": 52,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 780,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 6,
+    "applicants": 45313,
+    "yield": 57,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 35
+   },
+   "2024": {
+    "admit_rate": 6,
+    "applicants": 45409,
+    "yield": 61,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   }
+  }
+ },
+ "Rice University": {
+  "ipeds_id": "227757",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 15,
+  "admit_rate_end": 8,
+  "admit_rate_pt_change": -7,
+  "applicants_start": 17728,
+  "applicants_end": 32473,
+  "applicants_pct_change": 83.2,
+  "yield_start": 35,
+  "yield_end": 44,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1550,
+  "full_series": {
+   "2014": {
+    "admit_rate": 15,
+    "applicants": 17728,
+    "yield": 35,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 16,
+    "applicants": 17951,
+    "yield": 34,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 15,
+    "applicants": 18236,
+    "yield": 35,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 16,
+    "applicants": 18063,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 11,
+    "applicants": 20923,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 9,
+    "applicants": 27087,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 11,
+    "applicants": 23455,
+    "yield": 39,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 9,
+    "applicants": 29544,
+    "yield": 44,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 9,
+    "applicants": 31443,
+    "yield": 44,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 8,
+    "applicants": 31059,
+    "yield": 46,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2024": {
+    "admit_rate": 8,
+    "applicants": 32473,
+    "yield": 44,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   }
+  }
+ },
+ "University of Notre Dame": {
+  "ipeds_id": "152080",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 21,
+  "admit_rate_end": 11,
+  "admit_rate_pt_change": -10,
+  "applicants_start": 17901,
+  "applicants_end": 29942,
+  "applicants_pct_change": 67.3,
+  "yield_start": 53,
+  "yield_end": 62,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1520,
+  "full_series": {
+   "2014": {
+    "admit_rate": 21,
+    "applicants": 17901,
+    "yield": 53,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 20,
+    "applicants": 18157,
+    "yield": 56,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 19,
+    "applicants": 19505,
+    "yield": 56,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 19,
+    "applicants": 19564,
+    "yield": 55,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 18,
+    "applicants": 20371,
+    "yield": 57,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 16,
+    "applicants": 22200,
+    "yield": 58,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 19,
+    "applicants": 21253,
+    "yield": 54,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 15,
+    "applicants": 23642,
+    "yield": 58,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 13,
+    "applicants": 26509,
+    "yield": 60,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 770,
+    "act_composite_p50": 34
+   },
+   "2023": {
+    "admit_rate": 12,
+    "applicants": 28353,
+    "yield": 59,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 760,
+    "act_composite_p50": 34
+   },
+   "2024": {
+    "admit_rate": 11,
+    "applicants": 29942,
+    "yield": 62,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 770,
+    "act_composite_p50": 34
+   }
+  }
+ },
+ "University of Chicago": {
+  "ipeds_id": "144050",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 9,
+  "admit_rate_end": 4,
+  "admit_rate_pt_change": -5,
+  "applicants_start": 27500,
+  "applicants_end": 43612,
+  "applicants_pct_change": 58.6,
+  "yield_start": 60,
+  "yield_end": 88,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1550,
+  "full_series": {
+   "2014": {
+    "admit_rate": 9,
+    "applicants": 27500,
+    "yield": 60,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 8,
+    "applicants": 30069,
+    "yield": 61,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 8,
+    "applicants": 31484,
+    "yield": 64,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 9,
+    "applicants": 27694,
+    "yield": 72,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 7,
+    "applicants": 32283,
+    "yield": 77,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 6,
+    "applicants": 34641,
+    "yield": 81,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 7,
+    "applicants": 34350,
+    "yield": 74,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 6,
+    "applicants": 37974,
+    "yield": 83,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 5,
+    "applicants": 37522,
+    "yield": 85,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   },
+   "2023": {
+    "admit_rate": 5,
+    "applicants": 38631,
+    "yield": 88,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   },
+   "2024": {
+    "admit_rate": 4,
+    "applicants": 43612,
+    "yield": 88,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   }
+  }
+ },
+ "University of California, Los Angeles": {
+  "ipeds_id": "110662",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 19,
+  "admit_rate_end": 9,
+  "admit_rate_pt_change": -10,
+  "applicants_start": 86537,
+  "applicants_end": 146272,
+  "applicants_pct_change": 69.0,
+  "yield_start": 36,
+  "yield_end": 50,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": null,
+  "full_series": {
+   "2014": {
+    "admit_rate": 19,
+    "applicants": 86537,
+    "yield": 36,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 17,
+    "applicants": 92690,
+    "yield": 35,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 18,
+    "applicants": 97112,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 16,
+    "applicants": 102225,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 14,
+    "applicants": 113754,
+    "yield": 39,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 12,
+    "applicants": 111321,
+    "yield": 43,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 14,
+    "applicants": 108870,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 11,
+    "applicants": 139489,
+    "yield": 44,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 9,
+    "applicants": 149801,
+    "yield": 50,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2023": {
+    "admit_rate": 9,
+    "applicants": 145903,
+    "yield": 52,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2024": {
+    "admit_rate": 9,
+    "applicants": 146272,
+    "yield": 50,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   }
+  }
+ },
+ "University of California, San Diego": {
+  "ipeds_id": "110680",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 33,
+  "admit_rate_end": 27,
+  "admit_rate_pt_change": -6,
+  "applicants_start": 73448,
+  "applicants_end": 134450,
+  "applicants_pct_change": 83.1,
+  "yield_start": 20,
+  "yield_end": 20,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": null,
+  "full_series": {
+   "2014": {
+    "admit_rate": 33,
+    "applicants": 73448,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 34,
+    "applicants": 78061,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 36,
+    "applicants": 84208,
+    "yield": 19,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 34,
+    "applicants": 88446,
+    "yield": 19,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 30,
+    "applicants": 97894,
+    "yield": 23,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 31,
+    "applicants": 99114,
+    "yield": 19,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 37,
+    "applicants": 100062,
+    "yield": 18,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 34,
+    "applicants": 118386,
+    "yield": 19,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 24,
+    "applicants": 131197,
+    "yield": 21,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2023": {
+    "admit_rate": 25,
+    "applicants": 130771,
+    "yield": 22,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2024": {
+    "admit_rate": 27,
+    "applicants": 134450,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   }
+  }
+ },
+ "University of California, Santa Barbara": {
+  "ipeds_id": "110705",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 36,
+  "admit_rate_end": 33,
+  "admit_rate_pt_change": -3,
+  "applicants_start": 66813,
+  "applicants_end": 110259,
+  "applicants_pct_change": 65.0,
+  "yield_start": 20,
+  "yield_end": 14,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": null,
+  "full_series": {
+   "2014": {
+    "admit_rate": 36,
+    "applicants": 66813,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 33,
+    "applicants": 70536,
+    "yield": 19,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 36,
+    "applicants": 77112,
+    "yield": 18,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 33,
+    "applicants": 81824,
+    "yield": 17,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 32,
+    "applicants": 92306,
+    "yield": 17,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 30,
+    "applicants": 93446,
+    "yield": 18,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 37,
+    "applicants": 90961,
+    "yield": 15,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 29,
+    "applicants": 105641,
+    "yield": 16,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 26,
+    "applicants": 110995,
+    "yield": 17,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2023": {
+    "admit_rate": 28,
+    "applicants": 110871,
+    "yield": 16,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2024": {
+    "admit_rate": 33,
+    "applicants": 110259,
+    "yield": 14,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   }
+  }
+ },
+ "University of California, Irvine": {
+  "ipeds_id": "110653",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 37,
+  "admit_rate_end": 29,
+  "admit_rate_pt_change": -8,
+  "applicants_start": 66515,
+  "applicants_end": 122699,
+  "applicants_pct_change": 84.5,
+  "yield_start": 22,
+  "yield_end": 19,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": null,
+  "full_series": {
+   "2014": {
+    "admit_rate": 37,
+    "applicants": 66515,
+    "yield": 22,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 39,
+    "applicants": 71775,
+    "yield": 21,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 41,
+    "applicants": 77816,
+    "yield": 21,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 37,
+    "applicants": 85092,
+    "yield": 21,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 29,
+    "applicants": 95059,
+    "yield": 21,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 27,
+    "applicants": 95565,
+    "yield": 24,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 30,
+    "applicants": 97938,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 29,
+    "applicants": 107950,
+    "yield": 21,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 21,
+    "applicants": 119191,
+    "yield": 22,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2023": {
+    "admit_rate": 26,
+    "applicants": 121101,
+    "yield": 22,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2024": {
+    "admit_rate": 29,
+    "applicants": 122699,
+    "yield": 19,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   }
+  }
+ },
+ "University of California, Davis": {
+  "ipeds_id": "110644",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 40,
+  "admit_rate_end": 42,
+  "admit_rate_pt_change": 2,
+  "applicants_start": 60543,
+  "applicants_end": 98864,
+  "applicants_pct_change": 63.3,
+  "yield_start": 22,
+  "yield_end": 16,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": null,
+  "full_series": {
+   "2014": {
+    "admit_rate": 40,
+    "applicants": 60543,
+    "yield": 22,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 38,
+    "applicants": 64602,
+    "yield": 22,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 42,
+    "applicants": 68553,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 43,
+    "applicants": 70952,
+    "yield": 19,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 41,
+    "applicants": 78022,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 39,
+    "applicants": 78093,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 46,
+    "applicants": 76897,
+    "yield": 17,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 49,
+    "applicants": 87120,
+    "yield": 18,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 37,
+    "applicants": 94747,
+    "yield": 18,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2023": {
+    "admit_rate": 42,
+    "applicants": 94637,
+    "yield": 17,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2024": {
+    "admit_rate": 42,
+    "applicants": 98864,
+    "yield": 16,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   }
+  }
+ },
+ "University of Wisconsin-Madison": {
+  "ipeds_id": "240444",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 57,
+  "admit_rate_end": 45,
+  "admit_rate_pt_change": -12,
+  "applicants_start": 25438,
+  "applicants_end": 65894,
+  "applicants_pct_change": 159.0,
+  "yield_start": 43,
+  "yield_end": 29,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1460,
+  "full_series": {
+   "2014": {
+    "admit_rate": 57,
+    "applicants": 25438,
+    "yield": 43,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 58,
+    "applicants": 28007,
+    "yield": 39,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 53,
+    "applicants": 32839,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 54,
+    "applicants": 35596,
+    "yield": 35,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 52,
+    "applicants": 42727,
+    "yield": 31,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 54,
+    "applicants": 43896,
+    "yield": 32,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 57,
+    "applicants": 45915,
+    "yield": 28,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 60,
+    "applicants": 53781,
+    "yield": 26,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 49,
+    "applicants": 60214,
+    "yield": 29,
+    "sat_ebrw_p50": 690,
+    "sat_math_p50": 740,
+    "act_composite_p50": 29
+   },
+   "2023": {
+    "admit_rate": 43,
+    "applicants": 63505,
+    "yield": 29,
+    "sat_ebrw_p50": 700,
+    "sat_math_p50": 750,
+    "act_composite_p50": 30
+   },
+   "2024": {
+    "admit_rate": 45,
+    "applicants": 65894,
+    "yield": 29,
+    "sat_ebrw_p50": 710,
+    "sat_math_p50": 750,
+    "act_composite_p50": 31
+   }
+  }
+ },
+ "University of Maryland, College Park": {
+  "ipeds_id": "163286",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 48,
+  "admit_rate_end": 45,
+  "admit_rate_pt_change": -3,
+  "applicants_start": 26340,
+  "applicants_end": 60056,
+  "applicants_pct_change": 128.0,
+  "yield_start": 33,
+  "yield_end": 22,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1465,
+  "full_series": {
+   "2014": {
+    "admit_rate": 48,
+    "applicants": 26340,
+    "yield": 33,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 45,
+    "applicants": 28434,
+    "yield": 31,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 48,
+    "applicants": 30291,
+    "yield": 31,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 45,
+    "applicants": 33922,
+    "yield": 28,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 47,
+    "applicants": 33497,
+    "yield": 30,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 44,
+    "applicants": 33012,
+    "yield": 29,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 51,
+    "applicants": 32147,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 52,
+    "applicants": 50183,
+    "yield": 23,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 45,
+    "applicants": 56761,
+    "yield": 23,
+    "sat_ebrw_p50": 710,
+    "sat_math_p50": 750,
+    "act_composite_p50": 33
+   },
+   "2023": {
+    "admit_rate": 45,
+    "applicants": 59377,
+    "yield": 23,
+    "sat_ebrw_p50": 710,
+    "sat_math_p50": 750,
+    "act_composite_p50": 33
+   },
+   "2024": {
+    "admit_rate": 45,
+    "applicants": 60056,
+    "yield": 22,
+    "sat_ebrw_p50": 720,
+    "sat_math_p50": 745,
+    "act_composite_p50": 34
+   }
+  }
+ },
+ "Virginia Tech": {
+  "ipeds_id": "233921",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 73,
+  "admit_rate_end": 55,
+  "admit_rate_pt_change": -18,
+  "applicants_start": 20744,
+  "applicants_end": 52498,
+  "applicants_pct_change": 153.1,
+  "yield_start": 36,
+  "yield_end": 25,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1360,
+  "full_series": {
+   "2014": {
+    "admit_rate": 73,
+    "applicants": 20744,
+    "yield": 36,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 73,
+    "applicants": 22280,
+    "yield": 39,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 71,
+    "applicants": 25000,
+    "yield": 33,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 70,
+    "applicants": 27423,
+    "yield": 36,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 65,
+    "applicants": 31936,
+    "yield": 30,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 70,
+    "applicants": 31974,
+    "yield": 34,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 66,
+    "applicants": 30771,
+    "yield": 33,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 56,
+    "applicants": 42054,
+    "yield": 28,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 57,
+    "applicants": 45321,
+    "yield": 28,
+    "sat_ebrw_p50": 660,
+    "sat_math_p50": 670,
+    "act_composite_p50": 30
+   },
+   "2023": {
+    "admit_rate": 57,
+    "applicants": 47208,
+    "yield": 27,
+    "sat_ebrw_p50": 660,
+    "sat_math_p50": 670,
+    "act_composite_p50": 30
+   },
+   "2024": {
+    "admit_rate": 55,
+    "applicants": 52498,
+    "yield": 25,
+    "sat_ebrw_p50": 670,
+    "sat_math_p50": 690,
+    "act_composite_p50": 30
+   }
+  }
+ },
+ "Northeastern University": {
+  "ipeds_id": "167358",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 32,
+  "admit_rate_end": 5,
+  "admit_rate_pt_change": -27,
+  "applicants_start": 49819,
+  "applicants_end": 98425,
+  "applicants_pct_change": 97.6,
+  "yield_start": 18,
+  "yield_end": 54,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1490,
+  "full_series": {
+   "2014": {
+    "admit_rate": 32,
+    "applicants": 49819,
+    "yield": 18,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 28,
+    "applicants": 50523,
+    "yield": 19,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 29,
+    "applicants": 51063,
+    "yield": 18,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 27,
+    "applicants": 54209,
+    "yield": 21,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 19,
+    "applicants": 62272,
+    "yield": 23,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 18,
+    "applicants": 62263,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 20,
+    "applicants": 64459,
+    "yield": 24,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 18,
+    "applicants": 75244,
+    "yield": 33,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 7,
+    "applicants": 91000,
+    "yield": 41,
+    "sat_ebrw_p50": 730,
+    "sat_math_p50": 770,
+    "act_composite_p50": 34
+   },
+   "2023": {
+    "admit_rate": 6,
+    "applicants": 96631,
+    "yield": 50,
+    "sat_ebrw_p50": 730,
+    "sat_math_p50": 770,
+    "act_composite_p50": 34
+   },
+   "2024": {
+    "admit_rate": 5,
+    "applicants": 98425,
+    "yield": 54,
+    "sat_ebrw_p50": 730,
+    "sat_math_p50": 760,
+    "act_composite_p50": 34
+   }
+  }
+ },
+ "University of Southern California": {
+  "ipeds_id": "123961",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 18,
+  "admit_rate_end": 10,
+  "admit_rate_pt_change": -8,
+  "applicants_start": 51920,
+  "applicants_end": 82027,
+  "applicants_pct_change": 58.0,
+  "yield_start": 33,
+  "yield_end": 43,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1500,
+  "full_series": {
+   "2014": {
+    "admit_rate": 18,
+    "applicants": 51920,
+    "yield": 33,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 18,
+    "applicants": 51924,
+    "yield": 32,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 17,
+    "applicants": 54280,
+    "yield": 34,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 16,
+    "applicants": 56676,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 13,
+    "applicants": 64352,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 11,
+    "applicants": 66198,
+    "yield": 42,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 16,
+    "applicants": 59712,
+    "yield": 36,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 13,
+    "applicants": 71031,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 12,
+    "applicants": 69062,
+    "yield": 41,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   },
+   "2023": {
+    "admit_rate": 10,
+    "applicants": 80808,
+    "yield": 45,
+    "sat_ebrw_p50": 730,
+    "sat_math_p50": 780,
+    "act_composite_p50": 33
+   },
+   "2024": {
+    "admit_rate": 10,
+    "applicants": 82027,
+    "yield": 43,
+    "sat_ebrw_p50": 730,
+    "sat_math_p50": 770,
+    "act_composite_p50": 33
+   }
+  }
+ },
+ "New York University": {
+  "ipeds_id": "193900",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 35,
+  "admit_rate_end": 9,
+  "admit_rate_pt_change": -26,
+  "applicants_start": 50804,
+  "applicants_end": 110807,
+  "applicants_pct_change": 118.1,
+  "yield_start": 33,
+  "yield_end": 55,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1520,
+  "full_series": {
+   "2014": {
+    "admit_rate": 35,
+    "applicants": 50804,
+    "yield": 33,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 32,
+    "applicants": 57727,
+    "yield": 32,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 32,
+    "applicants": 60724,
+    "yield": 32,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 28,
+    "applicants": 64007,
+    "yield": 34,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 20,
+    "applicants": 71834,
+    "yield": 43,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 16,
+    "applicants": 79462,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 21,
+    "applicants": 80210,
+    "yield": 40,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 13,
+    "applicants": 95517,
+    "yield": 49,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 12,
+    "applicants": 100662,
+    "yield": 49,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   },
+   "2023": {
+    "admit_rate": 9,
+    "applicants": 113578,
+    "yield": 54,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   },
+   "2024": {
+    "admit_rate": 9,
+    "applicants": 110807,
+    "yield": 55,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   }
+  }
+ },
+ "Washington University in St. Louis": {
+  "ipeds_id": "179867",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 17,
+  "admit_rate_end": 12,
+  "admit_rate_pt_change": -5,
+  "applicants_start": 29211,
+  "applicants_end": 32754,
+  "applicants_pct_change": 12.1,
+  "yield_start": 35,
+  "yield_end": 47,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1540,
+  "full_series": {
+   "2014": {
+    "admit_rate": 17,
+    "applicants": 29211,
+    "yield": 35,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 17,
+    "applicants": 29259,
+    "yield": 35,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 17,
+    "applicants": 29197,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 16,
+    "applicants": 30463,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 15,
+    "applicants": 31320,
+    "yield": 38,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 14,
+    "applicants": 25426,
+    "yield": 49,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 16,
+    "applicants": 27949,
+    "yield": 40,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 13,
+    "applicants": 33634,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 12,
+    "applicants": 32014,
+    "yield": 48,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   },
+   "2023": {
+    "admit_rate": 12,
+    "applicants": 32240,
+    "yield": 47,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 790,
+    "act_composite_p50": 34
+   },
+   "2024": {
+    "admit_rate": 12,
+    "applicants": 32754,
+    "yield": 47,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 790,
+    "act_composite_p50": 34
+   }
+  }
+ },
+ "Emory University": {
+  "ipeds_id": "139658",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 27,
+  "admit_rate_end": 11,
+  "admit_rate_pt_change": -16,
+  "applicants_start": 17796,
+  "applicants_end": 33450,
+  "applicants_pct_change": 88.0,
+  "yield_start": 29,
+  "yield_end": 40,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1520,
+  "full_series": {
+   "2014": {
+    "admit_rate": 27,
+    "applicants": 17796,
+    "yield": 29,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 24,
+    "applicants": 20492,
+    "yield": 28,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 25,
+    "applicants": 19924,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 22,
+    "applicants": 23747,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 19,
+    "applicants": 27559,
+    "yield": 28,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 16,
+    "applicants": 30017,
+    "yield": 29,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 19,
+    "applicants": 28211,
+    "yield": 25,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 13,
+    "applicants": 33435,
+    "yield": 34,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 11,
+    "applicants": 33179,
+    "yield": 38,
+    "sat_ebrw_p50": 730,
+    "sat_math_p50": 770,
+    "act_composite_p50": 33
+   },
+   "2023": {
+    "admit_rate": 11,
+    "applicants": 31929,
+    "yield": 40,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 780,
+    "act_composite_p50": 33
+   },
+   "2024": {
+    "admit_rate": 11,
+    "applicants": 33450,
+    "yield": 40,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   }
+  }
+ },
+ "University of Virginia": {
+  "ipeds_id": "234076",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 29,
+  "admit_rate_end": 17,
+  "admit_rate_pt_change": -12,
+  "applicants_start": 31021,
+  "applicants_end": 58951,
+  "applicants_pct_change": 90.0,
+  "yield_start": 41,
+  "yield_end": 40,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1480,
+  "full_series": {
+   "2014": {
+    "admit_rate": 29,
+    "applicants": 31021,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 30,
+    "applicants": 30840,
+    "yield": 40,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 30,
+    "applicants": 32377,
+    "yield": 38,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 27,
+    "applicants": 36779,
+    "yield": 38,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 26,
+    "applicants": 37182,
+    "yield": 39,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 24,
+    "applicants": 40839,
+    "yield": 40,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 23,
+    "applicants": 40879,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 21,
+    "applicants": 47971,
+    "yield": 39,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 19,
+    "applicants": 50926,
+    "yield": 42,
+    "sat_ebrw_p50": 730,
+    "sat_math_p50": 760,
+    "act_composite_p50": 33
+   },
+   "2023": {
+    "admit_rate": 17,
+    "applicants": 56528,
+    "yield": 42,
+    "sat_ebrw_p50": 730,
+    "sat_math_p50": 760,
+    "act_composite_p50": 33
+   },
+   "2024": {
+    "admit_rate": 17,
+    "applicants": 58951,
+    "yield": 40,
+    "sat_ebrw_p50": 730,
+    "sat_math_p50": 750,
+    "act_composite_p50": 33
+   }
+  }
+ },
+ "University of North Carolina at Chapel Hill": {
+  "ipeds_id": "199120",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 28,
+  "admit_rate_end": 15,
+  "admit_rate_pt_change": -13,
+  "applicants_start": 31332,
+  "applicants_end": 66535,
+  "applicants_pct_change": 112.4,
+  "yield_start": 45,
+  "yield_end": 45,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1480,
+  "full_series": {
+   "2014": {
+    "admit_rate": 28,
+    "applicants": 31332,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 31,
+    "applicants": 31143,
+    "yield": 43,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 27,
+    "applicants": 34889,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 24,
+    "applicants": 39650,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 23,
+    "applicants": 41939,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 23,
+    "applicants": 42465,
+    "yield": 44,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 25,
+    "applicants": 41773,
+    "yield": 43,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 20,
+    "applicants": 50729,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 17,
+    "applicants": 56341,
+    "yield": 46,
+    "sat_ebrw_p50": 720,
+    "sat_math_p50": 740,
+    "act_composite_p50": 32
+   },
+   "2023": {
+    "admit_rate": 19,
+    "applicants": 57902,
+    "yield": 43,
+    "sat_ebrw_p50": 720,
+    "sat_math_p50": 750,
+    "act_composite_p50": 32
+   },
+   "2024": {
+    "admit_rate": 15,
+    "applicants": 66535,
+    "yield": 45,
+    "sat_ebrw_p50": 730,
+    "sat_math_p50": 750,
+    "act_composite_p50": 31
+   }
+  }
+ },
+ "Boston University": {
+  "ipeds_id": "164988",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 35,
+  "admit_rate_end": 11,
+  "admit_rate_pt_change": -24,
+  "applicants_start": 54190,
+  "applicants_end": 78769,
+  "applicants_pct_change": 45.4,
+  "yield_start": 21,
+  "yield_end": 37,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1480,
+  "full_series": {
+   "2014": {
+    "admit_rate": 35,
+    "applicants": 54190,
+    "yield": 21,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 33,
+    "applicants": 54781,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 29,
+    "applicants": 57441,
+    "yield": 21,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 25,
+    "applicants": 60825,
+    "yield": 23,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 22,
+    "applicants": 64481,
+    "yield": 25,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 19,
+    "applicants": 62224,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 20,
+    "applicants": 61007,
+    "yield": 24,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 19,
+    "applicants": 75778,
+    "yield": 28,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 14,
+    "applicants": 80796,
+    "yield": 31,
+    "sat_ebrw_p50": 700,
+    "sat_math_p50": 740,
+    "act_composite_p50": 33
+   },
+   "2023": {
+    "admit_rate": 11,
+    "applicants": 80495,
+    "yield": 36,
+    "sat_ebrw_p50": 710,
+    "sat_math_p50": 760,
+    "act_composite_p50": 33
+   },
+   "2024": {
+    "admit_rate": 11,
+    "applicants": 78769,
+    "yield": 37,
+    "sat_ebrw_p50": 720,
+    "sat_math_p50": 760,
+    "act_composite_p50": 33
+   }
+  }
+ },
+ "Case Western Reserve University": {
+  "ipeds_id": "201645",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 38,
+  "admit_rate_end": 37,
+  "admit_rate_pt_change": -1,
+  "applicants_start": 21733,
+  "applicants_end": 37082,
+  "applicants_pct_change": 70.6,
+  "yield_start": 15,
+  "yield_end": 12,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1510,
+  "full_series": {
+   "2014": {
+    "admit_rate": 38,
+    "applicants": 21733,
+    "yield": 15,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 36,
+    "applicants": 22807,
+    "yield": 15,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 35,
+    "applicants": 23115,
+    "yield": 15,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 33,
+    "applicants": 25380,
+    "yield": 16,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 29,
+    "applicants": 26642,
+    "yield": 18,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 27,
+    "applicants": 28786,
+    "yield": 17,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 30,
+    "applicants": 29084,
+    "yield": 15,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 30,
+    "applicants": 33232,
+    "yield": 16,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 27,
+    "applicants": 38701,
+    "yield": 15,
+    "sat_ebrw_p50": 720,
+    "sat_math_p50": 770,
+    "act_composite_p50": 33
+   },
+   "2023": {
+    "admit_rate": 29,
+    "applicants": 39033,
+    "yield": 14,
+    "sat_ebrw_p50": 720,
+    "sat_math_p50": 770,
+    "act_composite_p50": 34
+   },
+   "2024": {
+    "admit_rate": 37,
+    "applicants": 37082,
+    "yield": 12,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 770,
+    "act_composite_p50": 34
+   }
+  }
+ },
+ "Rensselaer Polytechnic Institute": {
+  "ipeds_id": "194824",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 38,
+  "admit_rate_end": 63,
+  "admit_rate_pt_change": 25,
+  "applicants_start": 18602,
+  "applicants_end": 17175,
+  "applicants_pct_change": -7.7,
+  "yield_start": 19,
+  "yield_end": 12,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1450,
+  "full_series": {
+   "2014": {
+    "admit_rate": 38,
+    "applicants": 18602,
+    "yield": 19,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 42,
+    "applicants": 17752,
+    "yield": 19,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 44,
+    "applicants": 18524,
+    "yield": 21,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 43,
+    "applicants": 19505,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 43,
+    "applicants": 20402,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 47,
+    "applicants": 18635,
+    "yield": 19,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 57,
+    "applicants": 16661,
+    "yield": 15,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 53,
+    "applicants": 17498,
+    "yield": 14,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 65,
+    "applicants": 16863,
+    "yield": 18,
+    "sat_ebrw_p50": 700,
+    "sat_math_p50": 750,
+    "act_composite_p50": 33
+   },
+   "2023": {
+    "admit_rate": 58,
+    "applicants": 16283,
+    "yield": 16,
+    "sat_ebrw_p50": 680,
+    "sat_math_p50": 730,
+    "act_composite_p50": 32
+   },
+   "2024": {
+    "admit_rate": 63,
+    "applicants": 17175,
+    "yield": 12,
+    "sat_ebrw_p50": 710,
+    "sat_math_p50": 740,
+    "act_composite_p50": 33
+   }
+  }
+ },
+ "Worcester Polytechnic Institute": {
+  "ipeds_id": "168421",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 44,
+  "admit_rate_end": 60,
+  "admit_rate_pt_change": 16,
+  "applicants_start": 10233,
+  "applicants_end": 12559,
+  "applicants_pct_change": 22.7,
+  "yield_start": 24,
+  "yield_end": 18,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": null,
+  "full_series": {
+   "2014": {
+    "admit_rate": 44,
+    "applicants": 10233,
+    "yield": 24,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 49,
+    "applicants": 10172,
+    "yield": 22,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 48,
+    "applicants": 10468,
+    "yield": 22,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 48,
+    "applicants": 10331,
+    "yield": 22,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 42,
+    "applicants": 10584,
+    "yield": 29,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 49,
+    "applicants": 10645,
+    "yield": 23,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 59,
+    "applicants": 11269,
+    "yield": 19,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 60,
+    "applicants": 11092,
+    "yield": 21,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 57,
+    "applicants": 11599,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2023": {
+    "admit_rate": 58,
+    "applicants": 11809,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2024": {
+    "admit_rate": 60,
+    "applicants": 12559,
+    "yield": 18,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   }
+  }
+ },
+ "Harvey Mudd College": {
+  "ipeds_id": "115409",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 14,
+  "admit_rate_end": 13,
+  "admit_rate_pt_change": -1,
+  "applicants_start": 3678,
+  "applicants_end": 5094,
+  "applicants_pct_change": 38.5,
+  "yield_start": 37,
+  "yield_end": 36,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1540,
+  "full_series": {
+   "2014": {
+    "admit_rate": 14,
+    "applicants": 3678,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 13,
+    "applicants": 4119,
+    "yield": 40,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 13,
+    "applicants": 4180,
+    "yield": 40,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 15,
+    "applicants": 4078,
+    "yield": 36,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 14,
+    "applicants": 4101,
+    "yield": 39,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 14,
+    "applicants": 4045,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 18,
+    "applicants": 3397,
+    "yield": 34,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 10,
+    "applicants": 4737,
+    "yield": 48,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 13,
+    "applicants": 4440,
+    "yield": 40,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 780,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 13,
+    "applicants": 4792,
+    "yield": 36,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 780,
+    "act_composite_p50": 35
+   },
+   "2024": {
+    "admit_rate": 13,
+    "applicants": 5094,
+    "yield": 36,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 790,
+    "act_composite_p50": 35
+   }
+  }
+ },
+ "University of Rochester": {
+  "ipeds_id": "195030",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 36,
+  "admit_rate_end": 40,
+  "admit_rate_pt_change": 4,
+  "applicants_start": 17428,
+  "applicants_end": 21384,
+  "applicants_pct_change": 22.7,
+  "yield_start": 23,
+  "yield_end": 15,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1490,
+  "full_series": {
+   "2014": {
+    "admit_rate": 36,
+    "applicants": 17428,
+    "yield": 23,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 34,
+    "applicants": 17912,
+    "yield": 23,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 36,
+    "applicants": 17485,
+    "yield": 24,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 34,
+    "applicants": 19058,
+    "yield": 24,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 29,
+    "applicants": 21255,
+    "yield": 24,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 30,
+    "applicants": 21642,
+    "yield": 23,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 35,
+    "applicants": 19607,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 41,
+    "applicants": 19543,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 39,
+    "applicants": 19966,
+    "yield": 21,
+    "sat_ebrw_p50": 710,
+    "sat_math_p50": 760,
+    "act_composite_p50": 33
+   },
+   "2023": {
+    "admit_rate": 36,
+    "applicants": 21680,
+    "yield": 20,
+    "sat_ebrw_p50": 720,
+    "sat_math_p50": 760,
+    "act_composite_p50": 33
+   },
+   "2024": {
+    "admit_rate": 40,
+    "applicants": 21384,
+    "yield": 15,
+    "sat_ebrw_p50": 720,
+    "sat_math_p50": 770,
+    "act_composite_p50": 33
+   }
+  }
+ },
+ "Tufts University": {
+  "ipeds_id": "168148",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 17,
+  "admit_rate_end": 11,
+  "admit_rate_pt_change": -6,
+  "applicants_start": 19074,
+  "applicants_end": 34432,
+  "applicants_pct_change": 80.5,
+  "yield_start": 41,
+  "yield_end": 46,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1510,
+  "full_series": {
+   "2014": {
+    "admit_rate": 17,
+    "applicants": 19074,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 16,
+    "applicants": 19063,
+    "yield": 44,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 14,
+    "applicants": 20223,
+    "yield": 46,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 15,
+    "applicants": 21101,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 15,
+    "applicants": 21501,
+    "yield": 47,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 15,
+    "applicants": 22766,
+    "yield": 47,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 16,
+    "applicants": 23127,
+    "yield": 43,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 11,
+    "applicants": 31198,
+    "yield": 50,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 10,
+    "applicants": 34882,
+    "yield": 50,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 770,
+    "act_composite_p50": 34
+   },
+   "2023": {
+    "admit_rate": 10,
+    "applicants": 34003,
+    "yield": 50,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 770,
+    "act_composite_p50": 34
+   },
+   "2024": {
+    "admit_rate": 11,
+    "applicants": 34432,
+    "yield": 46,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 770,
+    "act_composite_p50": 34
+   }
+  }
+ },
+ "Georgetown University": {
+  "ipeds_id": "131496",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 17,
+  "admit_rate_end": 13,
+  "admit_rate_pt_change": -4,
+  "applicants_start": 19505,
+  "applicants_end": 26131,
+  "applicants_pct_change": 34.0,
+  "yield_start": 47,
+  "yield_end": 47,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1490,
+  "full_series": {
+   "2014": {
+    "admit_rate": 17,
+    "applicants": 19505,
+    "yield": 47,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 17,
+    "applicants": 19478,
+    "yield": 47,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 17,
+    "applicants": 19997,
+    "yield": 47,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 16,
+    "applicants": 21462,
+    "yield": 47,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 15,
+    "applicants": 22872,
+    "yield": 49,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 14,
+    "applicants": 22764,
+    "yield": 48,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 17,
+    "applicants": 21190,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 12,
+    "applicants": 27629,
+    "yield": 48,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 12,
+    "applicants": 26638,
+    "yield": 49,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 760,
+    "act_composite_p50": 34
+   },
+   "2023": {
+    "admit_rate": 13,
+    "applicants": 25485,
+    "yield": 48,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 760,
+    "act_composite_p50": 33
+   },
+   "2024": {
+    "admit_rate": 13,
+    "applicants": 26131,
+    "yield": 47,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 750,
+    "act_composite_p50": 33
+   }
+  }
+ },
+ "University of Florida": {
+  "ipeds_id": "134130",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 46,
+  "admit_rate_end": 24,
+  "admit_rate_pt_change": -22,
+  "applicants_start": 28662,
+  "applicants_end": 73557,
+  "applicants_pct_change": 156.6,
+  "yield_start": 50,
+  "yield_end": 42,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1400,
+  "full_series": {
+   "2014": {
+    "admit_rate": 46,
+    "applicants": 28662,
+    "yield": 50,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 48,
+    "applicants": 29220,
+    "yield": 50,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 46,
+    "applicants": 30118,
+    "yield": 49,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 42,
+    "applicants": 32747,
+    "yield": 47,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 39,
+    "applicants": 38905,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 35,
+    "applicants": 40139,
+    "yield": 47,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 31,
+    "applicants": 48193,
+    "yield": 42,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 30,
+    "applicants": 51207,
+    "yield": 44,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 23,
+    "applicants": 64473,
+    "yield": 44,
+    "sat_ebrw_p50": 690,
+    "sat_math_p50": 700,
+    "act_composite_p50": 31
+   },
+   "2023": {
+    "admit_rate": 24,
+    "applicants": 65375,
+    "yield": 43,
+    "sat_ebrw_p50": 690,
+    "sat_math_p50": 700,
+    "act_composite_p50": 31
+   },
+   "2024": {
+    "admit_rate": 24,
+    "applicants": 73557,
+    "yield": 42,
+    "sat_ebrw_p50": 700,
+    "sat_math_p50": 700,
+    "act_composite_p50": 31
+   }
+  }
+ },
+ "Texas A&M University": {
+  "ipeds_id": "228723",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 71,
+  "admit_rate_end": 57,
+  "admit_rate_pt_change": -14,
+  "applicants_start": 32190,
+  "applicants_end": 54669,
+  "applicants_pct_change": 69.8,
+  "yield_start": 47,
+  "yield_end": 40,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1270,
+  "full_series": {
+   "2014": {
+    "admit_rate": 71,
+    "applicants": 32190,
+    "yield": 47,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 67,
+    "applicants": 33213,
+    "yield": 47,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 67,
+    "applicants": 34780,
+    "yield": 43,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 71,
+    "applicants": 36669,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 68,
+    "applicants": 36000,
+    "yield": 46,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 58,
+    "applicants": 42476,
+    "yield": 43,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 63,
+    "applicants": 42872,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 64,
+    "applicants": 43763,
+    "yield": 44,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 63,
+    "applicants": 43422,
+    "yield": 46,
+    "sat_ebrw_p50": 630,
+    "sat_math_p50": 640,
+    "act_composite_p50": 28
+   },
+   "2023": {
+    "admit_rate": 63,
+    "applicants": 50832,
+    "yield": 43,
+    "sat_ebrw_p50": 630,
+    "sat_math_p50": 630,
+    "act_composite_p50": 28
+   },
+   "2024": {
+    "admit_rate": 57,
+    "applicants": 54669,
+    "yield": 40,
+    "sat_ebrw_p50": 630,
+    "sat_math_p50": 640,
+    "act_composite_p50": 28
+   }
+  }
+ },
+ "Ohio State University": {
+  "ipeds_id": "204796",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 53,
+  "admit_rate_end": 61,
+  "admit_rate_pt_change": 8,
+  "applicants_start": 36788,
+  "applicants_end": 72829,
+  "applicants_pct_change": 98.0,
+  "yield_start": 36,
+  "yield_end": 22,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1400,
+  "full_series": {
+   "2014": {
+    "admit_rate": 53,
+    "applicants": 36788,
+    "yield": 36,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 49,
+    "applicants": 40240,
+    "yield": 35,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 54,
+    "applicants": 44845,
+    "yield": 33,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 48,
+    "applicants": 47782,
+    "yield": 31,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 52,
+    "applicants": 48077,
+    "yield": 32,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 54,
+    "applicants": 47703,
+    "yield": 30,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 68,
+    "applicants": 49087,
+    "yield": 26,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 57,
+    "applicants": 58180,
+    "yield": 25,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 53,
+    "applicants": 65189,
+    "yield": 23,
+    "sat_ebrw_p50": 680,
+    "sat_math_p50": 720,
+    "act_composite_p50": 30
+   },
+   "2023": {
+    "admit_rate": 51,
+    "applicants": 70028,
+    "yield": 23,
+    "sat_ebrw_p50": 680,
+    "sat_math_p50": 720,
+    "act_composite_p50": 31
+   },
+   "2024": {
+    "admit_rate": 61,
+    "applicants": 72829,
+    "yield": 22,
+    "sat_ebrw_p50": 680,
+    "sat_math_p50": 720,
+    "act_composite_p50": 30
+   }
+  }
+ },
+ "University at Buffalo": {
+  "ipeds_id": "196088",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 58,
+  "admit_rate_end": 74,
+  "admit_rate_pt_change": 16,
+  "applicants_start": 24423,
+  "applicants_end": 40856,
+  "applicants_pct_change": 67.3,
+  "yield_start": 25,
+  "yield_end": 14,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1290,
+  "full_series": {
+   "2014": {
+    "admit_rate": 58,
+    "applicants": 24423,
+    "yield": 25,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 60,
+    "applicants": 23629,
+    "yield": 26,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 59,
+    "applicants": 26001,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 57,
+    "applicants": 27798,
+    "yield": 26,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 56,
+    "applicants": 31196,
+    "yield": 24,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 61,
+    "applicants": 29900,
+    "yield": 23,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 67,
+    "applicants": 30247,
+    "yield": 22,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 70,
+    "applicants": 30750,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 68,
+    "applicants": 30939,
+    "yield": 20,
+    "sat_ebrw_p50": 630,
+    "sat_math_p50": 650,
+    "act_composite_p50": 29
+   },
+   "2023": {
+    "admit_rate": 69,
+    "applicants": 38210,
+    "yield": 16,
+    "sat_ebrw_p50": 640,
+    "sat_math_p50": 650,
+    "act_composite_p50": 30
+   },
+   "2024": {
+    "admit_rate": 74,
+    "applicants": 40856,
+    "yield": 14,
+    "sat_ebrw_p50": 640,
+    "sat_math_p50": 650,
+    "act_composite_p50": 29
+   }
+  }
+ },
+ "Rutgers University": {
+  "ipeds_id": "186380",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 60,
+  "admit_rate_end": 58,
+  "admit_rate_pt_change": -2,
+  "applicants_start": 31941,
+  "applicants_end": 68614,
+  "applicants_pct_change": 114.8,
+  "yield_start": 33,
+  "yield_end": 21,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1410,
+  "full_series": {
+   "2014": {
+    "admit_rate": 60,
+    "applicants": 31941,
+    "yield": 33,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 58,
+    "applicants": 35340,
+    "yield": 32,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 57,
+    "applicants": 36677,
+    "yield": 31,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 58,
+    "applicants": 38384,
+    "yield": 28,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 60,
+    "applicants": 41348,
+    "yield": 28,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 61,
+    "applicants": 41286,
+    "yield": 29,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 67,
+    "applicants": 41263,
+    "yield": 24,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 68,
+    "applicants": 43161,
+    "yield": 24,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 66,
+    "applicants": 41654,
+    "yield": 28,
+    "sat_ebrw_p50": 670,
+    "sat_math_p50": 700,
+    "act_composite_p50": 31
+   },
+   "2023": {
+    "admit_rate": 65,
+    "applicants": 43347,
+    "yield": 27,
+    "sat_ebrw_p50": 680,
+    "sat_math_p50": 700,
+    "act_composite_p50": 31
+   },
+   "2024": {
+    "admit_rate": 58,
+    "applicants": 68614,
+    "yield": 21,
+    "sat_ebrw_p50": 690,
+    "sat_math_p50": 720,
+    "act_composite_p50": 31
+   }
+  }
+ },
+ "University of Minnesota": {
+  "ipeds_id": "174066",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 45,
+  "admit_rate_end": 80,
+  "admit_rate_pt_change": 35,
+  "applicants_start": 44760,
+  "applicants_end": 41496,
+  "applicants_pct_change": -7.3,
+  "yield_start": 27,
+  "yield_end": 22,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1410,
+  "full_series": {
+   "2014": {
+    "admit_rate": 45,
+    "applicants": 44760,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 45,
+    "applicants": 46165,
+    "yield": 28,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 44,
+    "applicants": 49129,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 50,
+    "applicants": 43731,
+    "yield": 29,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 52,
+    "applicants": 43444,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 57,
+    "applicants": 40673,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 70,
+    "applicants": 38237,
+    "yield": 22,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 73,
+    "applicants": 35905,
+    "yield": 26,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 75,
+    "applicants": 38050,
+    "yield": 24,
+    "sat_ebrw_p50": 676,
+    "sat_math_p50": 702,
+    "act_composite_p50": 29
+   },
+   "2023": {
+    "admit_rate": 77,
+    "applicants": 39863,
+    "yield": 22,
+    "sat_ebrw_p50": 680,
+    "sat_math_p50": 720,
+    "act_composite_p50": 29
+   },
+   "2024": {
+    "admit_rate": 80,
+    "applicants": 41496,
+    "yield": 22,
+    "sat_ebrw_p50": 690,
+    "sat_math_p50": 720,
+    "act_composite_p50": 29
+   }
+  }
+ },
+ "Penn State": {
+  "ipeds_id": "214777",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 50,
+  "admit_rate_end": 61,
+  "admit_rate_pt_change": 11,
+  "applicants_start": 50299,
+  "applicants_end": 88478,
+  "applicants_pct_change": 75.9,
+  "yield_start": 32,
+  "yield_end": 17,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1330,
+  "full_series": {
+   "2014": {
+    "admit_rate": 50,
+    "applicants": 50299,
+    "yield": 32,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 51,
+    "applicants": 53472,
+    "yield": 28,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 56,
+    "applicants": 52974,
+    "yield": 28,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 50,
+    "applicants": 56114,
+    "yield": 28,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 56,
+    "applicants": 52742,
+    "yield": 27,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 76,
+    "applicants": 95970,
+    "yield": 22,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 55,
+    "applicants": 85783,
+    "yield": 19,
+    "sat_ebrw_p50": 640,
+    "sat_math_p50": 660,
+    "act_composite_p50": 29
+   },
+   "2023": {
+    "admit_rate": 54,
+    "applicants": 85956,
+    "yield": 19,
+    "sat_ebrw_p50": 650,
+    "sat_math_p50": 660,
+    "act_composite_p50": 29
+   },
+   "2024": {
+    "admit_rate": 61,
+    "applicants": 88478,
+    "yield": 17,
+    "sat_ebrw_p50": 660,
+    "sat_math_p50": 670,
+    "act_composite_p50": 30
+   }
+  }
+ },
+ "Olin College": {
+  "ipeds_id": "441982",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 12,
+  "admit_rate_end": 25,
+  "admit_rate_pt_change": 13,
+  "applicants_start": 983,
+  "applicants_end": 1000,
+  "applicants_pct_change": 1.7,
+  "yield_start": 67,
+  "yield_end": 44,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1520,
+  "full_series": {
+   "2014": {
+    "admit_rate": 12,
+    "applicants": 983,
+    "yield": 67,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 11,
+    "applicants": 1075,
+    "yield": 64,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 10,
+    "applicants": 1296,
+    "yield": 60,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 13,
+    "applicants": 1062,
+    "yield": 63,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 16,
+    "applicants": 878,
+    "yield": 61,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 16,
+    "applicants": 905,
+    "yield": 60,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 16,
+    "applicants": 900,
+    "yield": 57,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 18,
+    "applicants": 907,
+    "yield": 56,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 19,
+    "applicants": 862,
+    "yield": 45,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 780,
+    "act_composite_p50": 35
+   },
+   "2023": {
+    "admit_rate": 22,
+    "applicants": 928,
+    "yield": 49,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 780,
+    "act_composite_p50": 35
+   },
+   "2024": {
+    "admit_rate": 25,
+    "applicants": 1000,
+    "yield": 44,
+    "sat_ebrw_p50": 740,
+    "sat_math_p50": 780,
+    "act_composite_p50": null
+   }
+  }
+ },
+ "Rose-Hulman": {
+  "ipeds_id": "152318",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 59,
+  "admit_rate_end": 77,
+  "admit_rate_pt_change": 18,
+  "applicants_start": 4404,
+  "applicants_end": 6097,
+  "applicants_pct_change": 38.4,
+  "yield_start": 22,
+  "yield_end": 13,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1420,
+  "full_series": {
+   "2014": {
+    "admit_rate": 59,
+    "applicants": 4404,
+    "yield": 22,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 58,
+    "applicants": 4331,
+    "yield": 22,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 61,
+    "applicants": 4241,
+    "yield": 21,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 61,
+    "applicants": 4473,
+    "yield": 20,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 68,
+    "applicants": 4471,
+    "yield": 16,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 74,
+    "applicants": 4350,
+    "yield": 16,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 77,
+    "applicants": 4376,
+    "yield": 16,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 77,
+    "applicants": 4536,
+    "yield": 18,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 73,
+    "applicants": 5011,
+    "yield": 16,
+    "sat_ebrw_p50": 670,
+    "sat_math_p50": 720,
+    "act_composite_p50": 31
+   },
+   "2023": {
+    "admit_rate": 73,
+    "applicants": 5384,
+    "yield": 14,
+    "sat_ebrw_p50": 670,
+    "sat_math_p50": 710,
+    "act_composite_p50": 31
+   },
+   "2024": {
+    "admit_rate": 77,
+    "applicants": 6097,
+    "yield": 13,
+    "sat_ebrw_p50": 690,
+    "sat_math_p50": 730,
+    "act_composite_p50": 32
+   }
+  }
+ },
+ "Wake Forest": {
+  "ipeds_id": "199847",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 34,
+  "admit_rate_end": 22,
+  "admit_rate_pt_change": -12,
+  "applicants_start": 11119,
+  "applicants_end": 18727,
+  "applicants_pct_change": 68.4,
+  "yield_start": 34,
+  "yield_end": 36,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1470,
+  "full_series": {
+   "2014": {
+    "admit_rate": 34,
+    "applicants": 11119,
+    "yield": 34,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 29,
+    "applicants": 13281,
+    "yield": 33,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 30,
+    "applicants": 14006,
+    "yield": 31,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 28,
+    "applicants": 13071,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 29,
+    "applicants": 12937,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 30,
+    "applicants": 12559,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 32,
+    "applicants": 11959,
+    "yield": 38,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 25,
+    "applicants": 15156,
+    "yield": 37,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 21,
+    "applicants": 16857,
+    "yield": 38,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2023": {
+    "admit_rate": 22,
+    "applicants": 17479,
+    "yield": 37,
+    "sat_ebrw_p50": 720,
+    "sat_math_p50": 740,
+    "act_composite_p50": 33
+   },
+   "2024": {
+    "admit_rate": 22,
+    "applicants": 18727,
+    "yield": 36,
+    "sat_ebrw_p50": 730,
+    "sat_math_p50": 740,
+    "act_composite_p50": 33
+   }
+  }
+ },
+ "Swarthmore": {
+  "ipeds_id": "216287",
+  "start_year": 2014,
+  "end_year": 2024,
+  "admit_rate_start": 17,
+  "admit_rate_end": 7,
+  "admit_rate_pt_change": -10,
+  "applicants_start": 5540,
+  "applicants_end": 13065,
+  "applicants_pct_change": 135.8,
+  "yield_start": 43,
+  "yield_end": 44,
+  "sat_total_p50_start": null,
+  "sat_total_p50_end": 1540,
+  "full_series": {
+   "2014": {
+    "admit_rate": 17,
+    "applicants": 5540,
+    "yield": 43,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2015": {
+    "admit_rate": 12,
+    "applicants": 7818,
+    "yield": 42,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2016": {
+    "admit_rate": 13,
+    "applicants": 7717,
+    "yield": 42,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2017": {
+    "admit_rate": 11,
+    "applicants": 9382,
+    "yield": 39,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2018": {
+    "admit_rate": 9,
+    "applicants": 10749,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2019": {
+    "admit_rate": 9,
+    "applicants": 11442,
+    "yield": 41,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2020": {
+    "admit_rate": 9,
+    "applicants": 11630,
+    "yield": 35,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2021": {
+    "admit_rate": 8,
+    "applicants": 13012,
+    "yield": 45,
+    "sat_ebrw_p50": null,
+    "sat_math_p50": null,
+    "act_composite_p50": null
+   },
+   "2022": {
+    "admit_rate": 7,
+    "applicants": 14707,
+    "yield": 42,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 770,
+    "act_composite_p50": 33
+   },
+   "2023": {
+    "admit_rate": 7,
+    "applicants": 14287,
+    "yield": 42,
+    "sat_ebrw_p50": 750,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   },
+   "2024": {
+    "admit_rate": 7,
+    "applicants": 13065,
+    "yield": 44,
+    "sat_ebrw_p50": 760,
+    "sat_math_p50": 780,
+    "act_composite_p50": 34
+   }
+  }
+ }
+}

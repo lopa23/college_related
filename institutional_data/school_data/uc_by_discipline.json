@@ -1,0 +1,696 @@
+{
+ "source": "University of California Office of the President, public Tableau workbook 'Freshman admission by discipline'",
+ "source_url": "https://www.universityofcalifornia.edu/about-uc/information-center/freshman-admission-discipline",
+ "workbook_url": "https://visualizedata.ucop.edu/t/Public/views/Freshmanadmissionbydiscipline/Bybroaddiscipline",
+ "retrieved": "2026-09-21",
+ "note": "Hand-transcribed from the live public dashboard (no CSV export available for the by-discipline breakdown; only the campus-level summary sheet exports as CSV). 'Broad discipline' categories are UC's own groupings, not individual majors \u2014 Computer Science here is UC's 'Computer Science' broad-discipline bucket, distinct from 'Engineering' (which includes ECE, ME, etc. and, per UCOP's own grouping, Berkeley's College of Chemistry). Figures are for first-time freshman (not transfer) admission. Campus abbreviations: UCB=Berkeley, UCD=Davis, UCI=Irvine, UCLA=Los Angeles, UCM=Merced, UCR=Riverside, UCSD=San Diego, UCSB=Santa Barbara, UCSC=Santa Cruz",
+ "campus_names": {
+  "UCB": "Berkeley",
+  "UCD": "Davis",
+  "UCI": "Irvine",
+  "UCLA": "Los Angeles",
+  "UCM": "Merced",
+  "UCR": "Riverside",
+  "UCSD": "San Diego",
+  "UCSB": "Santa Barbara",
+  "UCSC": "Santa Cruz"
+ },
+ "computer_science": {
+  "2023": {
+   "UCB": {
+    "applicants": 9018,
+    "admits": 375,
+    "enrollees": 228,
+    "admit_gpa_p25": 4.2,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.17,
+    "enrollee_gpa_p75": 4.29,
+    "admit_rate_pct": 4,
+    "yield_rate_pct": 61
+   },
+   "UCD": {
+    "applicants": 5256,
+    "admits": 989,
+    "enrollees": 118,
+    "admit_gpa_p25": 4.19,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.17,
+    "enrollee_gpa_p75": 4.3,
+    "admit_rate_pct": 19,
+    "yield_rate_pct": 12
+   },
+   "UCI": {
+    "applicants": 10071,
+    "admits": 1702,
+    "enrollees": 362,
+    "admit_gpa_p25": 4.12,
+    "admit_gpa_p75": 4.29,
+    "enrollee_gpa_p25": 4.11,
+    "enrollee_gpa_p75": 4.29,
+    "admit_rate_pct": 17,
+    "yield_rate_pct": 21
+   },
+   "UCLA": {
+    "applicants": 11938,
+    "admits": 368,
+    "enrollees": 134,
+    "admit_gpa_p25": 4.25,
+    "admit_gpa_p75": 4.32,
+    "enrollee_gpa_p25": 4.25,
+    "enrollee_gpa_p75": 4.31,
+    "admit_rate_pct": 3,
+    "yield_rate_pct": 36
+   },
+   "UCR": {
+    "applicants": 5558,
+    "admits": 2709,
+    "enrollees": 229,
+    "admit_gpa_p25": 4.03,
+    "admit_gpa_p75": 4.28,
+    "enrollee_gpa_p25": 4.0,
+    "enrollee_gpa_p75": 4.25,
+    "admit_rate_pct": 49,
+    "yield_rate_pct": 8
+   },
+   "UCSD": {
+    "applicants": 13729,
+    "admits": 1621,
+    "enrollees": 496,
+    "admit_gpa_p25": 4.19,
+    "admit_gpa_p75": 4.31,
+    "enrollee_gpa_p25": 4.14,
+    "enrollee_gpa_p75": 4.31,
+    "admit_rate_pct": 12,
+    "yield_rate_pct": 31
+   },
+   "UCSB": {
+    "applicants": 9821,
+    "admits": 1006,
+    "enrollees": 144,
+    "admit_gpa_p25": 4.23,
+    "admit_gpa_p75": 4.31,
+    "enrollee_gpa_p25": 4.21,
+    "enrollee_gpa_p75": 4.31,
+    "admit_rate_pct": 10,
+    "yield_rate_pct": 14
+   },
+   "UCSC": {
+    "applicants": 6596,
+    "admits": 3901,
+    "enrollees": 562,
+    "admit_gpa_p25": 3.96,
+    "admit_gpa_p75": 4.26,
+    "enrollee_gpa_p25": 3.8,
+    "enrollee_gpa_p75": 4.17,
+    "admit_rate_pct": 59,
+    "yield_rate_pct": 14
+   }
+  },
+  "2024": {
+   "UCB": {
+    "applicants": 13437,
+    "admits": 515,
+    "enrollees": 343,
+    "admit_gpa_p25": 4.2,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.17,
+    "enrollee_gpa_p75": 4.3,
+    "admit_rate_pct": 4,
+    "yield_rate_pct": 67
+   },
+   "UCD": {
+    "applicants": 6950,
+    "admits": 1175,
+    "enrollees": 97,
+    "admit_gpa_p25": 4.2,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.14,
+    "enrollee_gpa_p75": 4.29,
+    "admit_rate_pct": 17,
+    "yield_rate_pct": 8
+   },
+   "UCI": {
+    "applicants": 9187,
+    "admits": 1874,
+    "enrollees": 355,
+    "admit_gpa_p25": 4.18,
+    "admit_gpa_p75": 4.29,
+    "enrollee_gpa_p25": 4.15,
+    "enrollee_gpa_p75": 4.29,
+    "admit_rate_pct": 20,
+    "yield_rate_pct": 19
+   },
+   "UCLA": {
+    "applicants": 10530,
+    "admits": 435,
+    "enrollees": 143,
+    "admit_gpa_p25": 4.25,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.25,
+    "enrollee_gpa_p75": 4.32,
+    "admit_rate_pct": 4,
+    "yield_rate_pct": 33
+   },
+   "UCR": {
+    "applicants": 5001,
+    "admits": 2684,
+    "enrollees": 214,
+    "admit_gpa_p25": 4.03,
+    "admit_gpa_p75": 4.27,
+    "enrollee_gpa_p25": 3.95,
+    "enrollee_gpa_p75": 4.22,
+    "admit_rate_pct": 54,
+    "yield_rate_pct": 8
+   },
+   "UCSD": {
+    "applicants": 12519,
+    "admits": 1666,
+    "enrollees": 479,
+    "admit_gpa_p25": 4.16,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.12,
+    "enrollee_gpa_p75": 4.3,
+    "admit_rate_pct": 13,
+    "yield_rate_pct": 29
+   },
+   "UCSB": {
+    "applicants": 8560,
+    "admits": 1470,
+    "enrollees": 174,
+    "admit_gpa_p25": 4.25,
+    "admit_gpa_p75": 4.31,
+    "enrollee_gpa_p25": 4.23,
+    "enrollee_gpa_p75": 4.32,
+    "admit_rate_pct": 17,
+    "yield_rate_pct": 12
+   },
+   "UCSC": {
+    "applicants": 6597,
+    "admits": 4278,
+    "enrollees": 593,
+    "admit_gpa_p25": 4.0,
+    "admit_gpa_p75": 4.26,
+    "enrollee_gpa_p25": 3.88,
+    "enrollee_gpa_p75": 4.2,
+    "admit_rate_pct": 65,
+    "yield_rate_pct": 14
+   }
+  },
+  "2025": {
+   "UCB": {
+    "applicants": 9750,
+    "admits": 629,
+    "enrollees": 396,
+    "admit_gpa_p25": 4.2,
+    "admit_gpa_p75": 4.29,
+    "enrollee_gpa_p25": 4.18,
+    "enrollee_gpa_p75": 4.29,
+    "admit_rate_pct": 6,
+    "yield_rate_pct": 63
+   },
+   "UCD": {
+    "applicants": 4893,
+    "admits": 946,
+    "enrollees": 74,
+    "admit_gpa_p25": 4.2,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.2,
+    "enrollee_gpa_p75": 4.28,
+    "admit_rate_pct": 19,
+    "yield_rate_pct": 8
+   },
+   "UCI": {
+    "applicants": 6794,
+    "admits": 1874,
+    "enrollees": 311,
+    "admit_gpa_p25": 4.17,
+    "admit_gpa_p75": 4.29,
+    "enrollee_gpa_p25": 4.14,
+    "enrollee_gpa_p75": 4.28,
+    "admit_rate_pct": 28,
+    "yield_rate_pct": 17
+   },
+   "UCLA": {
+    "applicants": 6803,
+    "admits": 498,
+    "enrollees": 138,
+    "admit_gpa_p25": 4.25,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.23,
+    "enrollee_gpa_p75": 4.32,
+    "admit_rate_pct": 7,
+    "yield_rate_pct": 28
+   },
+   "UCR": {
+    "applicants": 5068,
+    "admits": 4111,
+    "enrollees": 236,
+    "admit_gpa_p25": 3.96,
+    "admit_gpa_p75": 4.25,
+    "enrollee_gpa_p25": 3.73,
+    "enrollee_gpa_p75": 4.08,
+    "admit_rate_pct": 81,
+    "yield_rate_pct": 6
+   },
+   "UCSD": {
+    "applicants": 10785,
+    "admits": 2143,
+    "enrollees": 581,
+    "admit_gpa_p25": 4.16,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.12,
+    "enrollee_gpa_p75": 4.29,
+    "admit_rate_pct": 20,
+    "yield_rate_pct": 27
+   },
+   "UCSB": {
+    "applicants": 5865,
+    "admits": 1989,
+    "enrollees": 182,
+    "admit_gpa_p25": 4.19,
+    "admit_gpa_p75": 4.29,
+    "enrollee_gpa_p25": 4.14,
+    "enrollee_gpa_p75": 4.29,
+    "admit_rate_pct": 34,
+    "yield_rate_pct": 9
+   },
+   "UCSC": {
+    "applicants": 5952,
+    "admits": 4725,
+    "enrollees": 566,
+    "admit_gpa_p25": 3.92,
+    "admit_gpa_p75": 4.25,
+    "enrollee_gpa_p25": 3.79,
+    "enrollee_gpa_p75": 4.1,
+    "admit_rate_pct": 79,
+    "yield_rate_pct": 12
+   }
+  }
+ },
+ "engineering": {
+  "2023": {
+   "UCB": {
+    "applicants": 26470,
+    "admits": 1893,
+    "enrollees": 942,
+    "admit_gpa_p25": 4.2,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.18,
+    "enrollee_gpa_p75": 4.3,
+    "admit_rate_pct": 7,
+    "yield_rate_pct": 50
+   },
+   "UCD": {
+    "applicants": 17505,
+    "admits": 5941,
+    "enrollees": 898,
+    "admit_gpa_p25": 4.09,
+    "admit_gpa_p75": 4.29,
+    "enrollee_gpa_p25": 4.0,
+    "enrollee_gpa_p75": 4.27,
+    "admit_rate_pct": 34,
+    "yield_rate_pct": 15
+   },
+   "UCI": {
+    "applicants": 17832,
+    "admits": 5071,
+    "enrollees": 1195,
+    "admit_gpa_p25": 4.11,
+    "admit_gpa_p75": 4.29,
+    "enrollee_gpa_p25": 4.05,
+    "enrollee_gpa_p75": 4.28,
+    "admit_rate_pct": 28,
+    "yield_rate_pct": 24
+   },
+   "UCLA": {
+    "applicants": 20989,
+    "admits": 1263,
+    "enrollees": 579,
+    "admit_gpa_p25": 4.25,
+    "admit_gpa_p75": 4.32,
+    "enrollee_gpa_p25": 4.25,
+    "enrollee_gpa_p75": 4.33,
+    "admit_rate_pct": 6,
+    "yield_rate_pct": 46
+   },
+   "UCM": {
+    "applicants": 6481,
+    "admits": 5851,
+    "enrollees": 628,
+    "admit_gpa_p25": 3.59,
+    "admit_gpa_p75": 4.15,
+    "enrollee_gpa_p25": 3.34,
+    "enrollee_gpa_p75": 3.95,
+    "admit_rate_pct": 90,
+    "yield_rate_pct": 11
+   },
+   "UCR": {
+    "applicants": 7776,
+    "admits": 4767,
+    "enrollees": 577,
+    "admit_gpa_p25": 3.95,
+    "admit_gpa_p75": 4.24,
+    "enrollee_gpa_p25": 3.84,
+    "enrollee_gpa_p75": 4.14,
+    "admit_rate_pct": 61,
+    "yield_rate_pct": 12
+   },
+   "UCSD": {
+    "applicants": 16709,
+    "admits": 2975,
+    "enrollees": 816,
+    "admit_gpa_p25": 4.16,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.1,
+    "enrollee_gpa_p75": 4.3,
+    "admit_rate_pct": 18,
+    "yield_rate_pct": 27
+   },
+   "UCSB": {
+    "applicants": 10685,
+    "admits": 1919,
+    "enrollees": 300,
+    "admit_gpa_p25": 4.2,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.16,
+    "enrollee_gpa_p75": 4.29,
+    "admit_rate_pct": 18,
+    "yield_rate_pct": 16
+   },
+   "UCSC": {
+    "applicants": 4426,
+    "admits": 2939,
+    "enrollees": 411,
+    "admit_gpa_p25": 3.87,
+    "admit_gpa_p75": 4.22,
+    "enrollee_gpa_p25": 3.71,
+    "enrollee_gpa_p75": 4.12,
+    "admit_rate_pct": 66,
+    "yield_rate_pct": 14
+   }
+  },
+  "2024": {
+   "UCB": {
+    "applicants": 21831,
+    "admits": 1698,
+    "enrollees": 906,
+    "admit_gpa_p25": 4.21,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.19,
+    "enrollee_gpa_p75": 4.3,
+    "admit_rate_pct": 8,
+    "yield_rate_pct": 53
+   },
+   "UCD": {
+    "applicants": 16933,
+    "admits": 6354,
+    "enrollees": 1020,
+    "admit_gpa_p25": 4.09,
+    "admit_gpa_p75": 4.29,
+    "enrollee_gpa_p25": 4.0,
+    "enrollee_gpa_p75": 4.26,
+    "admit_rate_pct": 38,
+    "yield_rate_pct": 16
+   },
+   "UCI": {
+    "applicants": 19342,
+    "admits": 5446,
+    "enrollees": 1106,
+    "admit_gpa_p25": 4.14,
+    "admit_gpa_p75": 4.29,
+    "enrollee_gpa_p25": 4.1,
+    "enrollee_gpa_p75": 4.28,
+    "admit_rate_pct": 28,
+    "yield_rate_pct": 20
+   },
+   "UCLA": {
+    "applicants": 22301,
+    "admits": 1329,
+    "enrollees": 587,
+    "admit_gpa_p25": 4.25,
+    "admit_gpa_p75": 4.32,
+    "enrollee_gpa_p25": 4.25,
+    "enrollee_gpa_p75": 4.32,
+    "admit_rate_pct": 6,
+    "yield_rate_pct": 44
+   },
+   "UCM": {
+    "applicants": 6429,
+    "admits": 5990,
+    "enrollees": 563,
+    "admit_gpa_p25": 3.55,
+    "admit_gpa_p75": 4.14,
+    "enrollee_gpa_p25": 3.31,
+    "enrollee_gpa_p75": 3.87,
+    "admit_rate_pct": 93,
+    "yield_rate_pct": 9
+   },
+   "UCR": {
+    "applicants": 8486,
+    "admits": 5979,
+    "enrollees": 662,
+    "admit_gpa_p25": 3.86,
+    "admit_gpa_p75": 4.21,
+    "enrollee_gpa_p25": 3.73,
+    "enrollee_gpa_p75": 4.07,
+    "admit_rate_pct": 70,
+    "yield_rate_pct": 11
+   },
+   "UCSD": {
+    "applicants": 18443,
+    "admits": 3102,
+    "enrollees": 797,
+    "admit_gpa_p25": 4.16,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.12,
+    "enrollee_gpa_p75": 4.29,
+    "admit_rate_pct": 17,
+    "yield_rate_pct": 26
+   },
+   "UCSB": {
+    "applicants": 11873,
+    "admits": 2445,
+    "enrollees": 337,
+    "admit_gpa_p25": 4.2,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.16,
+    "enrollee_gpa_p75": 4.3,
+    "admit_rate_pct": 21,
+    "yield_rate_pct": 14
+   },
+   "UCSC": {
+    "applicants": 5018,
+    "admits": 3450,
+    "enrollees": 448,
+    "admit_gpa_p25": 3.9,
+    "admit_gpa_p75": 4.23,
+    "enrollee_gpa_p25": 3.78,
+    "enrollee_gpa_p75": 4.09,
+    "admit_rate_pct": 69,
+    "yield_rate_pct": 13
+   }
+  },
+  "2025": {
+   "UCB": {
+    "applicants": 25025,
+    "admits": 1788,
+    "enrollees": 1002,
+    "admit_gpa_p25": 4.2,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.18,
+    "enrollee_gpa_p75": 4.29,
+    "admit_rate_pct": 7,
+    "yield_rate_pct": 56
+   },
+   "UCD": {
+    "applicants": 17866,
+    "admits": 6935,
+    "enrollees": 813,
+    "admit_gpa_p25": 4.08,
+    "admit_gpa_p75": 4.28,
+    "enrollee_gpa_p25": 4.0,
+    "enrollee_gpa_p75": 4.27,
+    "admit_rate_pct": 39,
+    "yield_rate_pct": 12
+   },
+   "UCI": {
+    "applicants": 20276,
+    "admits": 5387,
+    "enrollees": 1025,
+    "admit_gpa_p25": 4.15,
+    "admit_gpa_p75": 4.29,
+    "enrollee_gpa_p25": 4.12,
+    "enrollee_gpa_p75": 4.29,
+    "admit_rate_pct": 27,
+    "yield_rate_pct": 19
+   },
+   "UCLA": {
+    "applicants": 23911,
+    "admits": 1591,
+    "enrollees": 647,
+    "admit_gpa_p25": 4.25,
+    "admit_gpa_p75": 4.32,
+    "enrollee_gpa_p25": 4.25,
+    "enrollee_gpa_p75": 4.32,
+    "admit_rate_pct": 7,
+    "yield_rate_pct": 41
+   },
+   "UCM": {
+    "applicants": 11565,
+    "admits": 11206,
+    "enrollees": 603,
+    "admit_gpa_p25": 3.69,
+    "admit_gpa_p75": 4.21,
+    "enrollee_gpa_p25": 3.33,
+    "enrollee_gpa_p75": 3.93,
+    "admit_rate_pct": 97,
+    "yield_rate_pct": 5
+   },
+   "UCR": {
+    "applicants": 11480,
+    "admits": 9615,
+    "enrollees": 992,
+    "admit_gpa_p25": 3.84,
+    "admit_gpa_p75": 4.22,
+    "enrollee_gpa_p25": 3.66,
+    "enrollee_gpa_p75": 4.01,
+    "admit_rate_pct": 84,
+    "yield_rate_pct": 10
+   },
+   "UCSD": {
+    "applicants": 20205,
+    "admits": 3938,
+    "enrollees": 1074,
+    "admit_gpa_p25": 4.17,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.12,
+    "enrollee_gpa_p75": 4.29,
+    "admit_rate_pct": 19,
+    "yield_rate_pct": 27
+   },
+   "UCSB": {
+    "applicants": 12679,
+    "admits": 2694,
+    "enrollees": 338,
+    "admit_gpa_p25": 4.21,
+    "admit_gpa_p75": 4.3,
+    "enrollee_gpa_p25": 4.18,
+    "enrollee_gpa_p75": 4.3,
+    "admit_rate_pct": 21,
+    "yield_rate_pct": 13
+   },
+   "UCSC": {
+    "applicants": 5134,
+    "admits": 3961,
+    "enrollees": 495,
+    "admit_gpa_p25": 3.85,
+    "admit_gpa_p75": 4.22,
+    "enrollee_gpa_p25": 3.72,
+    "enrollee_gpa_p75": 4.04,
+    "admit_rate_pct": 77,
+    "yield_rate_pct": 12
+   }
+  }
+ },
+ "campus_overall_2025": {
+  "UCB": {
+   "applicants": 126830,
+   "admits": 14360,
+   "enrollees": 6688,
+   "admit_gpa_p25": 4.15,
+   "admit_gpa_p75": 4.29,
+   "enrollee_gpa_p25": 4.11,
+   "enrollee_gpa_p75": 4.28,
+   "admit_rate_pct": 11,
+   "yield_rate_pct": 47
+  },
+  "UCD": {
+   "applicants": 102988,
+   "admits": 45673,
+   "enrollees": 6805,
+   "admit_gpa_p25": 4.0,
+   "admit_gpa_p75": 4.26,
+   "enrollee_gpa_p25": 3.91,
+   "enrollee_gpa_p75": 4.21,
+   "admit_rate_pct": 44,
+   "yield_rate_pct": 15
+  },
+  "UCI": {
+   "applicants": 124223,
+   "admits": 35658,
+   "enrollees": 6423,
+   "admit_gpa_p25": 4.04,
+   "admit_gpa_p75": 4.27,
+   "enrollee_gpa_p25": 4.0,
+   "enrollee_gpa_p75": 4.25,
+   "admit_rate_pct": 29,
+   "yield_rate_pct": 18
+  },
+  "UCLA": {
+   "applicants": 145060,
+   "admits": 13659,
+   "enrollees": 6551,
+   "admit_gpa_p25": 4.2,
+   "admit_gpa_p75": 4.3,
+   "enrollee_gpa_p25": 4.18,
+   "enrollee_gpa_p75": 4.3,
+   "admit_rate_pct": 9,
+   "yield_rate_pct": 48
+  },
+  "UCM": {
+   "applicants": 49366,
+   "admits": 46565,
+   "enrollees": 1982,
+   "admit_gpa_p25": 3.55,
+   "admit_gpa_p75": 4.15,
+   "enrollee_gpa_p25": 3.27,
+   "enrollee_gpa_p75": 3.9,
+   "admit_rate_pct": 94,
+   "yield_rate_pct": 4
+  },
+  "UCR": {
+   "applicants": 70863,
+   "admits": 61312,
+   "enrollees": 6682,
+   "admit_gpa_p25": 3.65,
+   "admit_gpa_p75": 4.16,
+   "enrollee_gpa_p25": 3.44,
+   "enrollee_gpa_p75": 3.94,
+   "admit_rate_pct": 87,
+   "yield_rate_pct": 11
+  },
+  "UCSD": {
+   "applicants": 136727,
+   "admits": 38457,
+   "enrollees": 7801,
+   "admit_gpa_p25": 4.11,
+   "admit_gpa_p75": 4.29,
+   "enrollee_gpa_p25": 4.07,
+   "enrollee_gpa_p75": 4.27,
+   "admit_rate_pct": 28,
+   "yield_rate_pct": 20
+  },
+  "UCSB": {
+   "applicants": 110173,
+   "admits": 42094,
+   "enrollees": 5081,
+   "admit_gpa_p25": 4.09,
+   "admit_gpa_p75": 4.28,
+   "enrollee_gpa_p25": 4.0,
+   "enrollee_gpa_p75": 4.27,
+   "admit_rate_pct": 38,
+   "yield_rate_pct": 12
+  },
+  "UCSC": {
+   "applicants": 66393,
+   "admits": 48122,
+   "enrollees": 4597,
+   "admit_gpa_p25": 3.83,
+   "admit_gpa_p75": 4.2,
+   "enrollee_gpa_p25": 3.72,
+   "enrollee_gpa_p75": 4.04,
+   "admit_rate_pct": 72,
+   "yield_rate_pct": 10
+  }
+ }
+}
