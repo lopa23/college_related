@@ -16,6 +16,7 @@ M_college_related/
 │   ├── Independent Admissions Consultancy Webinars.md
 │   ├── MIT Admissions Blog Insights & Process Guide.md
 │   ├── More University Admissions Blogs (UChicago, Vanderbilt, Case Western, Rochester).md
+│   ├── YouTube College Counseling Video Insights.md
 │   └── books/
 │
 ├── institutional_data/          # macro admissions stats, yield, legal datasets — hard numbers
@@ -39,7 +40,8 @@ M_college_related/
     ├── rows_index.json
     ├── enrichment_progress.json
     ├── cc_enrichment_progress.json
-    └── chanceme_enrichment_progress.json
+    ├── chanceme_enrichment_progress.json
+    └── youtube/                 # YouTube video tracking DB (youtube_videos.db) plus discovery/transcript/summary scripts
 ```
 
 **How the pieces relate:** `applicant_profiles/combined_profiles.json` is the central dataset — real profile narratives, joined against `institutional_data/school_data/school_facts.json` for a subset with confirmed commitments (see `school_data/join_profiles.py`). `institutional_data/` supplies the hard numbers (admit rates, trends, lawsuit disclosures, legal/policy structure) that every qualitative claim in `qualitative_insights/` should be checked against. `pipeline/` holds the scraper and its checkpoint state, kept separate from the data it produces.
