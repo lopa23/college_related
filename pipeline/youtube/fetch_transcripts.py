@@ -10,7 +10,9 @@ os.makedirs(OUT, exist_ok=True)
 
 limit = int(sys.argv[1]) if len(sys.argv) > 1 else 10**9
 c = sqlite3.connect(DB)
-rows = c.execute("select video_id from videos where status='discovered' limit ?", (limit,)).fetchall()
+cols = [r[1] for r in c.execute("pragma table_info(videos)")]
+order = "priority desc" if "priority" in cols else "rowid"  # run rank_videos.py first
+rows = c.execute("select video_id from videos where status='discovered' order by " + order + " limit ?", (limit,)).fetchall()
 api = YouTubeTranscriptApi()
 ok = fail = 0
 blocked = 0

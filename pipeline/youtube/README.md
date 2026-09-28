@@ -15,8 +15,9 @@ Other columns: `title`, `channel`, `duration`, `views_text`, `published_text`, `
 
 **Scripts (run from this folder, in order):**
 1. `python discover.py` - searches YouTube for the queries in the script, adds new videos as `discovered` (safe to re-run; existing rows are kept).
-2. `python fetch_transcripts.py [N]` - downloads transcripts for `discovered` videos. YouTube rate-limits after about 30 requests; the script stops without changing status when it is blocked. Re-run later and it resumes.
-3. Summarize (agents write `summaries/<video_id>.json`), then `python ingest_summaries.py` to update the database.
+2. `python rank_videos.py` - scores every `discovered` video (column `priority`) so the most informative are fetched first: rewards officer/office sources, 8-60 min length, and under-covered topics (financial aid, CS/STEM, ED/EA, activities, freshman planning); penalizes essay videos (already saturated), promos, shorts and off-topic (law, MBA, non-US). Re-run any time.
+3. `python fetch_transcripts.py [N]` - downloads transcripts for `discovered` videos, highest `priority` first. YouTube rate-limits after about 30 requests; the script stops without changing status when it is blocked. Re-run later and it resumes.
+4. Summarize (agents write `summaries/<video_id>.json`), then `python ingest_summaries.py` to update the database.
 
 **Useful queries:**
 ```sql

@@ -1,8 +1,8 @@
 # YouTube College Counseling Video Insights
 
-> **What this file is:** A themed synthesis of 64 YouTube videos on college admissions and counseling, built from their **full transcripts** (auto-captions) rather than titles and descriptions alone. Speakers include former and current admissions officers, independent counselors and essay coaches. Everything is **paraphrased in my own words**; no transcript text is reproduced. The raw transcripts are kept locally only (gitignored), since they are copyrighted.
+> **What this file is:** A themed synthesis of 97 YouTube videos on college admissions and counseling, built from their **full transcripts** (auto-captions) rather than titles and descriptions alone. Speakers include former and current admissions officers, independent counselors and essay coaches. Everything is **paraphrased in my own words**; no transcript text is reproduced. The raw transcripts are kept locally only (gitignored), since they are copyrighted.
 >
-> **What this file is NOT:** A survey of YouTube. The search step found **460 candidate videos** across 35 queries, but YouTube rate-limits transcript downloads after about 30 requests per IP. So this file covers the 64 videos whose transcripts could be downloaded so far (two rounds: 30, then 34). They skew heavily toward "how applications are read" and essays, because those queries ran first. The other 396 are logged in the tracking database and can be added later (see §7).
+> **What this file is NOT:** A survey of YouTube. The search step found **460 candidate videos** across 35 queries, but YouTube rate-limits transcript downloads after about 30 requests per IP. So this file covers the 97 videos whose transcripts could be downloaded so far (four rounds: 30, then 34, then 16, then 17). Rounds 1-2 skew toward "how applications are read" and essays; rounds 3-4 used a priority ranking (`pipeline/youtube/rank_videos.py`) that favored under-covered topics — testing, financial aid, course rigor, extracurriculars, ED/EA, interviews, CS/STEM — over more essay content. The other 360 are logged in the tracking database and can be added later (see §7).
 >
 > **How to read the credibility tags:** most speakers here work for firms that sell counseling or essay services, so their advice is also marketing. Each entry below notes the speaker's stated role and any commercial incentive. Official office videos (Harvard, Columbia, Richmond) and Yale/Duke-era former officers are separated from consultancy content where it matters. Cross-check numbers against `School Admissions Data Reference (CDS + IPEDS).md` and `NACAC State of College Admission Data.md`.
 
@@ -86,7 +86,52 @@ Same rating scale. Two law-school videos (rPcAKyugY8w, zOTOof8QQWo) are off-scop
 | 1 | rPcAKyugY8w | Navigating Harvard Law Admissions | Becoming LawyHer | **Law school**, off-scope |
 | 1 | zOTOof8QQWo | Why "X" Essays | Michigan Law | **Law school**, off-scope |
 
+### 0c. Source ledger, round 3 (16 videos, priority-ranked)
+
+| Rel. | Video ID | Title (shortened) | Channel | Speaker / incentive |
+|:-:|:--|:--|:--|:--|
+| 5 | E8zMKgNXR7Q | 3 Biggest College Admissions Myths | Grown and Flown | Jeff Selingo (journalist/author); promotes his book |
+| 5 | ptXC31B32Xc | How Many AP Classes Should You Take? | AcceptU | Ex-AO, 20 yrs consulting; webinar |
+| 5 | t1iQKEdLMIo | SAT & ACT Explained by a Former Admissions Director | Ask Dr. Hoffman | Ex-Swarthmore/Vanderbilt; sells review service |
+| 4 | KbTwFXfXH8Q | Q&A With a Harvard Admissions Officer | Harvard College Admissions | Current international AO; official |
+| 4 | LmpP7lAbT90 | Early Decision vs. Early Action | The Princeton Review | Test-prep editor; sells book |
+| 4 | __2gb3Lin-I | Financial Aid: Affording College | Univ. of St. Thomas (MN) | Current financial aid officers; official |
+| 4 | cKAD1T0R5pY | How Admissions Officers Evaluate Courses, GPA and Rigor | College Essay Guy | Ex-Pomona/Holy Cross AO; sells coaching |
+| 4 | dwok3sFuaxM | 10th Grade Check-In | Admittedly | Ex-Wharton MBA admissions; podcast |
+| 4 | o4pjLOhq7rc | Are Test Optional Policies Really Fair? | Admittedly | Ex-Wharton MBA admissions; podcast |
+| 4 | x5EqnXH1DjY | A Harvard College Admissions Mock Interview | Harvard College Admissions | Current AO + alum interviewer; official |
+| 3 | 8WEhZrNhtkA | Accepted to USC in Computer Science | College Admissions Simplified | One admitted student; free mentor match |
+| 3 | ck0pF7xub-k | Overview of FAFSA and CSS Profile | YouTube College Admissions | Phillips Academy college counselor |
+| 3 | HEOGM5qWw84 | Stats & ECs That Got Me Into Harvard, MIT... | Helaine Zhao | One admitted student; no product |
+| 2 | DWkh0oQK-g4 | Why Are Extracurriculars Important? | College Admissions Insider | Unnamed narrator; generic |
+| 2 | Ixud0ZoOcIY | How Does the CSS Profile Affect Aid? | College Admissions Insider | Unnamed narrator; generic |
+| 2 | sT2eHIXB8yg | 9th Grade College Admissions Checklist | Julie Kim Consulting | Independent consultant; sells program |
+
+Three videos failed to download on connection errors and can be retried: E5SmMV9-UbM, 6NROjyTccMU, FqvFkoM9JMU.
+
 ---
+### 0d. Source ledger, round 4 (17 videos, priority-ranked)
+
+| Rel. | Video ID | Title (shortened) | Channel | Speaker / incentive |
+|:-:|:--|:--|:--|:--|
+| 5 | 2i4lSMpG7Rk | 73 Questions With A Former Ivy League Admissions Officer | Domonique Cynthia (NYT) | Ex-Dartmouth admissions director, 13 yrs; light book promotion |
+| 5 | 96XL8vBBB7o | Erinn Andrews, Former Stanford AO — Case Study #2 | hyperinkvideos | Ex-Stanford AO; no pitch |
+| 5 | o-5Fnz2sa6U | Erinn Andrews, Former Stanford AO — Case Study #1 | Stupid | Ex-Stanford AO; no pitch |
+| 5 | H6tGbGFZId0 | How Colleges Assess Your Senior Year Grades | Ask Dr. Hoffman | Ex-AO; sells review service |
+| 5 | TTbtn5Tr7Jw | UC admissions REACTS to TikTok application advice | University of California | Current UC Davis exec. director; official |
+| 5 | ZnMgao_ydK4 | The Ultimate Guide to the College Interview | College Essay Guy | Ex-Northwestern alumni interviewer; sells guide |
+| 5 | wkYfrApmj6o | What a Dartmouth Admissions Officer Wants | InGenius Prep | Ex-Dartmouth reader; consultancy |
+| 5 | yFDX8A3ONaY | Extracurricular Activities That Get You Into Ivy League Universities | Futures Abroad | Ex-Penn AO; no pitch |
+| 4 | 73974-SBbmU | How I Won Over $670,000 in Scholarships | Crystal Clear | Student (now Yale PhD); no pitch |
+| 4 | Rb8BGPHfqRs | Choosing the Best College for CS and Engineering | Solomon Admissions Consulting | Consultancy co-founder, ex-Intel; sales pitch, 2014-15 data |
+| 4 | benS_5A8cvo | What an NYU Admissions Officer Wants | InGenius Prep | Ex-NYU reader; consultancy |
+| 4 | vpsIGexQE9E | College Search Advice from First-Gen Admissions Counselors | StriveScan (IACAC) | Three current university reps, all first-gen; free panel |
+| 4 | yPG2CRkctxM | Admissions Myths Debunked | College Admissions | Ex-litigator turned consultant, not an AO; $47 program pitch |
+| 3 | 32Uq1qNSDz4 | STEM Summer Programs for High Schoolers | Rishab Jain STEM | Student, RSI alum; unrelated sponsorship |
+| 3 | QIPNFZnkAEA | How Extracurricular Activities Can Impress Admissions Officers | CollegeVine | Unnamed narrator; consultancy |
+| 3 | fuvXYF_nofY | US College Admissions for International Students | CollegeAdvisor | Current Princeton undergrads; sponsored by Bullseye Admissions |
+| 2 | IYZJkxAxblI | Computer Science Major College Decisions (MIT, Harvard...) | Siddhant Dubey | Student decision-reaction video; no analysis |
+
 
 ## 1. How files move through an office (the strongest content in the set)
 
@@ -188,12 +233,112 @@ About nine of the 30 videos are mostly about essays, and the advice converges st
 - **A genuine limit on these speakers:** the most detailed process videos use a fictional college and made-up data. Treat them as accurate about structure, not about numbers.
 - **Commercial pattern:** of the 64 videos, only the office-run ones (Harvard, Columbia, Richmond, Yale, Hamilton and a few unnamed-college clips) are not selling something; the rest sell services. The highest-scoring content tends to be the process-focused videos, and the lowest-scoring content is short "how to get into X" promos. The same finding appeared in `Independent Admissions Consultancy Webinars.md`: specific, scoped sessions beat generic promotional ones.
 
+## 6b. Round 3: testing, rigor, financial aid, ED/EA, interviews and myths
+
+### 6b-a. Testing — two experienced insiders reach opposite framings
+
+- **Ex-Swarthmore/Vanderbilt director (first-hand account of building test-optional policy):** he says he personally helped build Swarthmore's COVID-era test-optional process, and staff **hand-redacted every trace of scores** from files, including old score reports on transcripts, because partial redaction produces inconsistent review. The goal was proportional submission — if 40% of applicants submitted scores, roughly 40% of admits should have too. He advises comparing your score to a school's Common Data Set range for **enrolled**, not admitted, students, since admitted-range figures typically run 40-50 points higher. Submit only if above the median. *(t1iQKEdLMIo)*
+- **Ex-Wharton MBA admissions director (now an admissions podcast host):** argues test-optional was substantially a **marketing and yield tool** — it widened applicant pools, let schools lower headline admit rates, and created a "backdoor" for admitting development or athletic recruits without their scores appearing in reported class statistics. He says published Common Data Set score ranges are less reliable now because mostly high scorers choose to submit. He predicts a broad shift back to test-required policies. *(o4pjLOhq7rc)*
+- **Read these against each other, not as agreement:** both are experienced insiders, but neither's claims are independently verified, and the second speaker's "backdoor" and deliberate-suppression claims are presented as insider inference, not documented fact. The NACAC test-score collapse (`NACAC State of College Admission Data.md` §2) and MIT's/Vanderbilt's own reinstatement rationale (documented in `MIT Admissions Blog Insights & Process Guide.md` and `More University Admissions Blogs...md`) are the primary-sourced anchors either claim should be checked against.
+
+### 6b-b. Course rigor and GPA — two former officers converge closely
+
+- **Ex-Pomona/Holy Cross officer:** aim for close to four years each of English, math, science, social studies and a foreign language, increasing in difficulty. A 3.7 earned through a consistently challenging schedule often reads stronger than a 4.0 earned by avoiding advanced classes. A B or higher in a harder class is a reasonable trade-off; **patterns** of C's in advanced classes are the real concern, not an occasional B. Rigor is judged only against what a student's own school offered — he names Phillips Exeter specifically as a top school that offers **zero** AP classes. *(cKAD1T0R5pY)*
+- **Independent consultant, 20 years, ex-admissions officer:** there's no universal "right number" of AP classes — the benchmark is what top-performing students at your **own** school have historically taken to get into your target colleges. He directly disputes the common counselor line that "a B in an AP counts as an A" for admissions purposes: true for GPA math, not true for how a reader perceives it — his own rule is to aim for B+ or better in advanced classes. Most schools already restrict APs before 11th grade, so ninth-grade transcripts get little scrutiny; senior-year performance can be the decisive tipping point, since colleges may request updated grades on a close decision. *(ptXC31B32Xc)*
+- **These two, from different schools and consultancies, land on nearly identical guidance** — occasional B's in rigor are fine, sustained weak patterns are not, and rigor is always read relative to the student's own school, not a national bar. This is now independently corroborated a third and fourth time beyond the AMA, MIT and Georgia Tech sources already in this project.
+
+### 6b-c. Financial aid — official and near-official sources
+
+- **University of St. Thomas (MN) financial aid officers, official session:** aid splits into gift aid (merit scholarships, need-based grants via FAFSA) and self-help (work-study, loans). At this school, the **admission application itself is the main scholarship application** — no separate form — though many departmental/identity-based scholarships need their own applications. File the FAFSA regardless of expected eligibility: all dependent freshmen qualify for at least $5,500 in federal unsubsidized loans. A "special circumstance" process (opens around January) lets families whose finances changed after the tax year used on the FAFSA submit documentation for a recalculation. Use a personal, not school, email for the FSA ID. *(__2gb3Lin-I)*
+- **Phillips Academy director of college counseling:** FAFSA is free and produces an Expected Family Contribution; the CSS Profile (College Board, paid, fee waivers available) is required by roughly 300 mostly-private colleges and additionally examines both biological parents' finances even after divorce, plus assets like home equity. CSS opens earlier than FAFSA, useful for early decision/action timing. *(ck0pF7xub-k; the same ~300-college figure is repeated independently in Ixud0ZoOcIY, a lower-credibility unnamed-narrator video)* **Caveat: this video is roughly 12 years old** — the "Expected Family Contribution" term has since been replaced by the Student Aid Index, and FAFSA timing/school-limit details have changed; use it for the FAFSA-vs-CSS conceptual split, not current mechanics.
+
+### 6b-d. Early decision vs. early action — concrete school-by-school gaps
+
+A Princeton Review editor cites specific admit-rate comparisons (unsourced in the video, so treat as reported rather than verified): Tulane 59% ED vs. 14% overall (fall 2024); Fairfield 80% vs. 33%; Holy Cross 60% vs. 18%; Dartmouth 19% vs. 5%; Columbia, Penn and Brown roughly 13-14% ED vs. 4-5% overall. ED applicants still qualify for FAFSA-based need aid and merit scholarships but can't compare offers across schools before committing. *(LmpP7lAbT90)* Cross-check any of these against the school's own current CDS before relying on them — they are one secondary source's recalled figures, not pulled from primary filings the way `School Admissions Data Reference (CDS + IPEDS).md` was built.
+
+### 6b-e. Interviews and international admissions — official Harvard sources
+
+- **Harvard mock interview (official):** alumni interviews are assigned at the committee's discretion based on local alumni availability — not every applicant gets one, and lacking an interview is not a disadvantage. The interviewer reaches out first (usually by email) and receives only the applicant's name, school and contact info, no essays or activity list, so it's a blank-slate conversation. Modeled questions: what you want from college, a formative extracurricular, how friends would describe you, a challenge overcome. *(x5EqnXH1DjY)*
+- **Harvard international admissions Q&A (official, current AO):** international financial aid is **need-blind and need-based, identically to domestic aid** — ability to pay doesn't factor into the admission decision. Regional officers are assigned by world area and understand each region's grading systems and exam types; students from countries without an AP/honors system are judged on whether they took the most rigorous curriculum available at their own school. *(KbTwFXfXH8Q)*
+
+### 6b-f. Myths and the "selectivity" framing — the strongest single video in round 3
+
+Jeff Selingo (higher-ed journalist, not a former AO, promoting his book) reframes several widely-repeated claims with named sources (Lightcast, NSSE, Bain & Company, College Scorecard — cited verbally, not shown on screen):
+- His own survey of 3,000+ parents found only 16% personally valued prestige, but 61% **believed other parents in their community valued it** — he argues perceived social pressure inflates prestige-chasing beyond people's own stated values.
+- "More selective than ever" headlines mostly reflect **more applications per student**, not fewer admitted or enrolled students — most selective schools' class sizes have stayed roughly flat for decades. This is consistent with the Common App trend data already in `Common App Aggregate Data Trends.md` (7.06 applications per applicant, up 49% over a decade).
+- Explains **yield management** directly: as students apply to more schools, colleges defer or reject strong applicants they doubt will enroll, to protect yield and prestige metrics, independent of qualification. He cites Duke's yield at roughly 60% versus a roughly 40% industry-wide figure from 20 years ago, and some less-selective schools now yielding only 10-20%; Clemson's out-of-state yield is cited at about 15%, offered as the reason strong out-of-state early-action applicants sometimes get deferred there.
+- "Big fish, small pond" research: students, especially in STEM, are more likely to persist in a challenging major at a less-selective school than at a highly selective one, partly from stronger faculty/TA support versus a sink-or-swim culture.
+- An elite degree gives a modest statistical edge ("two lottery tickets instead of one"), not a guaranteed outcome — he cites a Fortune 500 CEO study spanning roughly 300 colleges where some non-elite schools produced more CEOs than some elite ones.
+- Recommends researching a school's **department-level**, not just overall, outcomes data (LinkedIn alumni tracing, College Scorecard), since hiring tends to be regional and major-specific.
+
+*(E8zMKgNXR7Q)* Treat the specific numbers as one interview's recalled figures, not verified citations — but the yield-management and application-volume-vs-selectivity mechanisms are structurally consistent with what this project's own primary data already shows in `School Admissions Data Reference (CDS + IPEDS).md` §6 and `Common App Aggregate Data Trends.md`.
+
+### 6b-g. Two individual admit accounts (n=1 each, not generalizable)
+
+- **Admitted USC CS applicant** (interviewed via a free nonprofit mentor-matching program): tied USC-specific supplements to concrete researched details rather than generic praise; built rigor through dual enrollment alongside APs; leaned into being one of few girls in CS and into her immigrant family background as honest narrative material rather than hiding it. *(8WEhZrNhtkA)*
+- **Self-reported multi-Ivy admit** (Harvard, MIT, Stanford, Yale and others): 1580 SAT, valedictorian of a 31-student class, nine AP exams all scoring 5 (three self-studied), a self-published novelist with five books, and a self-founded 501(c)3 with 300+ volunteers running since 2018. She argues her extracurriculars mattered most, built around one throughline (music) plus unrelated breadth (writing, a small business, student government). *(HEOGM5qWw84)* **Read this as one extreme, unverifiable data point, not a template** — it's a single self-reported profile with clear survivorship bias, not evidence that this specific combination caused admission.
+
+## 6c. Round 4: file-reading mechanics, extracurriculars, school-specific and CS/engineering
+
+### 6c-a. File-reading mechanics — two granular former-officer accounts
+
+- **Ex-Penn officer** (also worked in admissions at University of Toronto): read about 1,300 files/year, ~15 minutes each, ~30/day. Spent roughly 5 of those 15 minutes on the activities grid — the **second** thing reviewed after grades/rigor/test scores. Every section, including activities, was scored **1-9**; most students scored 5-6, a 7-8 was rare and made her likely to advocate for the file, and she says she **never gave a 9**. She notes Common App's 10 activity slots get meaningfully weighted only for roughly the **first 5**, and contrasts this with University of Toronto, where most programs outside engineering/business don't weigh extracurriculars at all and admit almost purely on grades — a genuine structural contrast with the US holistic model. *(yFDX8A3ONaY)*
+- **Ex-Dartmouth admissions director, 13 years** (rapid-fire 73-question format, so answers are brief): read roughly 130-160 applications per week at peak. Uses a courtroom-lawyer analogy for how a reader builds a case for or against a file in committee. States admissions officers at different colleges never coordinate on a shared applicant — each school's read is genuinely independent. Raw GPA means little without knowing the school's grading scale and course difficulty; the clearest sign of a weak file isn't a stat threshold but apparent disengagement, like skipping an optional interview or leaving a supplemental blank. *(2i4lSMpG7Rk)*
+- **✅ Corroborated with round 3:** both again confirm rigor is read only against what a student's own school offers, and that supplemental essays are consistently under-invested by applicants relative to the personal statement despite mattering significantly to committee decisions.
+
+### 6c-b. Two real anonymized case studies from a former Stanford officer — unusually concrete
+
+Erinn Andrews (former Stanford admissions officer) walks through two anonymized real files in separate videos, with specific numbers and her own reasoning:
+
+- **Case study #1:** a 4.0 GPA paired with an old-scale 1810 SAT (~600/section) was judged **not competitive** for top schools — she estimates a score closer to 2150-2200 would have made the same GPA look competitive. Taking AP Calc BC and AP World History in 10th grade, then scoring a 2 (failing) on the World History exam, is flagged as overreach rather than a sign of strength. A 4-year varsity tennis captaincy was read as genuine depth; CSF/NHS/Key Club memberships with no leadership were read as undistinguished. Her conclusion: "not even competitive, let alone compelling" for the most selective schools, with concrete fixes suggested (a pharmacy internship or related website to build a coherent narrative toward the student's stated pre-med interest). *(o-5Fnz2sa6U)*
+- **Case study #2:** an academically strong file (unweighted 3.85 GPA, ACT 35, old-scale SAT 2360) was undermined by an implausibly long list of simultaneous club-president roles — she says this reads as a **credibility red flag**, prompting her to scrutinize the counselor letter and consider calling the school to verify. She rates an elected position (e.g., student body VP) as carrying more weight than an appointed one, since it reflects peer endorsement. What she remembers afterward isn't the club list but distinctive personal details (self-taught German, a published short story) — a scattered activity list across unrelated clubs is weaker than one with a clear unifying theme. *(96XL8vBBB7o)*
+- **Read together, these two cases are the most concrete "what actually moves a real reader" content in this whole file** — more specific than any generic advice video, though each is one officer's individual judgment on a single anonymized case, not a documented rubric.
+
+### 6c-c. Senior-year grades — the mechanics of a "conditional" admit
+
+An ex-officer (self-reported ~6% acceptance-rate colleges, now runs a paid review service) explains the grade-report pipeline: first-quarter/semester grades are sent directly from high schools to colleges **before final decisions**, typically mid-November for ED/EA and early-to-mid February for regular decision — an application is not "frozen" at submission. A modest dip (A to A-/B+) is treated differently than a large one (A to C), especially if paired with harder coursework; a drop specifically in a subject tied to the intended major (calculus for an engineering applicant) draws more scrutiny. He states he has personally **rescinded offers** over second-semester senior grade drops, and that dual-enrollment students may need to personally request their college registrar send updated grades, since it isn't always automatic. *(H6tGbGFZId0)*
+
+### 6c-d. A current UC officer fact-checks viral claims, point by point
+
+UC Davis's executive director of undergraduate admissions (previously at UC Berkeley and UC Riverside) directly reacts to TikTok admissions claims with institutional data — genuinely primary-sourced, unlike most "reacting to" content:
+- **UC recalculates GPA using only A-G coursework**; the minimum threshold is **3.0 for California residents and 3.4 for out-of-state/international**.
+- Personal Insight Question responses are capped at 350 words each; the additional-comments section allows about 550 words.
+- **Directly debunks a viral claim** that international/out-of-state applicants are admitted ahead of in-state students: every individual UC campus is 80%+ California residents, 84% systemwide, and the system pledges only about 25% of systemwide admits to non-California residents.
+- School context (course availability, AP/honors limits) matters more than public-vs-private status, and the majority of UC students come from public high schools.
+*(TTbtn5Tr7Jw)* This directly extends the UC-specific primary data already in `School Admissions Data Reference (CDS + IPEDS).md` §4a with the GPA-recalculation and residency mechanics that dataset doesn't cover.
+
+### 6c-e. Interviews — a concrete, reusable framework
+
+Building on round 3's official Harvard mock interview, an independent counselor (ex-Northwestern alumni interviewer) adds process-level advice: check a school's own **Common Data Set section C7** (or just email the office) to see whether that specific school actually rates interviews as a factor, since NACAC's survey has interviews ranked near the bottom of factors nationally (matching `NACAC State of College Admission Data.md` §1, where "interview" sits at 4.3% "considerable importance," the lowest-rated factor in that table). Distinguish informational interviews (a conversation) from evaluative ones (assessed for fit) — ask which type you're getting. Declining an optional interview can still hurt because schools track demonstrated interest. Practical framework: a "message box" of 3-4 pre-selected talking points, built from a 21-random-details brainstorm, plus a "so what?" drill to turn flat answers into reflective ones. *(ZnMgao_ydK4)*
+
+### 6c-f. School-specific: Dartmouth and NYU, both from ex-readers now at the same consultancy
+
+- **Dartmouth (ex-reader):** readers undergo annual bias-awareness training where each identifies their **own** personal biases (her example: favoring Eagle Scouts) and every file gets at least two readers who know each other's individual biases — a specific, concrete bias-mitigation mechanism not seen elsewhere in this project. An average reader reviews **1,000+ applications/year**. ED has recently made up close to **50% of Dartmouth's incoming class**. Readers review the activities list first, treating it as a compact personal essay, then transcript/honors, then essays, then recommendations. *(wkYfrApmj6o)*
+- **NYU (ex-reader):** NYU's global campuses (Shanghai, Abu Dhabi) are full home campuses, not study-abroad semesters, and transferring between them later is difficult — rank only locations you'd genuinely attend. NYU accepts AP, IB, or subject-test scores in place of SAT/ACT under its flexible-testing policy. The most common "Why NYU" mistake is writing about loving New York City instead of NYU's specific programs and faculty. *(benS_5A8cvo)*
+- **Caveat on both:** the speakers no longer work at these schools and now work at the same consultancy (InGenius Prep) with a free-consultation funnel; testing and financial-aid specifics they cite are dated and should be checked against each school's current policy.
+
+### 6c-g. Computer science, engineering and STEM specifics
+
+- **A CS/engineering-focused consultancy co-founder** (ex-Intel electrical engineer): argues tech hiring favors demonstrated ability and program-specific reputation over general university prestige, and that interviewers are themselves engineers evaluating technical performance, not pedigree. Cites a commonly-used ~3.0 GPA resume-screening cutoff regardless of school prestige, and regionally concentrated recruiting (University of Washington grads disproportionately hired by Seattle-based Microsoft/Amazon). **The specific ranking and admit-rate figures cited are from 2014-15 and are stale**; the firm's closing claim of client admit rates several times the published average (e.g., "21.1% of clients into MIT vs. 7.7% average") is unverifiable marketing, not evidence. *(Rb8BGPHfqRs)*
+- **STEM summer programs, from a student alum:** RSI (Research Science Institute at MIT) is free, 6 weeks, and extremely selective; Stanford's SIMR pays a stipend rather than charging fees. Costs across named programs range from free to about $9,000 (UPenn's M&T Summer Institute). The speaker explicitly **warns against for-profit consulting-firm-run summer programs** (naming Crimson Education) as charging high fees without reputable research backing, favoring university- or nonprofit-hosted programs instead — a rare direct on-the-record warning about a competitor in this file's source set. *(32Uq1qNSDz4)*
+- **One raw, unanalyzed data point:** a student applied to 18 schools (11 early, 7 regular) and was admitted to 9, waitlisted at 2, denied at 7 — rejected by Harvard, Princeton, Stanford and Duke while admitted to Georgia Tech, UT Austin, UNC, Michigan, Virginia Tech and NC State in the same cycle, then committed to Georgia Tech for CS. No grades, scores or activities are given, so this is only useful as a reminder that a strong-enough-to-apply-broadly profile can still produce a wide spread of outcomes in one cycle, not as an analyzable case. *(IYZJkxAxblI)*
+
+### 6c-h. Financial aid, first-generation applicants and myths — remaining round-4 content
+
+- **First-gen panel (three current university reps, IACAC/StriveScan, each first-gen themselves):** first-gen status is defined by a "generational line" — a student still counts even if an older sibling already graduated college, as long as no parent/guardian ever earned a bachelor's. Some schools (Marquette, per one panelist) charge no application fee at all; fee waivers are obtainable once through a counselor and reusable across schools. Scholarships sometimes come as in-kind services (free textbooks, laptops, mentorship), not cash, and must often be re-requested annually. Every high school has an assigned regional admissions rep, a free and underused resource. *(vpsIGexQE9E)*
+- **A self-reported scholarship-search account** (now a Yale PhD student): applied to 30+ scholarships as a senior, learned about the Gates Millennium Scholarship simply by asking a prior winner what the requirements were, and treated each rejection as a prompt to apply to two more. Says essays are often the most heavily weighted part of a scholarship application, and some scholarships won't review an essay containing errors. **The headline "$670,000 won" figure is not itemized anywhere in the transcript** — treat it as an unverified claim, not a sourced total. *(73974-SBbmU)*
+- **Myths, from a consultant (ex-litigator, not a former AO):** frames admissions as class-building, not a formula — grades/scores are an entry ticket, not the decision. Institutional needs (a tuba player, more Midwest students, a new engineering program) shift year to year and aren't publicized, which the speaker offers as the explanation for a student getting into a "harder" school while denied by an "easier" one. **Heavy sales framing** ($47 paid essay program pitched directly) and anonymized anecdotes that read as possibly composited; treat as illustrative, not documented. *(yPG2CRkctxM)*
+- **CollegeVine's extracurricular framework** (unnamed narrator, consultancy content): a four-tier model — national recognition, state-level/high leadership, regional/minor leadership, general membership — with the claim that extracurriculars are "about 25%" of the admissions decision. That percentage is asserted without any cited methodology; treat the tier framework as a reasonable mental model and the specific percentage as marketing, not data. *(QIPNFZnkAEA)*
+- **International student panel** (two current Princeton undergrads, sponsored by a consultancy): both say they were admitted to Princeton without ever taking an AP class, since their home schools didn't offer any — a useful counter-data-point to any assumption that AP access is required. English proficiency reportedly matters more for humanities-track than STEM-track international applicants. Because formal recommendation letters are unfamiliar in some countries, seek a teacher (often the English teacher, for fluency) who knows the student personally over the most "prestigious" available teacher. *(fuvXYF_nofY)*
+
+---
+
 ## 7. Coverage, gaps and how to extend it
 
-- **What was collected:** 460 candidate videos logged; 64 with transcripts and all 64 summarized; 395 waiting on transcripts and 1 failed on a network error (retryable). The database `pipeline/youtube/youtube_videos.db` (table `videos`) tracks each video's ID, title, channel, duration, status (`discovered`, `transcript_ok`, `no_transcript`, `summarized`), transcript word count, relevance, speaker role and summary file path.
-- **Why only 64:** YouTube blocks transcript requests from an IP after roughly 30 downloads. The second round succeeded after the block cleared on a different connection; later attempts were blocked again. The fetch script stops cleanly on a block without marking videos as failed.
+- **What was collected:** 460 candidate videos logged; 97 with transcripts and all 97 summarized; 360 waiting on transcripts and 3 failed on network errors (retryable: E5SmMV9-UbM, 6NROjyTccMU, FqvFkoM9JMU). The database `pipeline/youtube/youtube_videos.db` (table `videos`) tracks each video's ID, title, channel, duration, status (`discovered`, `transcript_ok`, `no_transcript`, `summarized`), transcript word count, relevance, speaker role and summary file path.
+- **Why only 97:** YouTube blocks transcript requests from an IP after roughly 30 downloads. Rounds 2-4 each succeeded after the block cleared on a different connection; most other attempts were blocked immediately. Run `python rank_videos.py` before further fetches so blocked-request budget goes to the highest-value videos first (see `pipeline/youtube/README.md`). The fetch script stops cleanly on a block without marking videos as failed.
 - **To continue:** run `python pipeline/youtube/fetch_transcripts.py` again later (it resumes from `discovered`; expect it to stop again after a similar number if the block persists), then ask for the next summarization batch. Waiting several hours between runs, or running from a different network, usually works.
-- **Selection bias:** the queries that ran first ("how admissions officers read applications", essays) dominate these 64. Financial aid, list-building, ED/EA strategy, computer-science-specific and freshman-year-planning queries are in the database but not yet transcribed, so those topics are underrepresented here.
+- **Selection bias:** the queries that ran first ("how admissions officers read applications", essays) dominated rounds 1-2; rounds 3-4's ranking corrected this toward testing, rigor, financial aid, extracurriculars, ED/EA, interviews and CS/STEM, though essay-adjacent queries still dominate the pool of 360 not yet fetched. Financial aid, list-building, ED/EA strategy, computer-science-specific and freshman-year-planning queries are in the database but not yet transcribed, so those topics are underrepresented here.
 
 ---
 

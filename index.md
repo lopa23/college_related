@@ -15,7 +15,7 @@ For folder layout, see `README.md`/`CLAUDE.md`. This file is a per-document inde
 - **`More University Admissions Blogs (UChicago, Vanderbilt, Case Western, Rochester).md`** — extends the blog coverage to four more schools; flags that UChicago's blog is currently offline and Case Western's was shut down in 2019, reconstructed via Wayback Machine.
 - **`Admissions Office Webinars & Virtual Info Session Insights.md`** — 13 universities' own webinar/YouTube presence; Yale's is the strongest, MIT's/Stanford's are surprisingly thin.
 - **`Independent Admissions Consultancy Webinars.md`** — 11 commercial counseling firms (IvyWise, Crimson, Top Tier, etc.); finds credential-verification and content-verification are separate bars most firms only clear the first of.
-- **`YouTube College Counseling Video Insights.md`** — 64 college-counseling YouTube videos summarized from full transcripts (how files are read and routed, reading-time ranges, essays incl. why-us and transfer, list building, school-specific mechanics); 460 videos found, tracked in `pipeline/youtube/youtube_videos.db`.
+- **`YouTube College Counseling Video Insights.md`** — 97 college-counseling YouTube videos summarized from full transcripts (how files are read and routed, reading-time ranges, essays, list building, testing, course rigor, financial aid, ED/EA data, interviews, extracurriculars incl. two real Stanford case studies, CS/STEM, selectivity/yield myths, a current UC officer fact-checking viral claims); 460 videos found, tracked in `pipeline/youtube/youtube_videos.db`.
 - **`books/`** — source material backing the book-reference file above.
 
 ## institutional_data/ — hard numbers
