@@ -1,0 +1,20 @@
+{
+ "video_id": "QHWVjPMt5Wc",
+ "topic": "financial aid",
+ "relevance": 4,
+ "speaker_role": "independent college consultant (Dobler College Consulting)",
+ "commercial_incentive": "Dobler College Consulting is a paid consulting business; this specific short video is mostly factual/educational with minimal direct sales pitch",
+ "key_insights": [
+  "FAFSA (Free Application for Federal Student Aid) is free; any site charging a fee to file it is a scam",
+  "FAFSA uses a tax retrieval tool to auto-pull tax data and produces a 'Student Aid Index' (SAI) estimating expected family contribution",
+  "CSS Profile is run through the College Board, used mainly by selective private universities awarding larger amounts of aid, and asks more detailed financial questions (home equity, child support) than FAFSA",
+  "CSS Profile supplements rather than replaces FAFSA; most students file only FAFSA, some file both",
+  "International students generally can only file the CSS Profile, not FAFSA, unless they hold a green card",
+  "Financial aid application season opens October 1st; recommends submitting early even though same-day submission isn't required"
+ ],
+ "specific_numbers_or_facts": [
+  "Financial aid applications open 'October 1st' (per Mel, Dobler College Consulting)"
+ ],
+ "notable_or_distinctive": "Clear, jargon-demystifying side-by-side comparison of FAFSA vs. CSS Profile, including which students (domestic vs. international) typically must file each.",
+ "reliability_notes": "Short, factual policy overview that is broadly accurate but could shift with future federal financial aid policy changes; minimal caption garbling."
+}

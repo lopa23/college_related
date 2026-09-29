@@ -1,0 +1,24 @@
+{
+  "video_id": "19MspUAvqpY",
+  "topic": "financial aid / admissions Q&A (miscellaneous live session)",
+  "relevance": 4,
+  "speaker_role": "independent college consultants (Lee Norwood of College Sharks and Margaret/'Lee' of CounselMore, both self-described independent college counselors)",
+  "commercial_incentive": "Yes - repeatedly promotes their paid counseling services and refers callers to a network of specialist counselors (financial planning, law/grad school, BS/MD, dance-focused, etc.)",
+  "key_insights": [
+    "For FAFSA: file as early as possible since institutional aid is distributed on a rolling/first-come basis even though the FAFSA itself has no hard early deadline advantage from the government's side; some schools (e.g., cited: Virginia Tech) won't even consider a student for merit aid without a FAFSA on file",
+    "The FAFSA's output SAI (Student Aid Index) number is commonly misread by families as a dollar amount; a low SAI is favorable for need-based aid and should be plugged into individual colleges' net price calculators alongside GPA/test scores to get real estimated cost figures, which can differ hugely from sticker price",
+    "Recommended college list size mentioned in context of a low test score situation was framed around 'match' schools where a student's stats fit the middle 50%, with the suggestion to look up each target school's own published admitted-class data rather than assume prestige equals fit",
+    "For students applying to schools with the SAT still important to the school's teaching pace/expectations, one consultant argued lower-ranked but strong programs (e.g., other than Cornell for animal science) can be a better fit than stretching for a reach with a mismatched score",
+    "On rolling deadlines/backlogs: if a school's applications overwhelm early-round capacity, students can be automatically pushed into regular decision without penalty and their materials are still reviewed holistically as they arrive",
+    "Advises being intentional (not just quantity-driven) with number of applications and avoiding visibly copy-pasted supplemental essays, since admissions readers can tell",
+    "On AI-written recommendation letters: framed as acceptable if the teacher has genuinely engaged with and refined the AI output ('trained their dragon'), as opposed to a low-effort unedited generation",
+    "General ED guidance: binding, roughly framed by the speakers as giving a meaningfully higher admit chance at some schools but not a guaranteed strategy, and should not be used to 'apologize' for a rocky earlier academic record"
+  ],
+  "specific_numbers_or_facts": [
+    "Virginia Tech cited as requiring a FAFSA on file to be considered for merit aid at all",
+    "One example: a student's SAI of ~34,111 combined with test scores and GPA produced an estimated $24,000/year cost at Loyola Maryland via net price calculator, described as cheaper than an in-state option",
+    "Average U.S. high school counselor caseload not cited here (unlike the Northwestern video) but general theme of counselor overload repeated"
+  ],
+  "notable_or_distinctive": "A live, unscripted Q&A format surfaces very practical, tactical logistics (how to update test scores after submission via the applicant portal, how FAFSA aid is distributed on a trickling first-come basis, how net price calculators can reverse-engineer real costs) that scripted advice videos often skip.",
+  "reliability_notes": "Extremely long, casual, conversational transcript with tangents, cross-talk, and some unclear/garbled moments (auto-captions); specific numeric claims (acceptance-rate impacts, cost estimates) are anecdotal to particular student cases mentioned live rather than sourced data, and the hosts are incentivized to route viewers toward paid referral partners."
+}

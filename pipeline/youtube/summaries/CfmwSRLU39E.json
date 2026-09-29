@@ -1,0 +1,23 @@
+{
+ "video_id": "CfmwSRLU39E",
+ "topic": "CS admissions",
+ "relevance": 5,
+ "speaker_role": "former admissions officer (former admissions officer, University of Chicago; now college counselor at InGenius Prep)",
+ "commercial_incentive": "yes - InGenius Prep is a paid admissions consulting company and repeatedly promotes free strategy calls and its counseling program",
+ "key_insights": [
+  "Strong CS applicants need more than math/coding excellence; involvement in the humanities/liberal arts side and clear personal interests helps them stand out since top testing and grades are already assumed for the applicant pool.",
+  "Recommended academic benchmark is reaching AP Calculus BC by graduation, ideally continuing to multivariable calculus or linear algebra.",
+  "Recommended summer programs include Stanford and Carnegie Mellon for pure CS, and interdisciplinary options like University of Chicago (data science/public policy) and Carleton College (game design, machine learning).",
+  "Competitions to consider: USACO (US), CCC (Canada), and Kaggle for data science; hackathons and open-source contribution are also strongly recommended, including students starting their own hackathon as a signature project.",
+  "There are no true 'safety schools' for CS/engineering; the speaker mentally raises the selectivity tier by at least one level whenever CS/engineering is involved.",
+  "Common application mistakes: opening an essay with 'I've loved computer science since I was three,' having no interests outside CS, and not researching why a specific program/school fits the student.",
+  "Personal statements should focus on the 'why' behind a project or interest (purpose, values) rather than simply listing accomplishments already shown in the activities list.",
+  "For remote/COVID-affected years, admissions officers look for evidence of how students pivoted, and there is a dedicated application section to explain pandemic impact."
+ ],
+ "specific_numbers_or_facts": [
+  "Recommends reaching AP Calculus BC (or higher, e.g., multivariable calc/linear algebra) by senior year, per the former UChicago admissions officer",
+  "Rising seniors still have until November (early) or January (regular) deadlines to develop one strong signature project, per the speaker"
+ ],
+ "notable_or_distinctive": "Gives concrete named examples of interdisciplinary CS project outcomes from real advisees (a dual CS/history major who built a video game about the Byzantine Empire), illustrating the 'combine CS with any interest' advice with a specific case.",
+ "reliability_notes": "Speaker has genuine former-admissions-officer credentials at a specific institution, but advice reflects her own consulting practice's experience with a self-selected client population and is delivered inside a sales-oriented podcast for a paid consulting firm."
+}

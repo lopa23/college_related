@@ -1,0 +1,29 @@
+{
+ "video_id": "XVzu2A51h8c",
+ "topic": "CS admissions",
+ "relevance": 5,
+ "speaker_role": "former admissions officer (8 years at Purdue, senior assistant director focused on CS/engineering admissions) and former Dartmouth admissions staffer, both now working for a paid consulting firm",
+ "commercial_incentive": "Yes - a live sales webinar for admissions consulting firm 'Prepory,' with pricing pitch, an AI tool demo, and a booking link repeated throughout",
+ "key_insights": [
+  "CS is described as consistently more competitive than a school's overall admit rate; speakers cite UIUC overall ~37% admit vs CS under 10%, and Carnegie Mellon overall ~11% vs CS under 5%",
+  "Recommends AP Calculus BC (or equivalent rigor via IB, multivariable calc, linear algebra, or community college dual enrollment) as close to a baseline expectation for competitive CS/engineering applicants",
+  "Standalone certificates, MOOCs (Coursera/edX), boot camp badges, or NHS membership are described as insufficient differentiators on their own since so many applicants have them; they only help when paired with a clear personal motivation",
+  "Emphasizes 'real world impact' as the single most important differentiator: technical skill applied to a project connected to the applicant's own lived experience (two examples given: a PCOS symptom-tracking calculator by a student who had PCOS; a job-access platform built for a sibling with special needs, which scaled to 50+ companies and 100+ hires)",
+  "Warns against essays that lean entirely on technical jargon to impress a likely non-technical, often just-graduated admissions reader; recommends a 'coffee shop test' -- would this sound like a story you'd tell a friend over coffee, not a technical book report",
+  "Notes essays that are purely generic/technical with the personal element removed both read as impersonal and can now also raise AI-detection suspicion flags on some schools' internal review forms",
+  "For the 'why major' supplemental essay, advises researching a school's full list of majors (including tangential ones like cybersecurity, UX/HCI) to justify a specific major choice, not just default to 'CS' generically",
+  "For recommendation letters, recommends no more than 2-3 letters, choosing recommenders who have seen the student's growth or a struggle overcome (not just top grades, since a straight-A record is already visible in the transcript) and typically pairing one STEM and one non-STEM recommender",
+  "In Q&A: middle-school-era awards can still be listed but should be framed as the start of a growth trajectory, not the peak achievement; paid 'pay-to-play' research-matching programs are viewed skeptically by AOs since they signal resources rather than authentic initiative; research through a local (non-prestigious) college professor is acceptable if it shows genuine, sustained engagement",
+  "Notes many universities use an 'environmental context dashboard' that shows an applicant's school's available opportunities (AP/IB offerings, average scores), so rigor is judged relative to what was actually available at that school"
+ ],
+ "specific_numbers_or_facts": [
+  "UIUC overall admit rate cited as about 37%, CS admit rate under 10%",
+  "Carnegie Mellon overall admit rate cited as about 11%, CS admit rate under 5%",
+  "Common App personal statement cited as 650 words maximum",
+  "Common App activities list capped at 10 entries",
+  "Firm claims students are '3.5x more likely' to be admitted to CS programs with sub-15% acceptance rates (self-reported marketing statistic)",
+  "Firm claims to have supported 14,000+ students over ~15 years and had admits at every Ivy, every UC, and every top-50 US News school 'last cycle' (self-reported)"
+ ],
+ "notable_or_distinctive": "Two named former AOs (Purdue CS/engineering admissions, Dartmouth) give a concrete side-by-side essay comparison (a jargon-heavy 'getting to Mars' essay vs. a personal 'digging in the garden as a kid' essay on the same prompt) to illustrate what differentiates a compelling CS applicant essay from a generic one.",
+ "reliability_notes": "Heavily promotional live sales webinar for a paid consulting firm (Prepory), including a proprietary AI tool pitch and free-consultation booking; the firm's self-reported admit-rate multiplier and outcomes statistics are marketing claims without independent verification or methodology disclosed (a viewer's selection-bias question during Q&A was not fully resolved with data)."
+}

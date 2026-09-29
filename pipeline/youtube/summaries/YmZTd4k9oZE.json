@@ -1,0 +1,24 @@
+{
+  "video_id": "YmZTd4k9oZE",
+  "topic": "application tactics",
+  "relevance": 4,
+  "speaker_role": "unknown (creator claims to have read 'hundreds' of college applications, implying some tutoring/review role, but no formal admissions-officer or counselor credential is stated)",
+  "commercial_incentive": "Possible - references reviewing applications for followers ('can you review my application'), suggesting an informal paid or informal review service, though not explicitly advertised",
+  "key_insights": [
+    "Recommends quantifying activity descriptions with concrete numbers (hours volunteered, number of people tutored/served) rather than vague statements",
+    "Advises using semicolons to separate ideas within the Common App's 150-character activity description limit instead of full sentences, to pack in more concrete information",
+    "Warns against activity descriptions that only restate the obvious (e.g., 'worked with the elderly' for a senior-home job) instead of adding new, specific information",
+    "Suggests not stating what grade an activity started in prose, since the Common App already has checkboxes for that",
+    "Recommends totaling weekly hours across all listed activities to sanity-check they're realistic (given ~168 hours/week, minus sleep and school), warning that admissions officers distrust exaggerated/impossible hour totals",
+    "For students with a clear, specific future major/career plan, suggests using the Common App 'Future Plans' section's 'Other' free-text option (about 100 characters) to add detail beyond the standard major dropdown",
+    "For the Awards section, recommends filling all five available slots even with smaller honors (AP Scholar, honor roll, National Merit progress, Presidential Volunteer Service Award) rather than leaving slots blank, and to move overflow awards (if more than 5) into the Additional Information section",
+    "Recommends using the Additional Information section for extra context (research abstracts, COVID-impact explanations, publications) but keeping entries brief rather than lengthy, and submitting the final application at least 48 hours before the deadline to avoid platform overload/crashes"
+  ],
+  "specific_numbers_or_facts": [
+    "States the Common App activity description limit is 150 characters",
+    "States the Common App 'Future Plans' additional-detail box allows about 100 characters",
+    "Recommends submitting applications at least 48 hours before the deadline"
+  ],
+  "notable_or_distinctive": "The specific mechanical tips (semicolon formatting within character limits, using the 'Other' future-plans free-text box, and copy-pasting essays through a plain-text editor to strip hidden formatting from Google Docs before pasting into Common App) are unusually concrete, tool-specific tactics not commonly covered elsewhere.",
+  "reliability_notes": "Presenter's credentials and role are unclear from the transcript (references reading many applications but doesn't state in what capacity); advice is presented as personal opinion/experience rather than sourced from admissions offices, and some phrasing is informal/crude, suggesting an entertainment-influencer format rather than a professional advising context."
+}

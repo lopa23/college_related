@@ -1,0 +1,19 @@
+{
+  "video_id": "Id3TCbpWR2M",
+  "topic": "off-topic (logic/critical-thinking education)",
+  "relevance": 1,
+  "speaker_role": "unknown (TED-Ed educational animation narrator; not an admissions professional)",
+  "commercial_incentive": "None evident in the transcript",
+  "key_insights": [
+    "Video is a TED-Ed lesson on the logical fallacy of circular reasoning ('begging the question'), not practical advice on applying to college",
+    "Uses a real 1990s legal case (United States v. Virginia) about Virginia Military Institute's men-only admissions policy as its central illustrative example of circular reasoning in an argument",
+    "Explains that VMI's home state argued single-sex admissions should be allowed because it serves the goal of single-sex education, which the video says merely restates the conclusion as its own justification",
+    "Notes the case went to the U.S. Supreme Court, which ruled 7-1 in 1996 that VMI must admit women, with Justice Ruth Bader Ginsburg's opinion cited as identifying the circular reasoning",
+    "Draws a general lesson that familiarity or long-standing precedent (e.g., 'the law has always treated men and women differently') is not itself evidence that a policy is justified"
+  ],
+  "specific_numbers_or_facts": [
+    "The video states the Supreme Court ruled 7-1 in 1996 requiring VMI to admit women"
+  ],
+  "notable_or_distinctive": "The title references 'college admissions,' but the substance is entirely about a legal/logic case study (VMI's exclusion of women) used to teach circular reasoning; it contains no advice on applying to, choosing, or getting into college.",
+  "reliability_notes": "Off-topic for this knowledge base's purpose: despite the title, this is a critical-thinking/logic lesson, not college admissions strategy content, so it offers essentially no actionable admissions insight."
+}

@@ -1,0 +1,21 @@
+{
+ "video_id": "5yV9U1YIam4",
+ "topic": "testing",
+ "relevance": 4,
+ "speaker_role": "test-prep/consultancy marketer (Rob Franek, editor-in-chief of The Princeton Review)",
+ "commercial_incentive": "yes; The Princeton Review is a for-profit test-prep company, and the video promotes princetonreview.com as a data source",
+ "key_insights": [
+  "Test-optional means a student isn't penalized for withholding scores, but a school may still weigh submitted scores, so two otherwise-similar applicants aren't on equal footing if only one submits",
+  "Recommends comparing a student's SAT/ACT score to a school's published 50% mean: submit if well above it, withhold if well below",
+  "Notes students apply to an average of 7-9 schools, and if even one requires scores, that alone can necessitate testing regardless of other schools' test-optional status",
+  "Scores remain tied to scholarship opportunities and honors-college/program admission at many schools even when general admission is test-optional",
+  "Because mostly higher-scoring students have been the ones submitting under test-optional policies, average reported SAT/ACT scores at many colleges have risen"
+ ],
+ "specific_numbers_or_facts": [
+  "About 1,000 colleges were already test-optional pre-pandemic (2019); nearly 3,000 became test-optional overnight during the pandemic (Rob Franek)",
+  "The Princeton Review surveys nearly 2,500 four-year colleges for score data (Rob Franek)",
+  "Students apply to an average of 7-9 colleges (Rob Franek)"
+ ],
+ "notable_or_distinctive": "gives a clear, specific decision rule (submit if above the published 50% mean, withhold if below) rather than vague 'it depends' guidance",
+ "reliability_notes": "presenter's firm sells test prep, an inherent incentive to encourage testing, though the core decision-rule advice is standard counseling guidance; figures are presented as the firm's own survey data without independent verification"
+}

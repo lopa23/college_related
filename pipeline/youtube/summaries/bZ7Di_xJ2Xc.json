@@ -1,0 +1,25 @@
+{
+  "video_id": "bZ7Di_xJ2Xc",
+  "topic": "myths",
+  "relevance": 5,
+  "speaker_role": "independent counselor (college counselor/consultant at 'Elevated School,' relaying secondhand information gathered at a major admissions conference from named current admissions officers)",
+  "commercial_incentive": "Yes - promotes his consultancy's essay-editing service with a discount code and a free 'cheat sheet' lead magnet",
+  "key_insights": [
+    "Reports that some schools (e.g., Virginia Tech, per a cited conference session) use AI to help triage applications (reducing readers per file) but says a human always reads and makes the final decision; other schools (Yale, UCLA, per officers he says he spoke with) reportedly avoid AI in evaluation entirely",
+    "Cites a CMU admissions staffer's example that a purely automated GPA filter could wrongly auto-reject a student with a low numeric GPA from a country with a very different grading scale, arguing this is why human review remains central",
+    "Reports admissions officers were broadly comfortable with students using AI tools for brainstorming/polishing essays (compared it to asking an older sibling for help) but said students should not have AI write entire sections",
+    "Reports officers reportedly encouraged high school counselors to use AI to draft recommendation letters based on past letters and student brag sheets, given the volume of letters counselors must write",
+    "Relays specific school-level essay guidance attributed to named officers: UCLA (Gary Clark) advises getting to the point quickly since UC Personal Insight essays are capped at 350 words; Columbia (Tahhira Crawford) warns against essays that copy structures from viral Reddit posts; Yale's team reportedly emphasized that the short 'Why Yale' essay should focus on the applicant's fit, not just list Yale resources",
+    "Describes a conference workshop on admissions fraud covering transcript fraud (hiding grades after transferring schools), fabricated/nonexistent schools discovered during verification visits, and financial aid fraud (identity theft rings, income concealment), with a warning that suspected fraud is treated as near-certain guilt by at least one cited institution (NYU)",
+    "Reports a conference session concluded that writing about race/culture/identity in essays is still valued by admissions offices despite political pressure against DEI language, often folded into prompts about 'lived experience' or 'community belonging'",
+    "States that for domestic US applicants, contextual comparison is done regionally/by-school-peer-group (not nationally), so a student is compared to peers in their own school/district/demographic context rather than to applicants nationwide",
+    "Reports increased leniency (more deferrals/waitlisting) for international applicants due to visa/policy uncertainty under recent federal policy changes, and recommends international applicants hedge by also applying to UK/Canadian/Australian/New Zealand schools"
+  ],
+  "specific_numbers_or_facts": [
+    "UC Personal Insight Questions are capped at 350 words (per UCLA's Gary Clark as cited)",
+    "Yale's 'Why Yale' supplemental essay is described as about 125 words",
+    "Speaker claims 5+ years advising students into 'every single top 20 school'"
+  ],
+  "notable_or_distinctive": "The secondhand but specifically-attributed claims from named admissions officers at a major professional conference (e.g., CMU, Yale, UCLA, Columbia, NYU staff on fraud) give this more concrete, current (2025) texture than most generic advice videos, particularly on AI-in-admissions policy and fraud detection practices.",
+  "reliability_notes": "All quotes/claims from named admissions officers are the presenter's own paraphrase/recollection from a conference, not primary-sourced or verifiable transcripts, so specific wording and exact context may be imprecise; the video is also a lead-in to the presenter's paid essay-editing service, which may bias framing toward actionable-sounding claims."
+}

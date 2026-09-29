@@ -1,0 +1,23 @@
+{
+ "video_id": "yJcZkruul1E",
+ "topic": "extracurriculars",
+ "relevance": 3,
+ "speaker_role": "test-prep/consultancy marketer ('Crazy Medusa' channel, promotes a research bootcamp product)",
+ "commercial_incentive": "Yes - directly promotes a paid 8-week research bootcamp ('Incognito Blueprint') multiple times, plus references personally advising students",
+ "key_insights": [
+  "Speaker frames the video around AI making essays/reports easy to fake, arguing applicants must show verifiable 'proof' (credentials, external validation) rather than just descriptive claims",
+  "Recommends validating research projects through poster presentations, science competitions, or publication rather than just writing an unreviewed paper",
+  "For hackathons/incubators/startups, recommends showing sustained escalating commitment (e.g. progressing from short to 24-hour hackathons) and measurable impact rather than one-off participation certificates",
+  "Argues startup involvement doesn't require being the founder or making money; community-impact projects (two small examples given: local pothole-repair initiative, pet memoir-writing service) can be compelling if genuine and small-scale",
+  "Warns admissions officers can search claims online, so all activities described should have some discoverable/verifiable online presence to avoid looking fabricated",
+  "Recommends building a verifiable portfolio: Google Scholar/ResearchGate for publications, GitHub for CS contributions, or an online portfolio tool, since these are hard to fake and support application claims",
+  "Suggests participating in a target college's own pre-admission programs (e.g. named example: Yale Young Global Scholars) as a way to build a relationship with that school before applying"
+ ],
+ "specific_numbers_or_facts": [
+  "Named example graduate-level competitions: MIT 100K, Rice Business Plan Competition, Stanford BASES",
+  "Named example pre-college program: Yale Young Global Scholars Program",
+  "Research bootcamp described as 8 weeks long, open to students from grade 9 onward"
+ ],
+ "notable_or_distinctive": "Frames advice explicitly around the AI era, arguing verifiability/proof of authenticity (competitions, publications, GitHub, Google Scholar) is now more important than descriptive claims since AI can fabricate polished-sounding work.",
+ "reliability_notes": "Heavily promotional for the speaker's own paid research program; specific claims about what 'impresses' officers are asserted without citation, and anecdotes (pothole startup, pet memoir startup) are unverifiable individual examples presented as generalizable strategy."
+}

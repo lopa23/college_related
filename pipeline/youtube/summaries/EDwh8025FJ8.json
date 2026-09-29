@@ -1,0 +1,24 @@
+{
+  "video_id": "EDwh8025FJ8",
+  "topic": "demonstrated interest",
+  "relevance": 5,
+  "speaker_role": "former admissions officer (Andrew Hoffman, former Director of Admissions at Swarthmore College, former admissions officer at Vanderbilt University), now runs a paid consulting/content business",
+  "commercial_incentive": "Yes - repeatedly promotes private family sessions, a junior application-materials review service, and mock interview prep at askdrhoffman.com",
+  "key_insights": [
+    "Demonstrated interest matters primarily at 'target'/yield-sensitive schools trying to manage admit and yield rates, not at extremely high-demand brand-name schools that assume most admits will enroll regardless (he names Swarthmore, Columbia, Brown, Harvard as largely not tracking it)",
+    "Ranks 28 specific interest signals from weakest to strongest, e.g., social media follows and viewbook downloads are weak/low-effort; attending a high school visit by an admissions rep, a specific 'why us' supplemental essay, and campus visits are much stronger, largely because they require real effort and are reliably tracked in admissions CRMs",
+    "The single most powerful demonstrated-interest signal is applying Early Decision, since it's a binding commitment to enroll if admitted; being accepted into a college's fly-in program (an all-expenses-paid recruiting visit, mostly aimed at underrepresented/underserved students) is ranked as the second-strongest signal since the college has already invested real money specifically in that applicant",
+    "Explains that data from platforms like Scoir, Naviance, or Common App (adding a school to an 'interested' list) can sometimes flow to colleges via paid data-sharing partnerships, but this varies by vendor-college relationship and is mostly invisible to applicants",
+    "Advises checking the Common Data Set section C7 ('level of applicant's interest') to see whether a specific school self-reports tracking interest as very important, important, considered, or not considered - while cautioning that the office completing that section (often institutional research) may not perfectly reflect actual admissions office practice",
+    "States that at Swarthmore, students accepted into the fly-in program who later applied were admitted at over 75%, compared to the school's overall ~7% admit rate (though this is a self-selected group, not necessarily a causal effect of the program alone)",
+    "Warns against turning interest-demonstration into hollow performative checklisting, arguing officers can distinguish authentic engagement from strategic over-communication"
+  ],
+  "specific_numbers_or_facts": [
+    "Only about 65 U.S. colleges offer fly-in programs (per speaker)",
+    "At Swarthmore, fly-in program admits who applied were admitted at >75% vs. the school's overall ~7% admit rate (per speaker, from his own tenure there)",
+    "University of Chicago tracks summer program attendance specifically to offer an exclusive 'ED zero' early decision round to attendees",
+    "Common Data Set section C7 identified as the specific place to check a school's self-reported level of interest tracking"
+  ],
+  "notable_or_distinctive": "Extremely granular, explicitly ranked 28-item taxonomy of interest signals (from social media follows to fly-in acceptance) with a named, checkable data source (Common Data Set C7) for verifying whether a given school even tracks interest - far more specific than typical 'visit campus and email admissions' advice.",
+  "reliability_notes": "Speaker has genuine former-admissions credentials (Swarthmore, Vanderbilt) lending credibility, but the ranking order is explicitly his own judgment ('may vary from college to college') rather than universal fact; some claims (CRM tracking, vendor data-sharing) are plausible industry knowledge but not independently sourced in the transcript; heavy self-promotion throughout for paid services."
+}

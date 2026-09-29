@@ -1,0 +1,22 @@
+{
+ "video_id": "cU_YNwLN5KM",
+ "topic": "financial aid",
+ "relevance": 3,
+ "speaker_role": "independent counselor / financial-aid consultant (Andy Lockwood, owner of a college planning business)",
+ "commercial_incentive": "heavy: repeatedly promotes a free report and paid consultations at lockwoodcollegeprep.com",
+ "key_insights": [
+  "Under the federal FAFSA formula, money held in a child's name (UTMA/UGMA custodial accounts) is assessed at up to 25% of the balance per year toward expected family contribution",
+  "Parent-owned assets, including 529 plans, are assessed at a much lower ~5.64% under the federal formula",
+  "Primary residence value, retirement accounts (401k/IRA/457), and the value of most small businesses for self-employed filers are FAFSA-exempt and should never be reported",
+  "Life insurance cash value and annuities are also FAFSA-exempt asset types",
+  "Many private colleges use their own institutional methodology and often treat 529 plans as a child's asset rather than a parent's, increasing their impact on aid eligibility at those specific schools",
+  "Presenter claims only about 19% of families actually hold a 529 plan despite its heavy marketing as a college savings vehicle"
+ ],
+ "specific_numbers_or_facts": [
+  "Custodial (UTMA/UGMA) accounts penalize aid eligibility up to 25% of the balance per year (presenter)",
+  "Parent-owned assets/529 plans penalize eligibility at 5.64% under the federal formula (presenter)",
+  "Presenter claims only 19% of families have a 529 account (source not given)"
+ ],
+ "notable_or_distinctive": "gives specific numeric FAFSA sheltering percentages (25% vs. 5.64%) rather than vague 'save in the right place' advice, and flags that many private colleges deliberately reclassify 529s as child assets",
+ "reliability_notes": "presenter explicitly states he is not a financial advisor and gives only broad-strokes figures; video is essentially a lead-generation piece for paid consulting, and exact percentages/policies should be checked against current FAFSA/CSS Profile rules since these change over time"
+}

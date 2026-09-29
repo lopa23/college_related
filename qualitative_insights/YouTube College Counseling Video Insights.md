@@ -183,6 +183,163 @@ Three videos failed to download on connection errors and can be retried: E5SmMV9
 | 1 | dRA4rClD8ug | A2Z 25: Holistic Application Review | Michigan Law | Current AO, but JD/law-school admissions — off-scope |
 
 
+### 0g. Source ledger, round 7 (151 videos, priority-ranked)
+
+| Rel. | Video ID | Title (shortened) | Channel | Speaker / role (condensed) |
+|:-:|:--|:--|:--|:--|
+| 5 | FoPlRnXsDWs | Are Colleges Tracking You? Demonstrated Interest Explained | College Essay Guy | consultant/content creator (College Essay Guy) featuring an on-came... |
+| 5 | TlH7PbaGkaA | Waitlisted? Heres What Colleges Arent Telling You | Ask Dr. Hoffman | former admissions officer (former director of admissions, Swarthmor... |
+| 5 | CfmwSRLU39E | How to Succeed as a Computer Science Student in College Admissions | InGenius Prep | former admissions officer (former admissions officer, University of... |
+| 5 | We8jJcEKkIc | Inside NYU Admissions: What Happens After You Click Submit? | ExpertAdmissions | current admissions officer (assistant vice president of undergradua... |
+| 5 | Gw0ED2q68wM | Inside Ivy League Admissions: What Top Universities Really Look For | A&J Education | former admissions officer (former Brown University undergraduate ad... |
+| 5 | bR5LdHgwG2s | Where Early Decision (or Restrictive Early Action) Matters in College Admis... | SupertutorTV | independent counselor/test-prep marketer (SupertutorTV, ~20 years o... |
+| 5 | WKfbUBHBIeA | Why Your GPA Isnt Everything in the College Admissions Process / EP 30 | Smart College Buyer | independent educational consultant (Nancy Steenson, Steenson Colleg... |
+| 5 | ZitS8TXLVok | Cracking the Code: Holistic review in selective college admissions | IC3 Movement | current admissions officers (Tulane international admission directo... |
+| 5 | yqPmtLL0NCY | How Most Colleges Track Demonstrated Interest (with Christine Bowman) | College Essay Guy | current admissions officer (Christine Bowman, senior admissions adm... |
+| 5 | PJ1wt-eE7Zk | YCBK 377: Dartmouth College: An interview with Admisson Dean, Lee Coffin | School Match 4U | current admissions officer (Lee Coffin, Dartmouth's dean of admissi... |
+| 5 | dcrKdvdnVpg | Holistic Review & Selective College Admissions | Wyoming City Schools | current admissions officer (Gabe Brown, Associate Director of Admis... |
+| 5 | kVMCt3AlNEM | Early Decision vs. Early Action: Should Your Student Apply Early? / College... | Ask Dr. Hoffman | former admissions officer (almost 20 years in college admissions), ... |
+| 5 | S9e5mnU2JXA | Debunking Scary Myths About College Admissions | Niles North CollegeCareerCe... | current admissions officer (University of Oregon) and current admis... |
+| 5 | tzwR42QgWtE | how to apply to college from start to finish | Gohar Khan | independent counselor/consultancy marketer (founder of 'Next Admit'... |
+| 5 | wYDWGayuO6M | What Do Colleges REALLY Look For? Former Ivy League Admissions Officer Reve... | IMPACTdmv Inc. | former admissions officer (Yale, Harvard, Columbia student affairs/... |
+| 5 | AMK8DlPga6A | College Admissions: How A Stanford AO Reviews Your College App (5-Min Expla... | Admitium | former admissions officer (Stanford) |
+| 5 | HUs1yBX6YJ4 | What Do Top Colleges Really Look For? / Kelly Britt, Former Stanford Admiss... | BetterMind Labs / AI ML Pro... | former admissions officer (Stanford, undergrad and grad admissions)... |
+| 5 | 5Xv_0LKpZaI | Applying Early to College in 2026 / Early Decision vs. Early Action Explained | Ask Dr. Hoffman | former admissions officer (former director of admissions, Swarthmor... |
+| 5 | XVzu2A51h8c | How to Apply to Computer Science Programs at Top Universities | Prepory | former admissions officer (8 years at Purdue, senior assistant dire... |
+| 5 | y5zBRpF1svI | College Admissions Myths & Secrets | Coalition for College | current admissions officers (Assumption University, Drew University... |
+| 5 | nn7cKNYbUhg | Building a Solid College List: Reach, Target, Likely. | ARPSTube Channel | current admissions officers (Skidmore College, UMass Lowell, Univer... |
+| 5 | ccp8VrsxJWM | Live Q&A with Northeastern Assistant Director of Undergraduate Admissions | ILUMIN Education | current admissions officer, Assistant Director of Admission at Nort... |
+| 5 | A8GTgQxB04c | 159. Navigating Elite College Admissions: Expert Insights with Jayson Weing... | College Knowledge | independent admissions consultant, senior admissions consultant at ... |
+| 5 | He_WsPExw_k | Webinar: Live Chat with Admissions - University of Notre Dame and Wake Fore... | The Red Pen | current admissions officers: Associate Dean of Admissions at Wake F... |
+| 5 | 12y9tdOCcB4 | September College Admissions Q&A Session | Sara Harberson | independent college admissions strategist/consultant ('Sara Harbers... |
+| 5 | Om6NSmZWUB8 | What Do Colleges Really Look For? A Former UVA Admissions Reader Answers Yo... | Ann Dolin | independent college consultant (Educational Connections), former Un... |
+| 5 | a9SYmeuH74c | In the Admissions Office with Dartmouth College | Service to School | current admissions officer, Director of Undergraduate Admissions at... |
+| 5 | gTxvBY2caVo | The 12 Minute Trick Colleges Use to Pick Students | Dr. Cynthia Coln | former admissions officer (Vassar College), now runs private admiss... |
+| 5 | T3MghKcQv3I | College Bound with Dyslexia: From Admissions to Academics | International Dyslexia Asso... | current admissions officer (Donell Durham, director of Southeast ad... |
+| 5 | smXErdK204k | How to Get off College Waitlists (by Writing a Letter of Continued Interest) | College Essay Guy | independent counselor (College Essay Guy) |
+| 5 | TumWZFPaCaY | Applied Learning: Recommendation Letters | Northwestern Admissions | current admissions officers (Liz Kinsley, Director of Admission, No... |
+| 5 | EDwh8025FJ8 | Demonstrated Interest: What Actually Helps in Admissions? | Ask Dr. Hoffman | former admissions officer (Andrew Hoffman, former Director of Admis... |
+| 5 | qAlhWqBNxL8 | CSS Profile 101 Explained: What Parents Need to Know | College Admissions Counselo... | independent counselor/financial aid consultant (self-described form... |
+| 5 | FKrecPYeYyI | College Admissions Q&A for Parents Answered By Our Experts - Rising Senior... | Ann Dolin | independent counselor / former admissions officer panel (Renee Minn... |
+| 5 | PxCLQHEdUTw | I Analyze a "Successful" College Application | College Essay Guy | independent counselor (known college essay coach/consultant, referr... |
+| 5 | -4QrdEnexJ0 | 3 College Essay Myths (BUSTED) | Garden of English | former admissions officer (Kristin Shaffer, previously worked in un... |
+| 5 | VYvL7GQUez0 | Selective College Admissions: International Student Edition #collegeadmissions | Ask Dr. Hoffman | former admissions officer (Andrew Hoffman, describes leading all ad... |
+| 5 | bZ7Di_xJ2Xc | Everything We Learned At The #1 College Admissions Conference in the U.S. | ElevatEd School | independent counselor (college counselor/consultant at 'Elevated Sc... |
+| 5 | QT9Y8pzwVTQ | Real Talk: Admission Tips | TCU | current admissions officers (Heath Einstein, TCU Vice Provost for E... |
+| 5 | Pfzan93W-MM | Elite College Admissions Game Plan for High School Freshmen | SupertutorTV | independent counselor (SupertutorTV, ~20 years coaching students in... |
+| 5 | 01Z-eMbnTno | Teacher & Counselor Recommendation Letters: What Actually Matters | Ask Dr. Hoffman | former admissions officer (led admissions at Swarthmore College; lo... |
+| 5 | xINoGGMy3aI | The Real Deal on APs & College Admissions | ESM Prep | current admissions officers (Northeastern University director of gl... |
+| 5 | VuDMcOeNY4w | Live Q&A with UCSB Associate Director of Admissions | ILUMIN Education | current admissions officer (Associate Director of Admission, UC San... |
+| 4 | 57rla-2v-Hs | Don't Let This One Thing RUIN Your College Interview! / Tips From a Yale Ad... | Arnold Setiadi | volunteer alumni interviewer (Yale alumni schools committee intervi... |
+| 4 | aPUCVz0ET5M | High School Course Planning That Supports College Admissions (Grades 811) | Matrix College Consulting | independent counselor (Matrix College Consulting, presenting to a s... |
+| 4 | HmAlTtGbVbI | Freshman Year: Does It Really Matter for College Admissions? | College Planning Professionals | unknown (no named speaker or credentials given; branded under 'Coll... |
+| 4 | aojm1toodKw | Financial Aid For College 2026 Ultimate Guide | The Scholarship System | independent consultant/marketer (founder of The Scholarship System,... |
+| 4 | QBeTy4ZlPzc | Erinn Andrews, Former Stanford Admissions Officer, Video Case Study #6 | Afnan Imran | former admissions officer (Erinn Andrews, former Stanford admission... |
+| 4 | QYXZsT7ODUU | All You Need to Know about "Demonstrated Interest" in College Admissions | Insight Eddy | independent counselor (head of counseling at Insight Education, per... |
+| 4 | 2WXJER30HG4 | Building Your College List with Former Columbia and Harvard Admission Couns... | Quad Education Group | independent counselors (two Quad Education admissions consultants; ... |
+| 4 | gpBnpzWwaPg | Applying to College: Helpful Tips for the Common Application Honors and Act... | Renaissance Admissions Cons... | independent counselor (Christina Chong, founder of Renaissance Admi... |
+| 4 | VrVdKe9UwrI | MCA005 Balancing Rigor and GPA | National Center For College... | independent counselor (Jason Fleury, certified financial planner an... |
+| 4 | 5yV9U1YIam4 | If a School Is Test Optional, Should I Still Submit My Sat/Act Scores? | The Princeton Review | test-prep/consultancy marketer (Rob Franek, editor-in-chief of The ... |
+| 4 | rzVbKtqwyh0 | College Admission Recommendation Letters: Tips for Students 2023 | Campus Bound | independent counselor (Jen Foran, college counselor at Campus Bound) |
+| 4 | a7k9c6vGbkM | Admissions Myths: What Social Media Gets Wrong | Moon Prep | independent counselors (Moon Prep counselors Nicole and Kieran; Nic... |
+| 4 | _ddg3lRLJCA | CSS Financial Aid PROFILE vs. FAFSA | Edspira | unknown (educational YouTube channel presenter, appears to be an ac... |
+| 4 | iv4qWu_8sh0 | how to choose the best college for you: research, match your personality ty... | studyquill | student (recent 2020 high school graduate, UCLA undergraduate) |
+| 4 | gcJtjKZH10U | Everything you need to know about the COLLEGE APPLICATION PROCESS (College... | Angelica Michelle | student (recent college applicant sharing personal experience) |
+| 4 | Ym3s_iouH9k | CSS Profile & FAFSA Verification: How Colleges Audit Financial Aid Forms | College Aid Pro | independent counselor (financial aid advisor, 'College Aid Pro') |
+| 4 | vyzEjU1znfQ | How to apply as an international student | CollegeVine | test-prep/consultancy marketer (CollegeVine channel host) |
+| 4 | HhFZUzKAu6A | College Admissions Hack: Outside Courses That Get You In | College Admissions Counselo... | independent counselor/consultancy marketer (self-described former U... |
+| 4 | yxWi2ISK9tw | How Do Colleges Really Evaluate Your High School Course Rigor? - Asian Amer... | Asian American Student Success | unknown (channel 'Asian American Student Success'; no credentials s... |
+| 4 | JSKYzlp7TDc | Maximize your dream school chances: How to leverage early and regular decis... | Amy Wang | student/recent admit (Caltech), now running a college consulting se... |
+| 4 | m1I6MH7AdR4 | 3 FAFSA secrets to help you get the most financial aid | The Scholarship System | independent counselor/founder of a scholarship coaching business |
+| 4 | oVt3pg8evfI | How to CRUSH your College Interview (as told by a Yale 2020 grad) | ElevatEd School | Yale alumnus (2020 grad) who does paid interview coaching |
+| 4 | ModEWA7wTw8 | What Is Demonstrated Interest In College Admissions? | College Admissions Insider | unknown (channel 'College Admissions Insider'; no credentials state... |
+| 4 | 7KFIu5Pumso | How to Build a Balanced College List (Reach, Match, Safety Explained) | Sky Academy | independent/college counselor (self-identified, 'Sky Academy Colleg... |
+| 4 | 4ciBIvj0-ns | extracurricular activities that top colleges DO/DON'T want to see | Shinwoo Lee | test-prep/consultancy marketer (admissions consulting business, 'in... |
+| 4 | hY_UKC_AdhM | COLLEGE ADMISSIONS 101 / MAGELLAN COLLEGE COUNSELING | Magellan College Counseling | independent counselor (certified educational planner, UC Berkeley c... |
+| 4 | ZlOGhfeb_cI | College Admissions Advice: SMU Insider Tips You Cant Google | From Classroom To Campus | current admissions officer (community outreach/admission counselor,... |
+| 4 | 92Fn-B1MITM | 11 College Admissions Myths: Debunking Common Misconceptions about the Coll... | InGenius Prep | college admissions coach/consultant (InGenius Prep); relaying secon... |
+| 4 | GOozdFLbVfs | 5 Most Important Questions For Your Teen's High School Counselor | Lisa McLaughlin | independent college admissions strategist/consultant (~30 years exp... |
+| 4 | r2JCJJnOOJk | How Yale Uses Podcasting to Demystify Ivy League Admissions | Continuing Studies Podcast | current admissions officers, Senior Associate Directors of Admissio... |
+| 4 | QHWVjPMt5Wc | FAFSA vs CSS Profile Which Financial Aid App Do I Need | Dobler College Consulting | independent college consultant (Dobler College Consulting) |
+| 4 | NkA11TZ9fgw | The Secrets of Elite College Admissions (MUST WATCH) | AchievED | independent YouTuber/content creator (AchieveEd), not an admissions... |
+| 4 | xaD5ox-OkME | THE BLUEPRINT: My Exact 4-Year Plan for Ivy League Admission (no-bs) | Pratik Vangal | student/recent applicant (self-described college freshman, successf... |
+| 4 | TMk5IR4O02g | Should You Send SAT Scores to Colleges or Apply Test Optional? | Solution Prep | test-prep/consultancy marketer (Eric, Solution Prep) |
+| 4 | 7eY8R8sXAnM | The 5 Best-Kept Secrets for Ivy League Admissions | Ivy Admission Help | independent admissions advisor/YouTuber, credentials not stated in ... |
+| 4 | 5U02guztW_w | College essay topics that WOWED admissions officers / UPenn, Dartmouth | Athena Education | independent essay coaches/consultants (Athena Education) |
+| 4 | 19MspUAvqpY | Admissions, Financial Aid, and Hacking the System: Live College Advice Q&A... | CounselMore Software | independent college consultants (Lee Norwood of College Sharks and ... |
+| 4 | R0c8WnxLsH0 | College Admissions 101: What Do Colleges Look For? / The Princeton Review | The Princeton Review | test-prep/consultancy marketer (Rob Franek, Editor-in-Chief, The Pr... |
+| 4 | Aky4OQELw1A | Alumless Takes on Alumni Admissions with Meg Lysy | CMAC Podcasts | current university administrator (Meg Lysy, Senior Director for Alu... |
+| 4 | cb64AJAomO4 | How I got into MIT - Reading my essays + application advice | Dana Rubin | student/alum (Donna, self-described MIT computer science graduate) ... |
+| 4 | khnHoqOexzw | 10 College Interview Tips from a YALE ADMISSIONS INTERVIEWER! | Arnold Setiadi | current admissions interviewer (Yale Alumni Schools Committee volun... |
+| 4 | 0qkXPNmDeEo | How IVY LEAGUE ADMISSIONS think: secrets to college admissions | Amy Wang | independent counselor (founder of a paid admissions consultancy, Ha... |
+| 4 | YmZTd4k9oZE | Last-Minute College App Tips to Get Into Your Dream School | Pratik Vangal | unknown (creator claims to have read 'hundreds' of college applicat... |
+| 4 | lIzULJyZeS0 | Demonstrated Interest in College Admissions: What You Must Know | The Scholarship System | independent counselor/scholarship consultant (founder of a scholars... |
+| 4 | RG34Nt_hVMs | What to Do If You're Waitlisted or Deferred #collegeadmissions #admissionsi... | AdmissionSight | independent counselor (admissions consultancy representative, Admis... |
+| 4 | t3cwBziF4ps | How To Build Your College List: Reach, Target, And Safety Schools | Mocaa | independent college consultant (unnamed, works with admissions offi... |
+| 4 | 4pXxb4L4ajc | How to Create Your College List (Step-by-Step Guide) | Leahs Study Tips | student (rising sophomore at Georgetown, content creator, not an ad... |
+| 4 | tZqbNPdPFtk | How to Get Into an Ivy League School | Gohar Khan | former applicant/content creator with admissions-counseling coursew... |
+| 4 | sZHUntNJnsQ | College Planning Tip 17 - Demonstrated Interest in Admissions | Smart College Buyer | independent counselor (Nancy Steenson of Steenson College Coaching,... |
+| 4 | 6zsw5C8nm5s | Stanford University: The pros, the cons, and how to get in. | Ivy Admission Help | independent counselor/consultant (unnamed narrator, 'Ivy Admission ... |
+| 4 | sO9DQUWrGSU | 5 Biggest LIES About Applying to College | ElevatEd School | test-prep/consultancy marketer (ElevatEd School, essay-editing serv... |
+| 3 | b3QkpvLiEuU | Early Action vs Early Decision vs Rolling Admissions Whats the difference? | From Nest To Wings | unknown (presenter identified only as 'Margaret Meek'; no admission... |
+| 3 | LmF9fDdoUWI | SAT/ACT Text Optional Pro's and Con's for College Admissions | Ed Zamora College Prep Channel | independent counselor/test-prep marketer (Ed Zamora, Principia Prep) |
+| 3 | 4qY9icExjEw | Succeeding at the college admissions interview | YouTube College Admissions | unknown (multiple unnamed individuals presented as admissions/inter... |
+| 3 | wc239ieDTUU | What the heck is Holistic Admissions? | CollegeMeister | independent counselor (Craig Meister, college admissions coach, Col... |
+| 3 | rVHOfp_5YdA | How to Show Demonstrated Interest to Colleges (Examples + Strategies That W... | Kristina from Ivy Lounge Te... | test-prep/consultancy marketer |
+| 3 | cU_YNwLN5KM | How to Legally "Hide" Your Money to Get College Financial Aid (2022) | Lockwood College Prep | independent counselor / financial-aid consultant (Andy Lockwood, ow... |
+| 3 | AD23voSRhCM | How to Build Your College List | Lour Drick's Room | student (self-described Stanford admit narrating from personal expe... |
+| 3 | dcgd2URf1CM | Dear Former Admissions Officer Teaches YOU Who to Ask for THE BEST Recommen... | Crimson Education | former admissions officer (unnamed individual identified only as a ... |
+| 3 | aVJ9Ktbb6kU | Is Test-Optional Really Optional? Top 10 questions about SAT and ACT and co... | College Shortcuts | test-prep/consultancy marketer (founder of College Shortcuts, self-... |
+| 3 | jvXfxs0bTho | Students Get College Applications Judged In Person / HOT SEAT | Jubilee | current admissions officers (unnamed, from real but unidentified in... |
+| 3 | HFcfnyyZUgY | Navigating College Admissions as a First-Gen Parent | Viva la Mami | independent counselor/consultancy marketer (podcast host, former ad... |
+| 3 | yG8xFF9jhoU | USA College Admission explained () | Investment Insights Tamil | unknown (Tamil-language YouTube host covering US admissions for an ... |
+| 3 | K3fw8OAvqsA | ASMR college counselor curates a uni list for you! | Leesie's ASMR | unknown (ASMR/roleplay content creator portraying a school college/... |
+| 3 | 3r6ZGz5B2Bg | 10 MISTAKES TO AVOID IN YOUR COLLEGE INTERVIEW Do's & Don'ts of College Int... | Dyllen at Next Gen Admit | independent counselor/consultancy marketer (Stanford graduate, admi... |
+| 3 | -EGGExoT3y4 | Financial Aid- (the CSS Profile) | Cash for College with AGACP | test-prep/consultancy marketer (self-described financial aid/colleg... |
+| 3 | jI3MTMngkrc | What to Do EACH Year of High School / Prepare for College | Makayla MacGregor | student/recent applicant (YouTuber, not identified as counselor or AO) |
+| 3 | Q3CH53lL4zM | I listened to the Yale admissions podcast so you dont have to. | lily mutai | student/applicant summarizing a secondhand source (the official Yal... |
+| 3 | yJcZkruul1E | How to Actually Stand Out in US College Admissions in 2026/2027 | Crazy Medusa | test-prep/consultancy marketer ('Crazy Medusa' channel, promotes a ... |
+| 3 | h21OmjyviC4 | The Truth about College Admission / Alex Chang / TEDxSMICSchool | TEDx Talks | student/education entrepreneur (self-identified Harvard CS student ... |
+| 3 | egReg_TBeC4 | What Should You Study to Major in Computer Science #computerscience #colleg... | AdmissionSight | consultancy marketer/narrator for AdmissionSight (an admissions con... |
+| 3 | isJK6ZV6_Ao | How I Got Into RSI (Research Science Institute) - The Application Process | Rishab Jain STEM | student (successful 2022 RSI attendee), explicitly anecdotal, not a... |
+| 3 | 1e88aIcVB3k | Creating a College List - Reach, Target & Safety Schools | Fiveable | unidentified narrator on Fiveable (an AP-exam-focused ed content pl... |
+| 3 | -cmtH6KVCxI | How to get into the Ivy League: Tips on US College Admissions | Paschar Consulting for Ivy ... | independent counselors/consultancy marketers (founders of Pasha Con... |
+| 3 | kwqPmkHef9k | Waitlisted or Deferred From Your Top College? Crucial Tips for 2025 | Empowerly | independent counselor (Empowerly college counseling) |
+| 3 | w9UMYERouXQ | What Is Holistic Admissions? 9 Things Universities REALLY Look For | Well Rounded Admissions Con... | independent counselor (Katrina Marie, Well Rounded Admissions Consu... |
+| 3 | m1MgkokOv3s | Accepted, Denied, Deferred, Waitlisted / College Decisions Explained | Homeschool to College | unknown - appears to be a homeschooling parent/blogger (Homeschool ... |
+| 3 | TXz_COc_YVE | Should You Submit Your SAT Scores? The Test-Optional Strategy That Determin... | Admissions Paradigm | independent counselor/consultancy marketer (Park Hye-sung, Admissio... |
+| 3 | fXZCtVJXO4E | How to Ace the College Interview | Lour Drick's Room | student (recent applicant sharing personal experience with alumni i... |
+| 3 | iw8_Dowr2jc | How Do Colleges Use Weighted Vs Unweighted GPA? - Asian American Student Su... | Asian American Student Success | unknown (Asian American Student Success channel narrator, credentia... |
+| 3 | 1FmS1BvJRYA | want research experience in high school? i gotchu. (FULL GUIDE) | Shinwoo Lee | student/content creator (not an admissions officer or researcher) |
+| 3 | 9keb9JN1EcI | Tips for getting an edge on college admissions | PIX11 News | independent counselor/author (Danny Ruderman, author of 'Top 100 An... |
+| 3 | M-LKDX7LCUQ | College Life: The Dartmouth Experience | InGenius Prep | Dartmouth alum (interviewed as part of InGenius Prep's admissions i... |
+| 3 | VZU93s67AVc | How Do Universities Use The CSS Profile For Financial Aid? - College Admiss... | College Admissions Insider | unknown (College Admissions Insider channel narrator, credentials n... |
+| 2 | PM4NeEAPSGU | University of Utah Q&A w/ Admissions Counselor SarahMay Case! - UCAC Video... | UCAC Video Advising | current admissions counselor (University of Utah) |
+| 2 | 8iGgj_9ymms | How Do Colleges Value AP And IB Coursework? | College Admissions Insider | unknown (no named speaker, institution, or credentials given; appea... |
+| 2 | fGtJCdcTO8M | Live Q&A with Admissions Counselors | Chico State Admissions | current admissions counselors (Chico State admissions office staff,... |
+| 2 | YnL_GxaCQUg | How Does Holistic Review Work In University Admissions? | Latino Education in America | unknown |
+| 2 | bat5V95SjgA | How Do Colleges Really Evaluate Your High School GPA? / Asian American Stud... | Asian American Student Success | unknown |
+| 2 | rq1_1UQOD04 | How to fill out the FAFSA and CSS Profile to win scholarships | Best College Aid in English | test-prep/consultancy marketer (Best College Aid channel) |
+| 2 | hYV5HqPKFS4 | How to Choose a School / How to College / Crash Course | CrashCourse and Study Hall | unknown (Crash Course/Study Hall host, general education content, n... |
+| 2 | YtAn7RwsxUc | First-Generation College Students, You Got this! | Lauren Valdez | independent mentor/content creator (self-described; not an admissio... |
+| 2 | WmIqt6Bj6bo | Building Your Balanced College List: Reach, Target, and Safety Schools Unco... | East Coast Admissions | podcast host/narrator for East Coast Admissions, a consulting compa... |
+| 2 | JEtNxNW0bRU | How Can We Solve the College Student Mental Health Crisis? / Dr. Tim Bono /... | TEDx Talks | faculty psychologist, not an admissions professional (Dr. Tim Bono,... |
+| 2 | To5dk50ZQOM | GPA Recalculation: What Top Colleges Look For? - Junior Year Jumpstart | Junior Year Jumpstart | unknown (no named presenter or credentials; appears to be a scripte... |
+| 2 | XgEhOeHuhMw | How Do Colleges View Late GPA Improvements in Applications? / Senior Year S... | Senior Year Strategies | unknown (no named presenter or credentials; scripted/narrated expla... |
+| 2 | QLJtMfdrOtk | Secret to College Admissions: Extracurriculars | Go Gainst Grain | student/former applicant (speaks from personal high school experien... |
+| 2 | Nuzq8F7-YpY | What Are the Benefits of College Counseling for First-Generation Students? | Private Schools America | unknown (no named presenter or credentials; scripted/narrated expla... |
+| 2 | XS4nSOD_xOw | Safety, Match & Reach Schools Explained: Build a Balanced College List | Appily | unknown (Appily content channel, narrator not identified) |
+| 1 | jpVllUBcWd4 | 10 Admissions Myths Debunked | GMAT Club | consultant/marketer (senior consultant at MBA Mission, a paid MBA a... |
+| 1 | F4nmGTa10Dk | Holistic Review in Graduate Admissions | CSUSB Graduate Studies | other (university graduate-studies faculty director presenting inte... |
+| 1 | OwnWJ4hsE1Y | Get Accepted to Dartmouths Geisel School of Medicine | Accepted | current admissions officer (Associate Dean for Admissions, Dartmout... |
+| 1 | y0bNUKkwd2s | I Got Accepted Into College // Majoring in Computer Science | Jordan the CS | student (personal vlog) |
+| 1 | Id3TCbpWR2M | Can you outsmart the college admissions fallacy? - Elizabeth Cox | TED-Ed | unknown (TED-Ed educational animation narrator; not an admissions p... |
+| 1 | 1rT2yFdqDWU | The Complete Guide to College Admissions | introvertedmadness | unknown (comedy/satire content creator; not an admissions professio... |
+| 1 | dHuOUcV5kjw | Oxbridge Admissions Teachers' Webinar, St Catharine's College | St Catharine's College, Cam... | current admissions officers (Cambridge University's St Catharine's ... |
+| 1 | CL2cSdEsPPA | My job as a Financial Aid Counselor at Barry University | Barry University | current financial aid counselor at Barry University |
+| 1 | YyLkVqXULYQ | Meet NIU Admissions Counselor Tedra Mewhirter | Northern Illinois University | current admissions counselor at Northern Illinois University (fresh... |
+
+
 ## 1. How files move through an office (the strongest content in the set)
 
 Six of the top-rated videos are about how reading actually works. The most detailed three are from a single ex-Swarthmore director, so treat them as one source's view, with the caveat that he says outright that practice varies by college and that several of his examples (rating charts, mock systems, committee votes) are **fictional illustrations**, not real data.
@@ -476,9 +633,81 @@ Three financial-aid videos this round add real mechanical detail beyond round 3'
 
 ---
 
+## 6f. Round 7: a 151-video surge — named-officer panels on holistic review, demonstrated interest, rigor/AP policy, and college-list mechanics
+
+This round is more than four times the size of any prior round (151 videos vs. 16-34), so coverage below is organized by theme rather than video-by-video, citing IDs for anything a claim should be traced back to. A striking share of this round's highest-rated content (over a dozen of the 45 videos rated 5) comes from **named, identifiable current admissions officers speaking on the record** — Stanford, NYU, Dartmouth, Notre Dame, Northeastern, UCSB, Northwestern, Wake Forest, Tulane, TCU, Marist — a step up in primary-source density from every prior round except the FERPA file reviews.
+
+### 6f-a. Holistic review mechanics, direct from named officers at six more schools
+
+- **A former Brown admissions officer** confirms Brown scored each application section (academic profile, letters, activities) on a **1-5 scale** to produce a composite used for "strong consideration," on a fully human, rolling read (no algorithm/AI), with attempts to game the system (e.g., late high school transfers to boost rank) usually caught by officers familiar with regional feeder schools. *(Gw0ED2q68wM)*
+- **A former Vassar officer** describes reading ~25-35 files/day at ~10-12 minutes each on a **12-point internal grading scale**, recalculating GPA independently via the "five academic food groups" (English/math/science/social science/foreign language), and one year having to move ~30 already-admitted students back to the waitlist to correct a regional acceptance rate from 22% down to a 20% target — a rare concrete admit-to-waitlist "un-admission" mechanic. *(gTxvBY2caVo)*
+- **A former Stanford AO** walks through Stanford's actual reading order (transcript → activities → essays → letters → interview report), territory assignment by geography, pre-season calibration reads, and write-up time ranging from ~10 minutes (quick deny) to ~40 minutes (advocated file). A second former Stanford AO (also ex-grad-admissions) gives specific internal weighting — roughly **40% academic record / 30% extracurriculars / 30% "texture"/character** — and states AI-drafted essays are actively flagged when near-identical essays surface from the same school, which can lead to rescinded offers post-admission. *(AMK8DlPga6A; HUs1yBX6YJ4)*
+- **A current Notre Dame officer** (17 years in the office) defines "selective" as admitting under ~1/3 of applicants (true of a minority of the roughly 2,700-3,000 US four-year colleges), confirms test-optional truly means either path can be equally competitive, and explicitly states part-time jobs and family caregiving count as legitimate extracurricular activities. *(dcrKdvdnVpg)*
+- **A live four-school international-admissions panel** (Tulane, GW, Northeastern, plus a HS counselor) ran a mock committee on three real anonymized international files: Tulane fields ~36,000 applications for 1,700 seats, with ~18,000 judged academically qualified but only 6,000-7,000 admitted — most cuts happen on non-academic grounds; readers explicitly check whether both parents attended college to flag first-gen status; predicted (not final) exam scores like UK A-levels aren't counted. *(ZitS8TXLVok)*
+- **A current NYU AVP of admissions** gives an unusually granular backend-software walkthrough: ~120,000 applications processed via bundled overnight data/PDF files (same-day submissions aren't visible until the next morning), colleges choose which Common App fields appear on their internal PDF (NYU suppresses SSNs from the review PDF though it still gets the data separately for aid matching), and documents submitted by email/mail (vs. electronically via counselor software) can sit unmatched for 1-2 weeks in peak season. *(We8jJcEKkIc)*
+
+### 6f-b. Demonstrated interest: five sources converge on CRM mechanics, and a named ranked taxonomy
+
+Demonstrated interest was the single most-covered topic this round (8+ videos), and for the first time the project has **on-camera admissions officers screen-sharing their own institution's real CRM software**:
+- A Southwestern University AVP of admissions and a separate named senior admissions administrator both demo live CRM dashboards (one demoed with her own child's real, years-long tracked record with her permission) showing color-coded interest scoring built from email opens/clicks, event attendance, fair-badge scans, portal logins, and even per-email open duration/device. *(FoPlRnXsDWs; yqPmtLL0NCY)*
+- **A former Swarthmore/Vanderbilt AO** gives the most granular taxonomy in the whole project: a **28-item ranked list of interest signals** from weakest (social media follows) to strongest (fly-in program admission, then Early Decision itself as the single strongest signal), with a concrete stat — only ~65 US colleges offer fly-in programs, and Swarthmore's own fly-in admits were admitted at >75% vs. the school's overall ~7% rate. Confirms demonstrated interest matters mainly at yield-sensitive "target" schools, not at brand-name schools (names Swarthmore, Columbia, Brown, Harvard as largely not tracking it) — directly corroborating a separate independent counselor's segmentation that interest tracking is a smaller/lesser-known-school phenomenon. *(EDwh8025FJ8; QYXZsT7ODUU)*
+- Every demonstrated-interest source this round independently points to the same actionable check: **Common Data Set section C7** ("level of applicant's interest") to see whether a specific school self-reports tracking it at all — now corroborated by five separate sources across two project rounds.
+
+### 6f-c. Course rigor and AP policy — a named-officer panel directly confirms exam scores don't matter at one school
+
+- **A three-school named-officer panel** (Northeastern, UVA, Notre Dame) states plainly that Northeastern **does not look at AP exam scores at all** in the admissions review — only the coursework/rigor; a 4 or 5 only matters afterward for college credit. All three schools agree rigor is judged "in context" of the student's own school profile, and a course not taken because the school doesn't offer it isn't penalized. *(xINoGGMy3aI)*
+- **A UCSB associate director** (19 years in the office) explains the UC system's internal weighted GPA is calculated **only from sophomore and junior year grades** (students self-report, UC doesn't take the transcript at face value), and that UC's five capped engineering majors admit directly with **no internal-transfer path later**, regardless of GPA. *(VuDMcOeNY4w)*
+- Two independent-counselor sources add a sharper edge than prior rounds: one ranks specific AP courses by an internal "hierarchy of rigor" (Physics/US History/Calc as high-rigor vs. Psych/Human Geography/Seminar as lower-rigor, with AP Statistics explicitly *not* treated as calculus-track), and a **current SMU officer** states he'd rather see a mostly-B transcript with maximum available rigor than an all-A transcript with no APs. *(WKfbUBHBIeA; ZlOGhfeb_cI)*
+- A financial-planner-turned-consultant pushes back against rigor-maximalism: if a target school's own Common Data Set shows GPA weighted more heavily than rigor, he advises protecting GPA over stacking APs, since a GPA shortfall can cost scholarship eligibility even in a strong application. *(VrVdKe9UwrI)*
+
+### 6f-d. College list building: reach/target/safety mechanics, and a first dedicated look at disability/learning-difference fit
+
+- A four-officer panel (Skidmore, UMass Lowell, U Vermont, Merrimack) plus a rep from **Landmark College** (which serves students with learning differences) is the project's first dedicated treatment of choosing a list by disability-support infrastructure: only ~17% of students who received high school accommodations go on to access college disability resources, correlating with lower bachelor's completion (~33-34% vs. ~50%+ nationally). *(nn7cKNYbUhg)*
+- **A Marist admissions director**, an Auburn disability-program director, and a HS counselor give unusually candid guidance on disclosing a neurodivergent diagnosis: genuinely institution-specific (can help explain a grade trend or connect to programs, but some schools have denied students they judged they couldn't adequately support), and recommend asking admissions directly for disclosure/waiver statistics. Same panel cites internal multi-year data that per-applicant acceptance rates dropped to 65% once a student applied to 10+ schools, attributed to less-tailored applications. *(T3MghKcQv3I)*
+- Consistent, now heavily-corroborated mechanics across ~10 list-building videos this round: reach defined as roughly <20% admit chance for the student's own stats, safety as >80-90%, recommended total list size clustering around 8-15 schools (a few sources cite up to 20-40 as a "shotgunning" trend some students pursue anyway); a safety school can still deny an over-qualified applicant via yield protection. *(2WXJER30HG4; 7KFIu5Pumso; FKrecPYeYyI; t3cwBziF4ps; 4pXxb4L4ajc)*
+
+### 6f-e. Early decision/action — named 2026-cycle policy changes and a rescinded-offer anecdote
+
+- **A former Swarthmore/Vanderbilt AO** lists specific 2026-cycle early-program changes (WashU adds EA; Occidental and Connecticut College add EA; Chapman adds ED2; USC adds ED for most programs; Florida and Florida State add ED), underscoring that these policies shift yearly and must be checked directly rather than assumed stable year to year. Gives a real anecdote from the speaker's own admissions career of a Barnard ED admit's family-contribution appeal reducing an initial ~$40,000/year expected contribution to under $5,000/year after documentation. *(5Xv_0LKpZaI)*
+- A second Hoffman video recounts a first-person case of two institutions independently rescinding offers after a student tried to keep other applications open post-ED-admission — concrete enforcement evidence for the "ED is ethically binding" claim already documented in earlier rounds. *(kVMCt3AlNEM)*
+- An independent counselor's data-driven breakdown quantifies the early-vs-regular admit-rate gap by name: Columbia ~12.5% early vs. ~2.7% regular (4.6x); Dartmouth's ED rate (21.3%) is the highest in the Ivy League; Notre Dame fills ~82% of its class via restrictive EA despite only a 1.7x early-vs-regular multiplier — while flagging that legacy/athlete concentration in early rounds inflates the apparent unhooked-applicant advantage, consistent with round 6d's mechanical explanation of the same gap. *(bR5LdHgwG2s)*
+
+### 6f-f. Recommendation letters — two current Northwestern officers, and a 100,000-letter veteran
+
+- **Two current Northwestern admissions officers** confirm bullet-point letters are explicitly preferred over prose ("we're both team bullets"), that "relative" language (how a student compares across a teacher's *entire career*, not just one class) is especially valuable, and that Northwestern requires at least one academic-subject teacher letter (most often sees two) plus one counselor/administrator letter, against ~51,000+ applications/year. *(TumWZFPaCaY)*
+- **A former Swarthmore/Vanderbilt AO** who says he's personally read over 100,000 recommendation letters gives a specific decline-friendly request script ("Would you feel comfortable writing me a strong letter?") and states a hard-won B+/A- from a teacher who saw real effort can produce a stronger letter than an easy A. *(01Z-eMbnTno)*
+- A independent counselor adds the FERPA mechanic behind why high schools can't submit outside (non-teacher) recommender letters directly — the student must personally invite them via the Common App portal. *(rzVbKtqwyh0)*
+
+### 6f-g. Financial aid — CSS Profile mechanics get their most detailed treatment yet
+
+- **A self-described former reader turned financial-aid consultant** gives the most granular CSS Profile walkthrough in the project: ~18 colleges reportedly settled a CSS-Profile-practices lawsuit for ~$250 million (a second suit described as ongoing), tactical advice to skip every optional question, use county-assessed (not market) home value, and time major asset changes like a home purchase around the "base year" used for the first filing. *(qAlhWqBNxL8)*
+- A financial-verification/audit process most FAFSA/CSS content skips: the College Board's **IDOC service** centralizes tax-document verification for CSS-requiring schools; some schools (Penn, Boston College named) require 100% institutional verification rather than IDOC. *(Ym3s_iouH9k)*
+- Multiple sources converge on individual colleges setting **earlier-than-general priority deadlines** for FAFSA/CSS, with missing one costing real money even when the general FAFSA window is technically still open (anecdotes ranging $17,000-$40,000 in lost aid). *(aojm1toodKw; m1I6MH7AdR4)*
+
+### 6f-h. CS/engineering admissions, essays, interviews, waitlists, and international admissions
+
+- **A former UChicago AO** (now at InGenius Prep) and **a former Purdue CS/engineering senior assistant director paired with a former Dartmouth staffer** converge on the same core CS-admissions finding: technical skill alone is assumed at this applicant pool's level; what differentiates is a project connected to genuine personal motivation (named examples: a PCOS symptom-tracker built by a student who has PCOS; a job-access platform for a sibling with special needs that scaled to 50+ companies). Cites UIUC (~37% overall vs. <10% CS) and CMU (~11% overall vs. <5% CS) admit-rate gaps between general and CS-specific admission. *(CfmwSRLU39E; XVzu2A51h8c)*
+- **A former Duke MBA admissions officer** (also undergrad UCF admissions) gives the clearest mechanistic explanation yet for why optional essays matter: at a school targeting ~10% selectivity with ~10,000 applicants for a 700-seat class, ties among stat-identical applicants get broken partly by who submitted the optional essay — and recounts encountering the identical "shark cage diving" essay topic five separate times over 3.5 years, illustrating that reflection matters more than novelty of experience. *(-4QrdEnexJ0)*
+- **A Yale alumni interviewer** states interviewer assignment is by regional availability, not merit, so getting an interview isn't itself a signal; interviewers usually see nothing but the applicant's name beforehand and file their report within 1-3 days, undercutting the idea that a thank-you note meaningfully changes the report. *(57rla-2v-Hs)*
+- **The same former Swarthmore/Vanderbilt AO** gives the project's first insider account of waitlist mechanics: waitlists exist as enrollment-management insurance, not a ranked near-admit list; a "courtesy waitlist" is effectively a soft denial to preserve a school/donor relationship even though the letter looks identical to a real one; most schools' waitlists are unranked per newer Common Data Set disclosures. Paired with a line-by-line annotated real letter of continued interest (to Yale) breaking down five components or a strong LOCI. *(TlH7PbaGkaA; smXErdK204k)*
+- **The same speaker's international-admissions video** explains need-blind (~a dozen US colleges) vs. need-aware pools for international applicants, admit rates for aid-seeking international students at the most generous schools running near 1% or below, and that curriculum-specific regional officers (IB, A-levels, French Bac, CBSE, etc.) read applicants within their own system's context. *(VYvL7GQUez0)*
+
+### 6f-i. Two more named Ivy-adjacent deans/officers on the record, plus a conference recap
+
+- **Dartmouth's dean of admissions, Lee Coffin**, states on record that unmeasurable personal qualities (curiosity, kindness, creativity, collaboration) meaningfully drive admit decisions even though they can't be quantified, gathered mainly through essays/recommendations/interviews rather than the activities list itself; hosts separately note colleges increasingly identify specific low-yield-probability applicant profiles by region/major/GPA band ("yield protection"). *(PJ1wt-eE7Zk)*
+- **Dartmouth's Director of Undergraduate Admissions** (20+ years, decade as director) details veteran-applicant accommodations: any prior college coursework triggers "transfer applicant" status but veterans can choose whichever round fits their timeline, and Dartmouth has never required standardized testing from veterans, citing unrepresentative in-military testing conditions. *(a9SYmeuH74c)*
+- **TCU's Vice Provost for Enrollment Management** (since 2012) confirms a "do no harm" test-optional policy (submitted scores excluded entirely if they'd hurt the applicant), that reading doesn't start until after the Nov. 1 deadline (so last-minute submission isn't a disadvantage), and gives concrete named-scholarship mechanics (Chancellor Scholars: ~120-130 interviewed, ~40 awarded, full tuition). *(QT9Y8pzwVTQ)*
+- A counselor relaying a major admissions conference reports named officers' current (2025) AI policy split: Virginia Tech reportedly uses AI to triage volume (always with human final decision) while Yale and UCLA reportedly avoid AI in evaluation entirely; officers were broadly comfortable with AI for essay brainstorming but not full drafting, and reportedly encouraged *counselors* to use AI to draft recommendation letters given typical 400+ caseloads. *(bZ7Di_xJ2Xc)*
+
+### 6f-j. Off-scope and low-signal content, noted for completeness
+
+Several videos were flagged off-scope per this project's US-undergraduate focus: a University of Michigan-adjacent GMAT/MBA myths video *(jpVllUBcWd4)*, a CSUSB graduate-admissions training webinar *(F4nmGTa10Dk)*, Dartmouth's Geisel medical school admissions *(OwnWJ4hsE1Y)*, and a Cambridge/Oxbridge admissions teachers' webinar *(dHuOUcV5kjw)*, which uses a fundamentally different UK system. A TED-Ed video titled around "the college admissions fallacy" turned out to be a general logic lesson using an unrelated legal case as its example *(Id3TCbpWR2M)*, and one video was explicit comedic satire, not genuine advice *(1rT2yFdqDWU)*.
+
+---
+
 ## 7. Coverage, gaps and how to extend it
 
-- **What was collected:** 460 candidate videos logged; 136 with transcripts and all 136 summarized (one, 005TMfaVdqU, confirmed a duplicate upload and not separately used); 321 waiting on transcripts and 3 failed on network errors (retryable: E5SmMV9-UbM, 6NROjyTccMU, FqvFkoM9JMU). The database `pipeline/youtube/youtube_videos.db` (table `videos`) tracks each video's ID, title, channel, duration, status (`discovered`, `transcript_ok`, `no_transcript`, `summarized`), transcript word count, relevance, speaker role and summary file path.
+- **What was collected:** 460 candidate videos logged; 287 with transcripts and all 287 summarized (one, 005TMfaVdqU, confirmed a duplicate upload and not separately used); 164 waiting on transcripts and 9 failed on network errors. The database `pipeline/youtube/youtube_videos.db` (table `videos`) tracks each video's ID, title, channel, duration, status (`discovered`, `transcript_ok`, `no_transcript`, `summarized`), transcript word count, relevance, speaker role and summary file path.
 - **Why only 114:** YouTube blocks transcript requests from an IP after roughly 30 downloads. Rounds 2-5 each succeeded after the block cleared on a different connection; most other attempts were blocked immediately. Run `python rank_videos.py` before further fetches so blocked-request budget goes to the highest-value videos first (see `pipeline/youtube/README.md`). The fetch script stops cleanly on a block without marking videos as failed.
 - **To continue:** run `python pipeline/youtube/fetch_transcripts.py` again later (it resumes from `discovered`; expect it to stop again after a similar number if the block persists), then ask for the next summarization batch. Waiting several hours between runs, or running from a different network, usually works.
 - **Selection bias:** the queries that ran first ("how admissions officers read applications", essays) dominated rounds 1-2; rounds 3-5's ranking corrected this toward testing, rigor, financial aid, extracurriculars, ED/EA, interviews, CS/STEM and — unplanned but valuable — real FERPA file-review videos, though essay-adjacent queries still dominate the pool of 342 not yet fetched. Financial aid, list-building, ED/EA strategy, computer-science-specific and freshman-year-planning queries are in the database but not yet transcribed, so those topics are underrepresented here.

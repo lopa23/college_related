@@ -1,0 +1,26 @@
+{
+ "video_id": "We8jJcEKkIc",
+ "topic": "school-specific",
+ "relevance": 5,
+ "speaker_role": "current admissions officer (assistant vice president of undergraduate admissions, NYU), interviewed by a former admissions counselor now at a paid consultancy (Expert Admissions)",
+ "commercial_incentive": "yes - the interviewer/moderator's company, Expert Admissions, is a paid counseling service and is promoted at the end",
+ "key_insights": [
+  "Submitted Common App data doesn't reach NYU instantly; all of a day's applications are bundled into a data file and PDF file sent overnight, so processing starts the next morning.",
+  "Colleges choose which Common App fields to display on the PDF they review (e.g., NYU suppresses Social Security numbers from the PDF though it still receives that data separately for financial aid matching); some test-optional/blind schools similarly suppress test score fields.",
+  "Documents submitted electronically through a school's counselor software (e.g., via Common App/Naviance) match instantly and automatically; documents sent by email or postal mail sit in a holding pattern and can take one to two weeks to be matched, especially in peak season.",
+  "NYU received roughly 120,000 applications in the cycle discussed, with tens of thousands submitted in the final day before the regular deadline, which slows document matching and login credential delivery for those late applicants.",
+  "NYU requires the STARS self-reported transcript (separate from an official transcript) as part of a complete application, and using the same email as the Common App application speeds matching.",
+  "Readers typically review in a set order: a dashboard (name, school, major, GPA/scores), then school profile, transcript, recommendation letters, and finally extracurriculars/essays; at NYU academics are described as the leading factor in decisions.",
+  "'Committee-based evaluation' (two readers reviewing together and discussing) is used by some schools but explicitly not by NYU, which more often uses a geographic first reader plus a school/major-focused second/third reader.",
+  "Institutional priorities (the 'oboe player' analogy) and class-shaping needs are unpredictable year to year and drive both admit decisions and waitlist usage; NYU does not use AI to detect essays or to make admissions decisions, insisting a human element remains central.",
+  "NYU's decision release dates are announced in advance (e.g., ED1 around December 15) and are delivered digitally via the applicant portal, not surprise emails."
+ ],
+ "specific_numbers_or_facts": [
+  "NYU received just over 120,000 applications and enrolls about 6,000 students (Billy Sitchul, NYU AVP of admissions)",
+  "NYU processed roughly 3.5 million pages of application documents in the past year (Billy Sitchul)",
+  "NYU's ED1 decision release is expected around December 15 (Billy Sitchul)",
+  "NYU contact email for admissions questions: admissions@nyu.edu (Billy Sitchul)"
+ ],
+ "notable_or_distinctive": "Gives an unusually granular, named-official walkthrough of the literal backend software (Slate) and document-matching mechanics at a specific high-volume university, going well beyond generic 'what happens after you apply' advice.",
+ "reliability_notes": "Speaker is a verifiable current NYU admissions official speaking largely about NYU-specific practices which may not generalize to other schools; moderator's firm has a commercial interest in webinar attendance leading to paid consulting."
+}

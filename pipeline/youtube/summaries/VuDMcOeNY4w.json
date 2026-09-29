@@ -1,0 +1,31 @@
+{
+ "video_id": "VuDMcOeNY4w",
+ "topic": "school-specific",
+ "relevance": 5,
+ "speaker_role": "current admissions officer (Associate Director of Admission, UC Santa Barbara, 19 years in the office)",
+ "commercial_incentive": "None evident - official UCSB-affiliated live Q&A webinar, no product or paid service promoted",
+ "key_insights": [
+  "UC application requires students to self-enter all grades/coursework rather than submit transcripts; UC then calculates its own weighted GPA using only sophomore and junior year grades",
+  "UCSB's holistic review starts with academic foundation (coursework taken relative to what was available at the student's school) then extracurricular/personal context, evaluated against the individual student's own context, not compared to other applicants at the same school",
+  "The five UCSB engineering majors (chemical, electrical, mechanical, computer engineering, computer science) admit directly into the major with no ability to internally transfer in later, regardless of GPA/rigor, purely due to fixed faculty/curriculum capacity",
+  "UC system now uses 13 (not 14) admission factors after dropping SAT/ACT; no preference is given among AP, IB, dual enrollment, or A-Levels - all are evaluated for rigor in context, and even a 1 or 2 on an AP exam is not treated as a negative since it wasn't required",
+  "UCSB does not consider intended major in review outside of the five capped engineering programs - there is no admissions difference between choosing data science vs. undeclared, for example",
+  "Class rank is not asked about and not used in the UC application review process",
+  "Admissions decisions are made using pool-level statistical overlap data with other UC campuses (e.g., '20% overlap with Davis') to calibrate how many offers to extend, not by looking at where else an individual student applied",
+  "UC's Personal Insight Questions (PIQs) are explicitly described as questions, not essays - officer states she wants factual context/answers, not creative writing or descriptive prose",
+  "No UC campus accepts letters of recommendation or conducts interviews for freshman admission, and parents cannot submit information on a student's behalf",
+  "UC does not verify most self-reported information at review time but performs random post-decision verification/validation checks on some applicants",
+  "Transfer Admission Guarantee (TAG) from any California community college requires 60 semester/90 quarter units, seven core classes (incl. 2 transferable English, 1 transferable math above intermediate algebra), 4 breadth courses, and a 3.4 GPA for guaranteed UCSB admission to non-selective majors"
+ ],
+ "specific_numbers_or_facts": [
+  "UCSB received about 110,000 freshman applications for the class of 2022, admitting roughly 5,000 freshmen and about 2,000 transfer students (per speaker)",
+  "UCSB's overall enrollment cited as about 26,000 students (grad + undergrad)",
+  "UCSB engineering maintains roughly a 10:1 student-to-faculty ratio and about 1,400 total engineering students, a figure speaker says hasn't grown in about a decade despite roughly 10x more applicants",
+  "UCSB out-of-state enrollment is described as hovering around 18%, framed as aligned with state of California targets",
+  "TAG transfer requirement: 60 semester/90 quarter units, 7 core classes, 4 breadth courses, 3.4 GPA",
+  "UC application allows listing up to 20 activities/awards; students answer 4 of 8 Personal Insight Questions",
+  "About 80% of UCSB students live within a mile of campus (per speaker)"
+ ],
+ "notable_or_distinctive": "Direct, first-hand explanation from a named UC admissions officer of exactly how UC computes its internal weighted GPA (sophomore/junior year only) and how engineering's major-based admission with no internal transfer works - specific mechanics rarely explained this concretely in generic content.",
+ "reliability_notes": "Speaker is a genuine, named, long-tenured UCSB admissions officer discussing her own institution's process, making this unusually authoritative; however, this is a 2022-era webinar (references pandemic-era housing strain and the class of 2022/2023 cycle) so some year-specific figures (application counts, housing situation) may be dated, and policies are explicitly UCSB/UC-specific, not generalizable to other schools."
+}

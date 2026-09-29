@@ -1,0 +1,25 @@
+{
+ "video_id": "OwnWJ4hsE1Y",
+ "topic": "school-specific",
+ "relevance": 1,
+ "speaker_role": "current admissions officer (Associate Dean for Admissions, Dartmouth Geisel School of Medicine)",
+ "commercial_incentive": "Yes - podcast produced by 'Accepted' (an admissions consulting company), promotes their paid quiz/consulting throughout",
+ "key_insights": [
+  "This entire interview concerns MD (medical school) admissions at Geisel, not US undergraduate admissions, so it is off-scope for an undergraduate admissions knowledge base",
+  "Geisel screens applicants only on a minimum MCAT score of 503 (disclosed publicly on their website) and otherwise does full holistic review with no further hard screen",
+  "Interviews are conducted virtually (two 30-minute one-on-one sessions) year-round on a rolling admissions basis into early March, and the school found no difference in admit rates between in-person and virtual interview cohorts",
+  "Dean advises secondary-essay writers to explain how a described experience changed their thinking/perspective rather than just recounting the event, and to avoid repeating content already in the activities section",
+  "Dean states she is not concerned about ChatGPT-written essays because file 'synchrony' (consistency between personal statement, emails, and interview persona) reveals inauthenticity regardless of the writing tool used",
+  "Community college prerequisites are accepted as long as they meet Geisel's requirements; shadowing and other clinical experiences (EMT, nursing, pharmacy work) are treated interchangeably under a broad 'clinical experience' umbrella",
+  "Dean warns against inflated or implausible reported activity hours (e.g. claiming thousands of hours that don't fit a full course load), saying reviewers check whether the math is plausible",
+  "Received about 7,000 applications for 92 seats in the cited admissions cycle (Geisel's largest class ever)"
+ ],
+ "specific_numbers_or_facts": [
+  "Geisel's minimum MCAT screening threshold stated as 503",
+  "Geisel had about 7,000 applicants for 92 seats (90 MD, 2 MD-PhD) in the cycle discussed",
+  "Interview invitations continue rolling out into early March; prior cycle's interviewing reportedly stopped around March 14th",
+  "Three of four required secondary essay questions reportedly have no word limit"
+ ],
+ "notable_or_distinctive": "As instructed, flagged as OFF-SCOPE: this is graduate/medical school (MD) admissions content, not US undergraduate admissions, despite some generally transferable themes (essay authenticity, activity-hour plausibility, rolling admissions logistics).",
+ "reliability_notes": "OFF-SCOPE per task instructions: covers Dartmouth Geisel School of Medicine (graduate medical admissions), not undergraduate admissions, so relevance is scored low regardless of content quality; the speaker is a legitimate, named, current admissions dean, but the video is produced by a paid admissions-consulting company ('Accepted') with ongoing promotional plugs."
+}

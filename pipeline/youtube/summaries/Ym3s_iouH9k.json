@@ -1,0 +1,20 @@
+{
+ "video_id": "Ym3s_iouH9k",
+ "topic": "financial aid",
+ "relevance": 4,
+ "speaker_role": "independent counselor (financial aid advisor, 'College Aid Pro')",
+ "commercial_incentive": "None evident in this specific video (no explicit sales pitch or service link mentioned in transcript)",
+ "key_insights": [
+  "Explains the financial aid 'verification' process as essentially an audit of what was reported on FAFSA/CSS Profile/institutional applications, done via submitted tax documents",
+  "Describes the College Board's IDOC service as a centralized processor many CSS-Profile-requiring colleges use to collect verifying tax documents (federal returns, W2s, 1099s) after the CSS Profile is submitted",
+  "Recommends ordering an IRS tax transcript (not just the 1040) since some colleges want it in addition to or instead of the tax return copy",
+  "Notes some schools (examples given: Penn, Boston College) require 100% of financial aid applicants to go through their own institutional verification process rather than IDOC",
+  "Explains a third verification path exists for FAFSA-only schools: random selection for a lighter verification process involving a tax transcript and a 'verification worksheet'",
+  "Reassures that verification is standard operating procedure, not a sign of wrongdoing, and there's no hard deadline -- colleges will simply request more documents if something is missing"
+ ],
+ "specific_numbers_or_facts": [
+  "Names Penn and Boston College as schools requiring 100% of aid applicants to complete institutional verification (per speaker, using 2022 tax year documents at time of recording)"
+ ],
+ "notable_or_distinctive": "Covers the financial aid 'verification'/audit step and the IDOC service specifically, a process that is rarely explained in other basic FAFSA/CSS Profile overview videos in this batch.",
+ "reliability_notes": "Presented by a named financial aid consultant with plausible procedural specifics; references '2022 federal tax returns,' indicating the video is tied to a specific past admissions cycle and some details (e.g., named schools' exact processes) may have changed since."
+}

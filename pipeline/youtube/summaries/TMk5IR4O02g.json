@@ -1,0 +1,24 @@
+{
+  "video_id": "TMk5IR4O02g",
+  "topic": "testing (test-optional strategy)",
+  "relevance": 4,
+  "speaker_role": "test-prep/consultancy marketer (Eric, Solution Prep)",
+  "commercial_incentive": "Yes - promotes Solution Prep's services and gives a phone number for consultations at the end",
+  "key_insights": [
+    "Over 80% of colleges were test-optional at time of filming, but several selective schools and some state systems had reverted to requiring scores for all applicants",
+    "Most schools use Score Choice (submit only your best sitting) and many superscore (roughly 90% for SAT, 70% for ACT, per speaker), so check each school's specific policy rather than assuming",
+    "Whether the new digital SAT and the old paper SAT can be superscored together is unresolved/school-specific and should be confirmed directly with the college",
+    "Some schools accept self-reported scores during application but require an official score report upon enrollment; misreporting can get an acceptance revoked",
+    "Key decision heuristic: find the college's 25th-75th percentile SAT/ACT range via its Common Data Set; submit if above the 75th percentile, generally submit if within the range, and generally don't submit if below the 25th percentile (at test-optional schools)",
+    "Colleges rarely publish both 'percent who applied without scores' and 'percent who got in without scores,' which would let applicants judge whether omitting scores truly helps",
+    "The 25th-75th percentile figure is an aggregate across the whole class (all majors, in-state/out-of-state), so a score 'in range' doesn't guarantee competitiveness for a specific major or as an out-of-state applicant",
+    "Dartmouth (when it reinstated testing) said it evaluates scores relative to the applicant's own high school's typical scores, not just against a national bar"
+  ],
+  "specific_numbers_or_facts": [
+    "Over 80% of colleges test-optional at time of recording; Harvard, Yale, Brown, Dartmouth, Caltech cited as having reverted to requiring scores, along with public systems in Florida, Georgia, Texas, Indiana, Tennessee",
+    "~90% of colleges superscore the SAT, ~70% superscore the ACT (per speaker)",
+    "Most recent Common Data Set referenced was 2023-24 at time of filming"
+  ],
+  "notable_or_distinctive": "Gives a concrete, actionable decision rule (25th/75th percentile via Common Data Set) rather than vague 'it depends' advice, and explicitly flags the unresolved question of digital/paper SAT superscoring.",
+  "reliability_notes": "Superscoring/test-optional percentages are stated without citation and likely approximate; policy landscape (test-optional vs. required) changes year to year, so specific school examples are time-sensitive and may be outdated by the time this is viewed."
+}

@@ -1,0 +1,25 @@
+{
+ "video_id": "_ddg3lRLJCA",
+ "topic": "financial aid",
+ "relevance": 4,
+ "speaker_role": "unknown (educational YouTube channel presenter, appears to be an accounting/finance educator, not identified as an admissions or financial aid professional)",
+ "commercial_incentive": "None evident in this video",
+ "key_insights": [
+  "CSS Profile is run by the College Board and can be filed starting October 1; FAFSA is run by the federal government and opens January 1 (per video; FAFSA timing has since changed)",
+  "CSS Profile charges a fee (with waivers for low-income families); FAFSA is free for everyone",
+  "CSS Profile is only required by some schools (mostly private/selective); FAFSA is required by essentially any school that awards federal aid",
+  "CSS Profile uses 'institutional methodology' to determine a school's own grant/scholarship aid; FAFSA uses federal methodology to calculate expected family contribution for federal aid like Pell Grants",
+  "CSS Profile considers both custodial and non-custodial (e.g., divorced) parents' finances; FAFSA only considers the custodial parent's household",
+  "CSS Profile may assume a standard student summer earnings contribution; FAFSA does not",
+  "CSS Profile counts home equity in the family's financial position; FAFSA does not consider home equity at all",
+  "FAFSA has a simplified needs test that can exempt lower-income families from asset reporting; CSS Profile has no equivalent, and looks at all assets including farm and business equity more strictly (with some exceptions for family farms/small businesses under FAFSA)"
+ ],
+ "specific_numbers_or_facts": [
+  "CSS Profile filing opens October 1 (per video)",
+  "FAFSA filing opens January 1 (per video; note FAFSA timing has changed in more recent cycles)",
+  "FAFSA farm-equity exemption applies if the family lives on and materially participates in operating the farm",
+  "FAFSA excludes business equity if family owns more than 50% of a business with 100 or fewer employees"
+ ],
+ "notable_or_distinctive": "Provides an unusually detailed side-by-side of exactly which assets (home equity, non-custodial parent income, farm/business equity, summer earnings) each form does or doesn't count, beyond the basic fee/timing differences most videos cover.",
+ "reliability_notes": "Older video (published about 10 years before this summary was written per channel metadata); FAFSA opening date and methodology details may be outdated given more recent FAFSA simplification changes, so figures should be verified against current-year FAFSA/CSS Profile rules."
+}
