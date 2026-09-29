@@ -1,0 +1,24 @@
+{
+ "video_id": "nIkk68zT7AA",
+ "topic": "CS admissions",
+ "relevance": 4,
+ "speaker_role": "student/recent alum (MIT graduate, entrepreneurial background, sharing personal application experience; not an admissions officer)",
+ "commercial_incentive": "none evident; recommends a free external essay (Paul Graham's) rather than any paid product",
+ "key_insights": [
+  "His own admitted stats: SAT 780 Math / 750 Reading (1530 combined, self-described as slightly below MIT's average), 4.5 weighted GPA, top 7% class rank at a competitive high school; says he lacked major competition awards but still got in.",
+  "Advises against paying for summer programs, specifically calling Harvard's paid summer program 'almost like a scam' because admissions officers reportedly know it's pay-to-play and don't weight it heavily.",
+  "Credits a strong recommendation letter from an MIT-affiliated free summer program ('M semester,' where students take classes with MIT professors) as one of the biggest factors in his admission.",
+  "Central application strategy: build every extracurricular and essay around one consistent personal 'theme' or character (his was entrepreneurship/building real-world projects) rather than a scattered list of unrelated activities.",
+  "Heavily prepared for MIT's conversational-style alumni interview by researching the interviewer's LinkedIn/background beforehand; interview lasted roughly 2.5-3 hours, which he treats as a major application factor.",
+  "Argues a project doesn't need to be objectively groundbreaking to matter -- his own AI chatbot wrapper project was modest in substance but fit his overall narrative and grew a real user base.",
+  "Recommends reading Paul Graham's essay 'How to Do Great Work' as a way to find direction and passion when feeling lost about application strategy."
+ ],
+ "specific_numbers_or_facts": [
+  "SAT 780 Math / 750 Reading (1530 combined); 4.5 weighted GPA, top 7% class rank",
+  "AP scores: Calc BC 5, CS Principles 5, World History 5, English Language & Composition 5, Physics C Mechanics 4, CS A 4",
+  "'ScholarAI' project reportedly grew to about 25,000 users and was 'closing in on five figures' of revenue",
+  "'Navaro' edtech project reportedly reached 700+ students and partnered with the local school system"
+ ],
+ "notable_or_distinctive": "Explicit 'build your application around one consistent theme' strategy framing, plus a pointed, named warning that paid pay-to-play summer programs (citing Harvard's) don't carry weight with admissions officers.",
+ "reliability_notes": "Entirely self-reported personal anecdote with explicit survivorship-bias caveat ('if I applied another 100 times I don't think I could get in again'); the claim that Harvard's summer program is viewed as a 'scam' by admissions officers is the speaker's unverified opinion, not sourced to any admissions office."
+}

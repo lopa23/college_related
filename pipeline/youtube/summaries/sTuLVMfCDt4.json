@@ -1,0 +1,23 @@
+{
+ "video_id": "sTuLVMfCDt4",
+ "topic": "school-specific",
+ "relevance": 4,
+ "speaker_role": "student (Stanford undergraduate reviewing his own admissions file)",
+ "commercial_incentive": "none evident",
+ "key_insights": [
+  "Describes the FERPA process for requesting to view one's own admissions file; his virtual session was read aloud to him in a 20-minute slot with no electronics allowed, only handwritten notes.",
+  "His file reportedly showed rating codes RTG (testing), HSR (high school rigor), SUP (support/recommendation letters), EC (extracurriculars), and SPIV (self-presentation/intellectual vitality), each on what he infers is a 1(best)-5 scale from crowd-sourced online research.",
+  "His two application readers gave him identical sub-scores (3s) on HSR/SUP/EC/SPIV but differing overall evaluation ratings (2- and 3+), a discrepancy he could not explain.",
+  "Interview ratings used a separate inferred 1-6 scale (1 best); he scored 3/2/3 across intellectual vitality, depth & commitment, and character/self-presentation, which he interprets as a solid interview.",
+  "One reader's written summary described his application as 'not jumping off the page' and 'on the fence,' while also noting his intended major worked in his favor.",
+  "Concludes that despite non-standout reader comments/scores, something happened between the initial reads and the final committee vote that tipped the decision in his favor, which he could not identify."
+ ],
+ "specific_numbers_or_facts": [
+  "Reader sub-scores of 3 on HSR/SUP/EC/SPIV categories (inferred 1-5 scale, per applicant's own research)",
+  "RTG (testing) score of 1",
+  "Overall evaluation ratings of 2- and 3+ from his two readers",
+  "Interview ratings of 3/2/3 on a stated 1-6 scale"
+ ],
+ "notable_or_distinctive": "A firsthand, if redacted and note-taken, look at literal Stanford admissions-file rating-code abbreviations (RTG, HSR, SUP, EC, SPIV) and how reader scores and interview scores can diverge from the final committee decision.",
+ "reliability_notes": "The meanings of the rating-code abbreviations are the applicant's own speculation/crowd-sourced guesses ('from what I've read online'), not confirmed by Stanford; notes were transcribed from a read-aloud session so details may be incomplete or imperfectly captured; this is a single anecdote, not representative of general policy, presented in a casual vlog format."
+}
