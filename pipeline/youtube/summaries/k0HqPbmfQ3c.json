@@ -1,0 +1,22 @@
+{
+ "video_id": "k0HqPbmfQ3c",
+ "topic": "financial aid",
+ "relevance": 4,
+ "speaker_role": "financial-aid appeal consultant/marketer (channel 'FAFSA Appeal'; no specific admissions or financial-aid-office credential stated)",
+ "commercial_incentive": "Strong — repeatedly promotes a paid 'CSS Profile survival pack' and 'NCP waiver decoder' at fafsa-appeal.com, built around an illustrative family example",
+ "key_insights": [
+  "FAFSA uses 'federal methodology' to produce one Student Aid Index (SAI) that is identical across every school a student lists",
+  "CSS Profile drives 'institutional methodology,' which each participating college (speaker estimates ~300 in 2026) can customize, so the same CSS Profile data can yield different expected family contributions at different schools",
+  "CSS Profile asks about factors FAFSA mostly ignores: home equity, small business value/income (for businesses under 100 employees), retirement assets, and sibling assets, and can trigger a non-custodial parent financial disclosure requirement even when FAFSA doesn't",
+  "Public/state universities generally rely only on FAFSA; CSS Profile is mainly required by private, well-endowed, selective institutions",
+  "CSS Profile typically opens in October and some schools using it have earlier priority deadlines than FAFSA-only schools; missing it can eliminate institutional grant eligibility entirely, not just reduce it",
+  "The CSS Profile's broader scope isn't necessarily negative — it creates more opportunity to document special circumstances (medical hardship, income drop) via a professional-judgment appeal",
+  "Advises writing appeals that speak directly to how institutional methodology weights specific factors (e.g., home equity, business income) rather than making a generic complaint about the aid amount"
+ ],
+ "specific_numbers_or_facts": [
+  "About 300 colleges use CSS Profile in 2026 (per speaker, uncited)",
+  "Illustrative example: a freelance consulting business grossing $60,000/year is used to show how business income/assets can be reported differently across schools' institutional methodology"
+ ],
+ "notable_or_distinctive": "Offers a clearer mechanistic explanation than most FAFSA-vs-CSS videos of why two families with similar incomes can get very different aid offers at the same or different schools: it comes down to assets (especially home equity and business value) that FAFSA doesn't capture but CSS Profile does, weighted differently by each school.",
+ "reliability_notes": "Built around an illustrative/composite family example ('Miriam') presented in narrative style as if real but not confirmed to be an actual case; used as a lead-in for a paid appeal-tool product; the '~300 colleges' figure and other specifics are stated without citation; not a FERPA admissions-file-review video, so the prior file-review genre note does not apply here."
+}

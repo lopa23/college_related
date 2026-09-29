@@ -1,0 +1,24 @@
+{
+ "video_id": "lS-xdIDqOto",
+ "topic": "financial aid",
+ "relevance": 5,
+ "speaker_role": "high school/charter school counselor (references training students on Naviance and a Delaware scholarship compendium for own students)",
+ "commercial_incentive": "None evident; appears to be an informational session for the speaker's own students/families",
+ "key_insights": [
+  "Distinguishes merit scholarships (earned, awarded directly by the college) from need-based aid; many highly selective colleges offer no merit aid at all, only need-based",
+  "Some merit scholarships are automatically considered just by applying (e.g., University of Delaware), while others (e.g., NC State's Park Scholarship, UNC Chapel Hill scholarships) require a separate application",
+  "Outside/community scholarship money can be used by colleges to reduce their own need-based aid award rather than stacking on top of it, so it's still worth pursuing but shouldn't be assumed as extra money",
+  "Explains the core need formula: Cost of Attendance (CoA) minus Expected Family Contribution (EFC) equals financial need, illustrated with worked examples",
+  "Strongly recommends completing an EFC calculator and each target school's individual net price calculator before applying, especially critical before applying Early Decision since it's binding",
+  "Recommends entering a fake name/anonymous identity (but accurate financial figures) when using net price calculators to avoid having personal data stored",
+  "Points to the College Board 'Big Future' site's 'Paying' tab as a quick way to see a school's average percent of need met and average aid package size"
+ ],
+ "specific_numbers_or_facts": [
+  "Example: Cost of Attendance $16,000 minus EFC $12,000 = $4,000 of need; larger example CoA $50,000 minus EFC $10,000 = $40,000 of need (speaker's illustrative math)",
+  "Ursinus College cited as meeting ~83% of need on average, average first-year aid package ~$43,000, average non-need-based aid ~$28,000 (per Big Future site data, speaker notes it's typically a couple years delayed)",
+  "University of Delaware meets 100% of need only for in-state students, and caps loans at no more than 25% of the cost of a four-year education (per speaker)",
+  "FAFSA could not be filed before October 1, 2020 for the high school class of 2021 (video-specific, dated)"
+ ],
+ "notable_or_distinctive": "Concrete walkthrough of using the College Board 'Big Future' Paying tab plus specific real scholarship examples (NC State Park Scholarship, UNC Chapel Hill) that require separate applications, and the practical tip to use a fake identity on net price calculators.",
+ "reliability_notes": "Video appears to date from around 2020 (COVID-era references, 'class of 2021,' FAFSA timeline tied to 2020); FAFSA was substantially overhauled in 2023-2024 (EFC replaced by SAI, simplified form), so some procedural details are outdated; Delaware/charter-school-specific details (compendium, Naviance) may not generalize to other states."
+}
