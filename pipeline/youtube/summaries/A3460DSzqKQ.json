@@ -1,0 +1,20 @@
+{
+ "video_id": "A3460DSzqKQ",
+ "topic": "testing",
+ "relevance": 2,
+ "speaker_role": "unknown/synthetic (two-host podcast-style dialogue with no named credentials, channel styled 'ABC Admissions')",
+ "commercial_incentive": "channel brands itself as decoding 'hidden rules' of admissions and references unnamed 'sources'; no explicit product is pitched in this clip, but the format suggests a content/consulting brand",
+ "key_insights": [
+  "Claims that when a student withholds a standardized test score, admissions officers assume it fell below the school's 50th percentile and scrutinize the rest of the application more heavily as a result.",
+  "Recommends submitting scores only if they elevate the profile, and withholding them only if the rest of the application is otherwise very strong.",
+  "Claims a perfect unweighted GPA is no longer sufficient on its own to gain admission to elite schools.",
+  "Argues unweighted high school GPA is not a standardized metric because grading rigor varies widely between schools.",
+  "Claims heavy Advanced Placement course loads are increasingly used by admissions offices as a nationally standardized proxy for rigor when test scores are withheld, since AP exams are scored consistently nationwide.",
+  "Warns that some flashy 'prestige' summer programs held on elite campuses are actually run by third-party for-profit companies renting the space, and claims admissions officers recognize these as pay-to-play rather than genuine academic selectivity."
+ ],
+ "specific_numbers_or_facts": [
+  "Claims (unsourced) that a withheld test score is assumed by admissions officers to be below the 50th percentile."
+ ],
+ "notable_or_distinctive": "Structured as a stylized two-person 'source-breakdown' dialogue (resembling an AI-generated or scripted podcast format) rather than a single expert speaking directly, with dramatic framing like 'strategic branding' and a rhetorical question about admissions becoming a 'beauty pageant of personal branding.'",
+ "reliability_notes": "No named speakers, credentials, or cited sources are given despite repeated references to 'the sources'; specific claims (assumed percentile, 'summer camp scams,' AP as a universal safety net) are asserted without evidence and should be treated as speculative/unverified rather than confirmed admissions-office policy."
+}

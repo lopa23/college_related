@@ -1,0 +1,17 @@
+{
+ "video_id": "CKUPlYmbEJM",
+ "topic": "testing",
+ "relevance": 4,
+ "speaker_role": "independent counselor (College Coach, a paid admissions consulting company)",
+ "commercial_incentive": "Yes - produced by College Coach, a paid college admissions consulting firm, though the video itself is informational rather than a direct pitch",
+ "key_insights": [
+  "Most standardized testing happens before students finalize their college list, so many students test even without knowing final test-optional status of target schools",
+  "If none of a student's target colleges require scores, or the student feels the transcript is stronger than test results, skipping test prep/submission can be reasonable",
+  "To decide whether to submit scores to test-optional schools, look up the college's Common Data Set to find the middle-50% test score range of admitted students",
+  "If a score is above the school's average range, submitting it can enhance the application; if below average, it's better not to submit",
+  "At genuinely test-optional schools, choosing not to submit scores will not negatively affect the application"
+ ],
+ "specific_numbers_or_facts": [],
+ "notable_or_distinctive": "Provides a clear, actionable method (searching '[college name] + common data set' to find the admitted middle-50% test range) for making the submit/don't-submit decision, rather than just generic advice.",
+ "reliability_notes": "Generic but practically useful and consistent with standard admissions consulting advice; no data or citations beyond referring students to look up common data sets themselves; produced by a paid consulting firm but not a hard sales pitch."
+}

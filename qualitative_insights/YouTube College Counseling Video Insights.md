@@ -1,10 +1,10 @@
 # YouTube College Counseling Video Insights
 
-> **What this file is:** A themed synthesis of 114 YouTube videos on college admissions and counseling, built from their **full transcripts** (auto-captions) rather than titles and descriptions alone. Speakers include former and current admissions officers, independent counselors and essay coaches. Everything is **paraphrased in my own words**; no transcript text is reproduced. The raw transcripts are kept locally only (gitignored), since they are copyrighted.
+> **What this file is:** A themed synthesis of all 441 YouTube videos on college admissions and counseling whose transcripts could be downloaded, built from their **full transcripts** (auto-captions) rather than titles and descriptions alone. Speakers include former and current admissions officers, independent counselors and essay coaches. Everything is **paraphrased in my own words**; no transcript text is reproduced. The raw transcripts are kept locally only (gitignored), since they are copyrighted.
 >
-> **What this file is NOT:** A survey of YouTube. The search step found **460 candidate videos** across 35 queries, but YouTube rate-limits transcript downloads after about 30 requests per IP. So this file covers the 114 videos whose transcripts could be downloaded so far (five rounds: 30, then 34, then 16, then 17, then 17). Rounds 1-2 skew toward "how applications are read" and essays; rounds 3-5 used a priority ranking (`pipeline/youtube/rank_videos.py`) that favored under-covered topics. Round 5 turned up something new: three students who filed FERPA requests to view their own actual admissions files and read the real reader ratings/comments on camera. The other 342 are logged in the tracking database and can be added later (see §7). One round-5 video, 005TMfaVdqU, was confirmed as a duplicate upload of an already-summarized video (vpsIGexQE9E) and isn't used below.
+> **What this file is NOT:** A survey of YouTube. The search step found **460 candidate videos** across 35 queries. Of those, 441 were successfully downloaded and summarized across nine rounds (30, 34, 16, 17, 17, 22, 151, 66, then 88), and the remaining 19 are permanently unavailable — captions disabled by the uploader or the video itself removed/private/region-locked (see §7 for the full list). **The discovery pool is now exhausted**: every candidate video the original 35 queries found has been attempted. Rounds 1-2 skew toward "how applications are read" and essays; rounds 3-9 used a priority ranking (`pipeline/youtube/rank_videos.py`) that favored under-covered topics as coverage grew. Round 5 turned up something unplanned and valuable: real students who filed FERPA requests to view their own actual admissions files and read the reader ratings/comments on camera — six of them by round 6, across Yale and Stanford. One video, 005TMfaVdqU, was confirmed as a duplicate upload of an already-summarized video (vpsIGexQE9E) and isn't used below.
 >
-> **How to read the credibility tags:** most speakers here work for firms that sell counseling or essay services, so their advice is also marketing. Each entry below notes the speaker's stated role and any commercial incentive. Official office videos (Harvard, Columbia, Richmond) and Yale/Duke-era former officers are separated from consultancy content where it matters. Cross-check numbers against `School Admissions Data Reference (CDS + IPEDS).md` and `NACAC State of College Admission Data.md`.
+> **How to read the credibility tags:** most speakers here work for firms that sell counseling or essay services, so their advice is also marketing. Each entry below notes the speaker's stated role and any commercial incentive. Official office videos and on-the-record current admissions officers (Harvard, Columbia, Richmond, Yale, Hamilton, Northwestern, Dartmouth, Swarthmore, NYU, Notre Dame, Wake Forest, Tulane, Northeastern, UCSB, TCU, Marist, and others by round 9) are separated from consultancy content where it matters. Cross-check numbers against `School Admissions Data Reference (CDS + IPEDS).md` and `NACAC State of College Admission Data.md`.
 
 ---
 
@@ -410,6 +410,100 @@ Three videos failed to download on connection errors and can be retried: E5SmMV9
 | 1 | uVsQZL772AI | Meet your Admissions Counselor, Alex Alcantara! | Menlo College | current admissions officer (Menlo College) |
 | 1 | _zgkKdEhlTc | UCLA Law School Admissions Dean on What to Do If You're Waitlisted | LSAT Unplugged & Law School... | current admissions officer (described as UCLA Law School admissions... |
 | 1 | 31KpsY7m3bw | Computer Science fresher at Trinity College Cambridge: Zhiyi Liu | Frank Stajano Explains | student (incoming Trinity College Cambridge CS fresher), interviewe... |
+
+
+### 0i. Source ledger, round 9 — final round (88 videos, priority-ranked)
+
+| Rel. | Video ID | Title (shortened) | Channel | Speaker / role (condensed) |
+|:-:|:--|:--|:--|:--|
+| 5 | FqvFkoM9JMU | 403: AP, IB, Honors: How Admissions Officers View Your High School Courses,... | College Essay Guy | independent counselor (College Essay Guy staff: former admissions o... |
+| 5 | ALiYRAyGg5o | The Counselor Side of College Admissions Explained | Ask Dr. Hoffman | former admissions officer (Andrew Hoffman, former admissions office... |
+| 5 | Yx0ofVnjyFo | College Admissions Interviews: The Prep You Need #interviews | Ask Dr. Hoffman | former admissions officer (Vanderbilt, Swarthmore) |
+| 5 | 6QT28g5OujA | How To Fill Out the Common App Activities Section (the RIGHT Way) | ElevatEd School | independent counselor (Yale grad, co-founder of ElevatEd School) |
+| 5 | 5vvdaeDYGrU | don't write the personal statement before watching this | Nate Liang | student/content creator (admitted to Brown, Columbia, and other sel... |
+| 5 | QKnSk2xA31o | Live Essay Review + College Admissions Q&A (September 17) | College Essay Guy | independent counselor (Ethan Sawyer, 'College Essay Guy,' essay-coa... |
+| 5 | 9kmvGAFgwC0 | What to Do Once Youve Applied: Deferrals, Waitlists, and Letters of Continu... | College Essay Guy | independent counselor (Tom and Renee of College Essay Guy; Renee de... |
+| 5 | nFE59nw6jsw | Live Essay Review + College Admissions Q&A (September 3) | College Essay Guy | independent counselor (Ethan Sawyer, 'College Essay Guy,' self-desc... |
+| 5 | vMUOB4NrpCA | Common App Activities Section: 10 Spots, What to Include & How to Order Them | Ask Dr. Hoffman | former admissions officer (Andrew Hoffman, describes two decades ev... |
+| 5 | SE9TK2KqFQU | How to Get Into MIT in 2026 / Feat. Example Profiles and Essays! | ElevatEd School | test-prep/consultancy marketer (Kevin, co-founder of ElevatEd School) |
+| 4 | zJveK9lxzyM | Elevating Your Activities in the Common App | LifeAfterHersey | current high school counselor (self-identified 'post-secondary coun... |
+| 4 | CKUPlYmbEJM | Test Optional Admissions - When Should You Submit SAT or ACT Scores? | College Coach | independent counselor (College Coach, a paid admissions consulting ... |
+| 4 | z5P98qNOB0k | Early Decision vs Early Action: Which One Actually Helps? | College Path Studio | independent counselor (channel 'College Path Studio', unspecified s... |
+| 4 | _NPeWxwNIY8 | The Pros and Cons of Early Decision | Ivy Admission Help | independent counselor (channel 'Ivy Admission Help', unspecified sp... |
+| 4 | OzrWLuif6e0 | How To Get AWESOME Letters of Recommendation! | SupertutorTV | independent counselor (Brooke, SupertutorTV, former Stanford admiss... |
+| 4 | zt_L6Ha6pTY | How to Create an Outstanding Common App Activities List (w/ examples) | College Essay Guy | independent counselor (Ethan Sawyer, College Essay Guy) |
+| 4 | uukawD5zlPU | Getting Into Research is Easier Than You Think | Dario Tringali | student (physics PhD student, self-described, not an admissions pro... |
+| 4 | r6ZPu5pe8Ps | What Is Demonstrated Interest in College Admissions? (And Why It Matters) | Dobler College Consulting | independent counselor (Laura Pulius, Dobler College Consulting) |
+| 4 | ZG6Tv6XImU4 | Common App Secrets: Build an Activities List that Gets You Noticed | Lets Unbound | independent counselor (Faras, co-founder of Let's Unbound, an admis... |
+| 4 | MQ-2AEcBvCE | How to Write an Awesome Common App Activities List [Course preview] | College Essay Guy | independent counselor (Ethan Sawyer, College Essay Guy) — course pr... |
+| 4 | 5yIXF89l3Gw | What Courses Will Get You into Stanford? Former Admission Officer Reveals W... | Crimson Education | former admissions officer (Stanford, Rice) |
+| 4 | bRigDdGQF54 | The TRUTH About The SAT/ACT (according to Harvard Admission Officers?) | ElevatEd School | current admissions officer (Harvard), shared as a clip on the Eleva... |
+| 4 | EtkdYvf8rsc | 5 Common App Activities List Tips | Crimson Education | consultant/marketer at Crimson Education (admissions consulting com... |
+| 4 | gv2BKPloRC4 | How to Get a Strong Letter of Recommendation for College Admissions | InGenius Prep | independent counselor/consultant at InGenius Prep (admissions consu... |
+| 4 | Zcpwdcvz3KE | Elements of a strong recommendation letter | YouTube College Admissions | current admissions officer(s) (unnamed, multiple speakers described... |
+| 4 | 6CCCv1pNCGw | How to fill out the Common App activities section / Tips & examples | Common App | Common App staff member (Brian, described as 'part of the CommonApp... |
+| 4 | 3akoB7Ti-LQ | DON'T SUBMIT your test scores before watching this! | SupertutorTV | independent counselor (Brooke of SupertutorTV, self-describes coach... |
+| 4 | Fkf-oaaEF0M | REVEALING my IVY LEAGUE Personal Statement (NO-BS Common App Essay Guide) | Pratik Vangal | student (Pratik Vangal, self-describes being admitted to multiple I... |
+| 4 | fA7jBkPdGj0 | Stanford Admissions Revealed: How the 'Is It Cake?' Club Can Help You Get I... | Crimson Education | former admissions officer (Stanford University, Rice University; al... |
+| 4 | dx9Qh6YW3Vw | DEFERRALS AND WAITLISTS | Magellan College Counseling | independent counselor (Magellan College Counseling) |
+| 4 | fqqY7F2l4Tc | How to Get Into Dartmouth! | ElevatEd School | unknown (independent admissions content channel, no stated credenti... |
+| 4 | S_ogEd1REtQ | How to Get Teachers to Write The BEST Recommendation Letters (according to... | ElevatEd School | test-prep/consultancy marketer ('Kevin Sensei', ElevatEd School co-... |
+| 4 | 1F2yx9LWl3w | How to Get Into Yale: 3 Ways to 3X Your Odds of Getting In!!! | ElevatEd School | test-prep/consultancy marketer (self-described Yale grad, runs a co... |
+| 4 | glexxxPp5mc | Cracking the Common App Part 4: Crafting a Compelling Personal Statement | Crimson Education | independent counselor/consultant (Senior Strategist and Regional Te... |
+| 4 | E5SmMV9-UbM | The Best Way to Start & End a College Essay! / Tips for Common App and Supp... | ElevatEd School | test-prep/consultancy marketer (Kevin Zen, Yale grad, co-founder of... |
+| 3 | 6NROjyTccMU | 3 Things College Admission Officers Want to See in Your Extracurriculars | Conquer College Admissions | independent counselor (Julie Kim, USC/Harvard grad running a paid m... |
+| 3 | U1qoMhAmHT4 | The Truth About Test Optional Admissions / Should You Still Take the SAT/ACT? | MentoMind | test-prep/consultancy marketer (channel 'MentoMind', unspecified af... |
+| 3 | oFQsQcsrj6U | Application Advice: Demonstrated Interest | Pitzer Admission | current admissions officer (director of admission, Pitzer College) |
+| 3 | MVGefGqnQ7c | College Financial Aid & Scholarships explained | Dobler College Consulting | independent counselor (Eric Dobler, Dobler College Consulting) |
+| 3 | qudDyrqDCS0 | This is how you make your college essay unforgettable | Shinwoo Lee | independent counselor (Shinwoo Lee, private college essay consultant) |
+| 3 | 2d_oN7ry924 | How I got accepted into Dartmouth*Ivy league /test optional /Personal state... | Omotolani Adunni | student (high school senior admitted to Dartmouth and Stanford, vlo... |
+| 3 | HoYYLD-Zdzc | Telling Your Story as a First-Gen Student in Your College Application | Coalition for College | unknown (appears to be an admissions-office speaker via Coalition f... |
+| 3 | 6I0NfqL86rY | What Test Optional REALLY Means (according to Ivy League Admission Officers!) | ElevatEd School | test-prep/consultancy marketer (ElevatEd School channel host commen... |
+| 3 | l46klxO_sb8 | Reach, Target Safety Schools - What does this mean and how many should I ap... | Signature College Counseling | independent counselor (Signature College Counseling) |
+| 3 | i98Ne4Yrj5s | How I Got PERFECT Ivy League Rec Letters (FULL GUIDE) | Pratik Vangal | student/content creator sharing personal experience (self-described... |
+| 3 | wpdKWxKrz3c | Reading the Essays that got me into MIT (+ Advice!) | AnxiousJoe | student (admitted to MIT), first-person account |
+| 3 | l3xh-9pQMoQ | Reading my Ivy League Accepted Essay (Common App Personal Statement) | Isabella Kerry | student (self-identified as admitted to Columbia, Brown, Northweste... |
+| 3 | qjMyk6-VUbo | how i create IVY LEAGUE EXTRACURRICULARS in 4 mins | Shinwoo Lee | test-prep/consultancy marketer (channel promotes a paid admissions ... |
+| 3 | Af_-shtZ-XY | How to Get Into MIT | ElevatEd School | unknown/content creator (channel 'ElevatEd School'; credentials not... |
+| 3 | A4KzeTcWfrs | 8 Brainstorming Ideas for your Common App Essay / Personal Statement | SCORE: Your College Counselor | unknown (channel 'SCORE: Your College Counselor'; presenter's speci... |
+| 3 | o8-SPJQI95o | How to Get Into Yale! (According to an ex-Yale Admissions Officer!) | ElevatEd School | independent counselor (Kevin Zensay, self-described Yale 2020 gradu... |
+| 3 | CGbKSpSoO7g | Waitlisted Or Deferred Which is better and what to know Webinar | Ed Zamora College Prep Channel | independent counselor (Ed Zamora College Prep channel; presenter cl... |
+| 3 | 0K5r_7KMmRk | How to create IVY LEAGUE EXTRACURRICULARS in 5 minutes | Shinwoo Lee | unknown (channel runs a college-application review service) |
+| 3 | P5z9keJWb8E | College admissions Results: What to do if you are Being Deferred vs Waitlis... | Consulting - Business & Edu... | unknown (narrated by a consulting/education business channel, no na... |
+| 2 | KaZyKKijaUw | The Sat Test Is Still Very Important - Going Test Optional Works Against Ap... | Tigerway | test-prep/consultancy marketer (channel 'Tigerway', unspecified aff... |
+| 2 | Tfdh77S8W_M | Stand Out in Computer Science College Admissions: Expert Tips for Future Te... | College Shortcuts | test-prep/consultancy marketer (channel 'College Shortcuts', unspec... |
+| 2 | 9fFV_o5Pxbg | First-Gen @ ND: Professor Jennifer Huynh Has Advice for First-Generation St... | NDadmissions | current professor/staff (Jennifer Huynh, Notre Dame professor and f... |
+| 2 | P8W3Z6aw_WA | How To Build a Target List of Schools | NCSA College Recruiting | test-prep/consultancy marketer (Ben Wright, men's basketball recrui... |
+| 2 | OPQoUYhjzx0 | Former Stanford Admissions Officer Reveals How to Craft a Winning Stanford... | Crimson Education | former admissions officer (Stanford, Rice) |
+| 2 | lXohROhQw1k | CollegesLike 35: First Gen (First Generation in Your Family to Attend College) | Jeff Huang | unknown (channel host, role/credentials not stated in transcript) |
+| 2 | 152XYyMu5tg | Should I Submit SAT or ACT Scores When Applying to Test-Optional Colleges? | College Admissions Insider | unknown (channel 'College Admissions Insider', no credentials state... |
+| 2 | WopdqLfLZ9c | How Teens Can Answer, "Tell Me About Yourself" | EBRPL Career Center | unknown (career center staff role-playing a job interviewer, not ad... |
+| 2 | BmPLuJD11TA | What's the difference between honors courses, AP classes, and International... | My College Timeline | unknown (channel 'My College Timeline', no credentials stated in tr... |
+| 2 | W6pjyzhTous | What Is Course Rigor In Private School Transcripts For Admissions? - Privat... | Private Schools America | test-prep/consultancy marketer (Private Schools America channel, na... |
+| 2 | s2euBr6lEYs | Debunking College Admissions Myths | IvyBoost | independent counselor / test-prep/consultancy marketer (IvyBoost co... |
+| 2 | 7In34DVdKt4 | College Plans: Reach, Target, and Safety Schools | LHS Eagle Eye News | student (high school journalism/news segment featuring multiple stu... |
+| 2 | XqgJXn7byiM | What Are STEM Research Opportunities For Students? - Asian American Student... | Asian American Student Success | unknown (unnamed narrator, likely a scripted/AI-narrated channel vi... |
+| 2 | A3460DSzqKQ | [Episode 9] "Test Optional Strategy Secrets" | ABC Admissions | unknown/synthetic (two-host podcast-style dialogue with no named cr... |
+| 2 | TBpEpeN-ufg | How I got into MIT: Alumni and students share their acceptance stories | MIT Alumni Association | students/alumni sharing personal acceptance stories, via MIT Alumni... |
+| 2 | HVM7AFNEkeE | How To Get Into MIT in 1 Min | ElevatEd School | unknown (short-form admissions content channel, no stated credentials) |
+| 1 | xHCyqyNl0i0 | All About Law School Financial Aid (2021) / S. Montgomery Consulting | Break Into Law School | independent counselor (Sydney Montgomery, law school admissions con... |
+| 1 | hr2VF5i3gjo | Debunking College Admissions Myths - WiseChoice | SE Social Media | test-prep/consultancy marketer (WiseChoice, sponsored promotional c... |
+| 1 | q0whdufdrMQ | Law School Admissions Myths Debunked by Yale Dean / Becoming the Main Chara... | Becoming LawyHer | current admissions officer (Yale Law School Dean of Admissions) |
+| 1 | iuYlGRnC7J8 | A Plan Is Not a Strategy | Harvard Business Review | unknown (Roger Martin, business strategy consultant, not an admissi... |
+| 1 | LthOm3OWdGU | What Does a Student Finance Counselor Do? / SNHU Support | SNHU | financial aid advisor (SNHU Student Financial Services) |
+| 1 | Uxu0YgmR1oQ | How College Counselors Work with You | Empowerly | counselor at Empowerly (independent admissions consulting company) |
+| 1 | 4AK1k3gksI0 | NEET COUNSELLING 2026 : Kitni rank pe kon sa college milega ? cutoff ana | Adda NEET Counselling | independent coaching-business counselor (Indian NEET UG counseling ... |
+| 1 | p5GQSf1gxbk | How MIT Decides Who to Reject in 30 Seconds | ShivVZG | unknown/comedic creator, not an admissions authority |
+| 1 | OfYvTytSqvA | Downing College: Architecture Subject Admissions Webinar | Downing College | current admissions officer/college staff (Downing College, Universi... |
+| 1 | -_vsGhrQWW8 | Studying Computer Science at Cambridge Meet David from Churchill College | Churchill College, Universi... | student (current Computer Science student at Churchill College, Uni... |
+| 1 | m61walSCSQE | Graduate School Personal Statement / My #1 Tip as an Admissions Reader | Stacy Jene | current admissions officer/student (self-described as a current Pen... |
+| 1 | XNHKbiFdAJA | Downing College: English Subject Admissions Webinar | Downing College | current admissions officer/college staff (Downing College, Universi... |
+| 1 | ZtfswNL0JcM | Karnataka MBBS Counselling : Management Quota Rates Drop / KEA 2026 | Mindcreed Medical | test-prep/consultancy marketer (admissions-consulting/agent channel... |
+| 1 | gQa4Co1o8vU | Swamy Vivekanandha Medical College MBBS 2026 / Fees, Seats, Cutoff, Rank &... | Shree Vari Educational Groups | unknown (Indian educational consultancy channel) |
+| 1 | V5KuZ--yUXY | How to Get into Dartmouth Tuck | Accepted | current admissions officer (Executive Director of Admissions and Fi... |
+| 1 | jyuducyyPTU | Academic Readiness, GPA & Test Scores: Duke Fuqua MBA Application Tips | Duke University - The Fuqua... | current admissions officer (Duke Fuqua School of Business, MBA admi... |
+| 1 | yzn_6EoR8dk | 4 Qualities Dartmouth Tuck Applicants Should Have According to Executive Di... | Accepted | current admissions officer (Executive Director of Admissions, Dartm... |
+| 1 | kqOnhNdlxlY | The One Attribute All Dartmouth Tuck Students Share | Accepted | unknown Tuck staff member/representative speaking about the Dartmou... |
 
 
 ## 1. How files move through an office (the strongest content in the set)
@@ -821,12 +915,45 @@ A self-reported current MIT freshman gives a granular account of his own applica
 
 ---
 
+## 6h. Round 9 (final round): activities-list mechanics deepen, live essay-review sessions, and the pipeline's last 88 videos
+
+This round exhausted the discovery pool — all 460 candidate videos found by the original 35 search queries have now been either downloaded and summarized (441) or confirmed permanently unavailable (19, all either caption-disabled or removed/unplayable videos; see §7). No further videos remain to fetch.
+
+### 6h-a. Activities list — official Common App mechanics and a mid-cycle format change
+
+- **A Common App staff member**, speaking directly for the platform, confirms the activities section (up to 10 entries, 150-character descriptions) is filled out once and shared across every school on that platform, and that older applicants (returning/gap-year) should generally exclude activities more than about 10 years old. *(6CCCv1pNCGw)*
+- **A former Vanderbilt AO** flags a concrete, easy-to-miss mechanical change: Common App's activity-description format now leads with the organization/group name followed by the role (reversed from the prior year's title-first format) — and suggests students with an unusually strong title deliberately reorder fields to keep it most visible despite the form's new default. The same source estimates officers spend only **60-90 seconds** on the whole activities list, reinforcing "front-load your strongest entries" advice already established in prior rounds. *(vMUOB4NrpCA)*
+- Multiple independent counselors converge on a "brainstorm then audit" workflow: list every activity's actions/problems-solved/impact, then run a "values scan" to cut redundant entries that repeat the same trait — one source pairs this with a real cautionary anecdote of a student whose fabricated leadership title and trip were caught via inconsistencies, leading to rescinded offers. *(zt_L6Ha6pTY; MQ-2AEcBvCE)*
+- A webinar-format consultant introduces a **platform-by-platform comparison** not spelled out this explicitly elsewhere: Common App allows 10 activities at 150 characters; the UC application allows 20 activities across 4 categories at 350 characters; MIT asks for only 4 activities but up to 200 words each — a mechanical confirmation of MIT's depth-over-breadth philosophy already documented via a real MIT admit's account in round 8 (§6g-g). *(ZG6Tv6XImU4)*
+
+### 6h-b. Essays — live, unscripted critique sessions and a reusable "MAP" framework
+
+- **College Essay Guy's own live essay-review streams** (two separate sessions this round) provide the most concrete, moment-by-moment diagnostic content on essay writing in the whole project: real unedited student drafts get read aloud with the reviewer narrating exactly where a reader gets confused, loses the thread, or can't tell what the essay is "about." One introduces a "log line" technique (a two-sentence theme-plus-values summary used to plan a montage essay's structure) and a "feelings and needs" exercise for connecting a hardship to the action it motivated. *(QKnSk2xA31o; nFE59nw6jsw)*
+- A Brown/Columbia admit's **"MAP" framework** (Moment → Angle → Purpose) is a specific, reusable structural method: start from one small concrete moment, choose which personal value or trait it reveals (the "angle"), then close with why it mattered — argued as easier to execute than starting from an abstract trait and searching for a story to illustrate it. *(5vvdaeDYGrU)*
+- A former Duke MBA/UCF admissions officer's "optional essays as tie-breakers" finding from round 8 (§6g-c) is echoed again this round via a self-described admitted BS/MD student's essay breakdown, who deliberately chose a **low-stakes, non-altruistic** topic (an annoying backyard bird problem solved via engineering) specifically to demonstrate intrinsic researcher-identity rather than a manufactured "saving the world" narrative. *(Fkf-oaaEF0M)*
+
+### 6h-c. Waitlist/deferral — deferral rates as a diagnostic signal
+
+**College Essay Guy's** waitlist/deferral webinar gives the most mechanistic account yet of *why* deferral rates shift: citing Yale's own admit-rate trend (roughly 15% around 2022 down to roughly 10% for the class of 2027, with deferral rates falling and outright rejection rates rising over the same period), the presenters argue a deferral in a tightening cycle can actually signal a **relatively stronger** file, since increasingly weak applicants are being denied outright rather than deferred. Also cites Pomona's own published defer rate (~10-15% of early applicants) as evidence deferral is a "genuinely competitive, not weak" signal at some schools — consistent with, and adding hard numbers to, round 7's deferral/waitlist mechanics (§6f-h). *(9kmvGAFgwC0)*
+
+### 6h-d. Recommendation letters, interviews, and rigor — further corroboration from the same recurring former-AO voice
+
+- **The former Swarthmore/Vanderbilt admissions officer** who has anchored much of this project's process-mechanics content (rounds 6-8) appears three more times this round: an unusually granular walkthrough of the counselor-submitted forms most applicants never see (school report, counselor's demandingness rating, midyear/final grade reports, ED agreement), a confirmation that Swarthmore's evaluative alumni interviews were scored on a rubric covering academic insight/personal qualities/intellectual curiosity (with a safety note to never meet an interviewer at a private home), and a specific example of school-context correction — a Georgia school's bonus-point-inflated "104" grade being converted back to a "94" by admissions readers trained to spot it. *(ALiYRAyGg5o; Yx0ofVnjyFo; FqvFkoM9JMU)*
+- **Two more former Stanford officers** (one also with Rice experience) corroborate round 7's Vassar/Swarthmore contextual-rigor findings from the opposite direction: one recalls personally admitting an applicant with actual F's on the transcript because of exceptional international distinction elsewhere (explicitly framed as a rare exception, not a pattern), while routinely denying straight-A students — concrete evidence that transcript perfection alone doesn't determine outcomes. *(5yIXF89l3Gw; fA7jBkPdGj0)*
+- **A sitting Harvard admissions officer**, in a shared clip, nuances test-optional strategy by context rather than treating it as a blanket policy: international applicants get more leeway to skip testing given regional test-access barriers, while students from well-resourced high schools with a track record of Ivy admits may look "suspicious" opting out if their peers submit scores. *(bRigDdGQF54)*
+
+### 6h-e. Off-scope content in the final batch
+
+The last round's off-scope videos, filtered per this project's US-undergraduate focus: two law-school admissions videos (Yale Law myths, law-school financial aid), Indian MBBS/medical-college counseling content (unrelated to the US system), four Dartmouth Tuck/Duke Fuqua MBA videos, three Cambridge/Oxbridge UK admissions webinars, one graduate-school personal-statement video, and one Harvard Business Review corporate-strategy case study with no admissions content despite its ambiguous title.
+
+---
+
 ## 7. Coverage, gaps and how to extend it
 
-- **What was collected:** 460 candidate videos logged; 353 with transcripts and all 353 summarized (one, 005TMfaVdqU, confirmed a duplicate upload and not separately used); 93 waiting on transcripts and 14 failed on network errors. The database `pipeline/youtube/youtube_videos.db` (table `videos`) tracks each video's ID, title, channel, duration, status (`discovered`, `transcript_ok`, `no_transcript`, `summarized`), transcript word count, relevance, speaker role and summary file path.
-- **Why only 114:** YouTube blocks transcript requests from an IP after roughly 30 downloads. Rounds 2-5 each succeeded after the block cleared on a different connection; most other attempts were blocked immediately. Run `python rank_videos.py` before further fetches so blocked-request budget goes to the highest-value videos first (see `pipeline/youtube/README.md`). The fetch script stops cleanly on a block without marking videos as failed.
-- **To continue:** run `python pipeline/youtube/fetch_transcripts.py` again later (it resumes from `discovered`; expect it to stop again after a similar number if the block persists), then ask for the next summarization batch. Waiting several hours between runs, or running from a different network, usually works.
-- **Selection bias:** the queries that ran first ("how admissions officers read applications", essays) dominated rounds 1-2; rounds 3-5's ranking corrected this toward testing, rigor, financial aid, extracurriculars, ED/EA, interviews, CS/STEM and — unplanned but valuable — real FERPA file-review videos, though essay-adjacent queries still dominate the pool of 342 not yet fetched. Financial aid, list-building, ED/EA strategy, computer-science-specific and freshman-year-planning queries are in the database but not yet transcribed, so those topics are underrepresented here.
+- **Final state: the pipeline is complete.** All 460 candidate videos found by the original 35 search queries have been attempted. 441 were successfully downloaded and summarized across nine rounds (30, 34, 16, 17, 17, 22, 151, 66, 88); one (005TMfaVdqU) was a confirmed duplicate and isn't separately used. The remaining 19 are permanently unavailable, not rate-limit casualties — 16 have captions disabled by the uploader (`TranscriptsDisabled`) and 3 are removed/private/region-locked (`VideoUnplayable`); a handful of earlier connection-error failures were successfully retried and are included in the 441. The database `pipeline/youtube/youtube_videos.db` (table `videos`) tracks each video's ID, title, channel, duration, status (`no_transcript` or `summarized` now that discovery is exhausted), transcript word count, relevance, speaker role and summary file path.
+- **YouTube's IP-based rate limiting** (blocking transcript requests after roughly 20-30 downloads per IP, clearing after a period or on a different network) was the practical bottleneck throughout rounds 1-9, requiring dozens of separate fetch attempts across different networks/IPs. It no longer matters for this file's own coverage since there is nothing left to fetch, but it's the reason the 460-video pool took nine separate rounds spanning many sessions rather than one continuous run.
+- **To find more videos:** run `python discover.py` with new search queries (the 35 originals are logged in that script) to expand the candidate pool beyond 460, then `python rank_videos.py` to prioritize the new discoveries, then resume the same fetch → summarize → ingest → markdown-update cycle documented in `pipeline/youtube/README.md`.
+- **Selection bias, now largely corrected:** the queries that ran first ("how admissions officers read applications", essays) dominated rounds 1-2; rounds 3-9's priority ranking systematically redirected later rounds toward under-covered topics (testing, rigor, financial aid, extracurriculars, activities-list mechanics, ED/EA, interviews, demonstrated interest, college-list building, CS/STEM, AI-in-admissions, disability/learning-difference fit) and toward higher-value named-officer and real-FERPA-file content specifically. With the full pool now processed, remaining topic gaps reflect what the original 35 queries simply didn't surface (e.g., very little on graduate/professional-school-adjacent topics by design, since those were filtered as off-scope) rather than an artifact of partial coverage.
 
 ---
 

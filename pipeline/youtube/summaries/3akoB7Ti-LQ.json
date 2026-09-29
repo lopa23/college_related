@@ -1,0 +1,20 @@
+{
+  "video_id": "3akoB7Ti-LQ",
+  "topic": "testing",
+  "relevance": 4,
+  "speaker_role": "independent counselor (Brooke of SupertutorTV, self-describes coaching students applying to competitive universities for 'the last decade and a half')",
+  "commercial_incentive": "Yes - directs viewers to the presenter's blog/charts and implies ongoing coaching services, though this specific video doesn't push a paid product directly",
+  "key_insights": [
+    "Warns students to check whether a school's published test-score percentiles are for admitted students or actually-enrolled students, since these can differ significantly (illustrated with a University of Miami example where the presenter found admitted-student data was misleadingly high)",
+    "Advises researching whether a specific school is genuinely lenient toward test-optional applicants or still effectively favors submitters, since 'test optional' policies vary widely in practice between schools",
+    "Argues context matters: a strong student from a rigorous/well-known high school (using Exeter as an example) can likely skip testing since admissions officers already trust the school's rigor, whereas first-generation students, those from lower-resourced high schools, homeschoolers, or international students may benefit more from submitting a score to demonstrate academic readiness",
+    "Cautions that schools have an incentive to go test-optional partly to solicit more applications and lower their admit rate (raising perceived selectivity/rankings), not purely to help applicants",
+    "States that some schools (cites Purdue and Yale as examples) still strongly prefer to receive scores, and not submitting one may lead them to assume a low score by default",
+    "Recommends consulting a high school counselor's Naviance-type data for school-specific historical outcomes and test-optional patterns as an additional research step"
+  ],
+  "specific_numbers_or_facts": [
+    "Presenter cites a hypothetical/discussed SAT comparison of 1400 vs. 1200 vs. 1000-ish scores when discussing what a school might assume about a non-submitting Yale applicant (approximate, illustrative rather than official data)"
+  ],
+  "notable_or_distinctive": "The distinction between 'admitted student' test-score percentiles versus 'enrolled student' percentiles (and how a school like a common 'backup' choice can publish misleadingly high admitted-student ranges) is a specific, actionable research tip not commonly emphasized in generic test-optional advice.",
+  "reliability_notes": "Specific claims about which schools (e.g., Purdue, Yale) genuinely want scores are stated as general assertions without citing current official data and could be dated (video is 3 years old per manifest); the Miami example is presented as the presenter's own anecdotal finding rather than a verifiable published statistic."
+}

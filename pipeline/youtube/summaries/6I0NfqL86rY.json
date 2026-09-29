@@ -1,0 +1,19 @@
+{
+ "video_id": "6I0NfqL86rY",
+ "topic": "testing",
+ "relevance": 3,
+ "speaker_role": "test-prep/consultancy marketer (ElevatEd School channel host commenting on a clip from Penn Admissions' own YouTube channel)",
+ "commercial_incentive": "Channel appears to be an admissions-prep business commenting on official content; no explicit sales pitch in this transcript, but frames itself as offering 'years of experience' insight",
+ "key_insights": [
+  "Includes a direct clip of a Penn Admissions officer stating Penn would not require SAT/ACT/SAT Subject Tests for the 2020-2021 cycle (COVID-era policy) and that non-submitters would not be disadvantaged.",
+  "Host commentary argues that, despite official 'no disadvantage' language, applicants who do submit strong test scores will realistically enjoy some advantage in a test-optional process.",
+  "Host's practical advice: pick one test (SAT or ACT), take practice tests, then sit the real test only once or twice.",
+  "If results come back strong, submit them; if not, stop testing and redirect that time/energy into essays, recommendations, and senior-year grades, which the host argues matter 'way more' than one test score.",
+  "Frames test scores under test-optional policies as a bonus/'gold star' rather than a requirement."
+ ],
+ "specific_numbers_or_facts": [
+  "Penn Admissions announced it would not require SAT/ACT/SAT Subject Test submission for the 2020-2021 application cycle (per the embedded Penn Admissions clip)."
+ ],
+ "notable_or_distinctive": "Directly quotes an actual Penn Admissions statement rather than paraphrasing generic test-optional advice, giving it a verifiable institutional source (though narrow and dated to one cycle).",
+ "reliability_notes": "The core institutional claim (Penn's 2020-2021 policy) is dated and cycle-specific — testing policies have shifted again since (some schools reinstated requirements), so this should not be treated as current guidance; the host's added commentary ('scores DO help') is unsupported personal opinion layered on top of the official clip."
+}

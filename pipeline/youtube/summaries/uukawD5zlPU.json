@@ -1,0 +1,22 @@
+{
+ "video_id": "uukawD5zlPU",
+ "topic": "extracurriculars",
+ "relevance": 4,
+ "speaker_role": "student (physics PhD student, self-described, not an admissions professional)",
+ "commercial_incentive": "none evident in transcript (asks for likes/subscribes only)",
+ "key_insights": [
+  "Describes a 3-step process for getting into research with no prior experience: identify target professors, reach out by email, then evaluate fit in an intro meeting.",
+  "Recommends browsing a university's department faculty pages, reading each professor's research-interest summary and lab website to shortlist people whose work is interesting, then ranking the top three.",
+  "For students without a research-active home institution (including high schoolers), suggests contacting professors at other/nearby universities, or even far-away ones for theoretical/computational (not lab-based) projects.",
+  "Cold email should be short, introduce yourself, explain specific interest in their research area, and attach a resume (and optionally an unofficial transcript); recommends formatting the resume in LaTeX (e.g., via Overleaf) rather than Word/Google Docs for a more polished look.",
+  "Recommends timing the email to land around 8-9am in the professor's local time zone, and following up after about 3 days if there's no response.",
+  "Suggests also contacting senior PhD students in a target lab, since they get fewer inbound emails than professors and can help point students in the right direction.",
+  "In an initial meeting, recommends asking whether there will be a mentor (often a grad student rather than the professor directly) and whether there's a path toward co-authorship/publication — treating 'no' to the publication question as a red flag.",
+  "Emphasizes persistence: expect many rejections when cold-emailing, especially outside your own institution; you only need one yes."
+ ],
+ "specific_numbers_or_facts": [
+  "Speaker self-identifies as a 22-year-old physics PhD student at University of Colorado Boulder with research experience including NASA JPL."
+ ],
+ "notable_or_distinctive": "Concrete, replicable tactical advice (target the 'R1'/faculty pages workflow, email timing around 8-9am local time, contacting senior PhD students as a backdoor, asking about co-authorship as a screening question) rather than generic 'do research' advice.",
+ "reliability_notes": "Speaker is a current STEM PhD student sharing personal experience, not an admissions officer or counselor, so this is practical how-to advice for finding research opportunities rather than authoritative guidance on how such experience is evaluated in admissions."
+}
