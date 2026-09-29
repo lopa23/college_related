@@ -1,0 +1,25 @@
+{
+ "video_id": "gfUUSfPGEJg",
+ "topic": "ED/EA",
+ "relevance": 4,
+ "speaker_role": "independent counselor (founder of BlueSkies Ivy League Coaching)",
+ "commercial_incentive": "Yes, channel/speaker runs a paid college admissions coaching business (BlueSkies)",
+ "key_insights": [
+  "Cites Harvard's own litigation data (from the Harvard admissions lawsuit) showing applicants ranked in tier 2 of 6 were admitted at 89% early decision vs 74% regular decision, and tier 3 applicants at higher rates early vs. regular.",
+  "Cites a downloadable dataset (from 'Big J Consulting' site, per speaker) covering ~400 schools' ED vs RD acceptance rates, noting schools like Brown, Cornell, Dartmouth, Northwestern, Tulane, and Vanderbilt fill over 50% of their class via ED.",
+  "Explains ED advantage stems partly from self-selection (only qualified/committed applicants apply ED, including recruited athletes/legacies with 'hooks') and partly from yield-signaling benefits to the college.",
+  "Frames the ED-vs-favorite-reach-school decision as a risk-tolerance choice, illustrated with an anecdote of a student choosing Harvard ED over a safer Duke ED bet.",
+  "Distinguishes binding Early Decision (one school only, must attend regardless of aid package) from non-binding Early Action (can apply to multiple EA schools).",
+  "Describes Restrictive/Single-Choice Early Action at seven schools (Harvard, Stanford, Notre Dame, Princeton, Yale, Georgetown, Boston College) as non-binding but limited to one such application, created partly to let students compare financial aid offers.",
+  "States most merit aid is awarded during early rounds, so students seeking financial/merit aid may benefit from applying early.",
+  "Notes 'priority' deadlines are mostly used by less selective/rolling-admission schools and aren't equivalent to formal EA/ED programs."
+ ],
+ "specific_numbers_or_facts": [
+  "Speaker citing Harvard lawsuit data: tier-2 applicants admitted at 89% early vs 74% regular decision",
+  "Speaker citing Harvard lawsuit data: tier-3 applicants admitted at 29% early vs 13% regular decision (as stated, order in transcript reversed but both figures given)",
+  "Speaker citing external dataset: ~400 schools list ED vs RD acceptance rates; several (Brown, Cornell, Dartmouth, Northwestern, Tulane, Vanderbilt) fill over 50% of class via ED",
+  "Speaker: seven schools use Restrictive Early Action (Harvard, Stanford, Notre Dame, Princeton, Yale, Georgetown, Boston College)"
+ ],
+ "notable_or_distinctive": "Uses actual Harvard admissions-lawsuit tier data and a named third-party dataset to quantify the ED admit-rate boost, rather than just asserting 'ED helps' generically.",
+ "reliability_notes": "Numbers are cited from litigation data and a third-party site but not independently verified here; speaker is a paid coach with incentive to emphasize strategic/insider-feeling tactics; some figures in the transcript are stated in a confusing order due to auto-caption phrasing."
+}

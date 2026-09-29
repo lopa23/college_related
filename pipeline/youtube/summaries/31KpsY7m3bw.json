@@ -1,0 +1,20 @@
+{
+ "video_id": "31KpsY7m3bw",
+ "topic": "CS admissions",
+ "relevance": 1,
+ "speaker_role": "student (incoming Trinity College Cambridge CS fresher), interviewed by a Cambridge admissions interviewer/professor",
+ "commercial_incentive": "none evident -- appears to be an independent interview series aimed at demystifying Cambridge CS admissions and countering stereotypes",
+ "key_insights": [
+  "OFF-SCOPE: this is UK (Cambridge University) undergraduate admissions, not US undergraduate admissions",
+  "Student describes starting programming at 14 via her school's informatics olympiad team, then progressing through China's tiered olympiad competition levels over about 1.5 years",
+  "Discusses the CSAT (Cambridge's own subject-specific admissions test used by some colleges including Trinity), including advice to read through all available questions before choosing which to answer, since better-fit questions may not be the first ones listed",
+  "Interviewer (a Cambridge admissions figure) explains the college's interview approach: deliberately pushing candidates past their comfort zone to see how they respond to being stuck and given hints",
+  "Student discusses coping with impostor syndrome by not over-interpreting single exam results and by accepting as fact that others may be smarter without further self-doubt",
+  "Student encourages girls/underrepresented applicants not to be deterred by gender stereotypes in computer science and to pursue it if they enjoy it"
+ ],
+ "specific_numbers_or_facts": [
+  "Student states it took about 1.5 years from writing her first 'Hello World' program to competing at the higher olympiad level (per her account)"
+ ],
+ "notable_or_distinctive": "As flagged, this covers UK/Cambridge undergraduate admissions (including the Cambridge-specific CSAT test and college interview system), which is a fundamentally different process from US undergraduate admissions, so it is off-scope for this knowledge base.",
+ "reliability_notes": "OFF-SCOPE: UK admissions (Cambridge/Trinity), including a UK-specific test (CSAT) and interview system with no US equivalent; auto-captions render some names/terms inconsistently (e.g., interviewer's name unclear from transcript)."
+}

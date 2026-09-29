@@ -340,6 +340,78 @@ Three videos failed to download on connection errors and can be retried: E5SmMV9
 | 1 | YyLkVqXULYQ | Meet NIU Admissions Counselor Tedra Mewhirter | Northern Illinois University | current admissions counselor at Northern Illinois University (fresh... |
 
 
+### 0h. Source ledger, round 8 (66 videos, priority-ranked)
+
+| Rel. | Video ID | Title (shortened) | Channel | Speaker / role (condensed) |
+|:-:|:--|:--|:--|:--|
+| 5 | VoI5PjKk_MQ | YCBK 404: How is AI impacting admissions & Thoughts on Dartmouth requiring... | School Match 4U | current admissions officer (Andy Borst, VP of Enrollment Management... |
+| 5 | YEzE6r3NdI0 | Understanding Demonstrated Interest in College Admissions / How to Boost Yo... | Ask Dr. Hoffman | former admissions officer (self-described former admissions officer... |
+| 5 | F-xH4kY8_rI | (Webinar) College Counseling: What You Didnt Know You Need to Know (2.17.2022) | College Essay Guy | current high school/college counselor (Alicia Oglesby, ~9 years as ... |
+| 5 | -K7jEhB2bvs | Deferrals & Waitlists 2: How to Respond to a Deferral: Next Steps | College Questions | independent educational consultant (Nick, Daw Academic Consulting) |
+| 5 | YgoMcKdV-U4 | Demonstrated Interest | College Calm | independent educational consultant/counseling office (College Calm,... |
+| 5 | j7qPRtIaE2o | The CSS Profile: What You Need to Know | The FAFSA Guru | independent financial aid consultant ('The FAFSA Guru', Tina Steele) |
+| 5 | IjrBvtamk04 | How to Build a Balanced College List (Reach, Match, Likely) / College Admis... | Ask Dr. Hoffman | independent counselor (Andrew Hoffman, askdrhoffman.com) |
+| 5 | ppfUO9NwDas | Early Action vs Early Decision: What does it all mean?!?! | SupertutorTV | test-prep/consultancy marketer (SupertutorTV) |
+| 5 | zOGAlBsMc84 | MVLA College Admissions: Common Application Essay Webinar August 11, 2020 | Debbie Maher | former admissions officer (Julian, described as having worked a cou... |
+| 5 | Hqm2x7KRHwU | Should You Use AI in Your College Application? | ElevatEd School | independent counselor (Kevin, self-described Yale grad and college ... |
+| 5 | F86hWTifByQ | Can Early Action Hurt You? | SupertutorTV | independent counselor (nearly two decades as independent college co... |
+| 5 | na-0ybN46nI | I Analyze Two Successful College Essays | College Essay Guy | independent counselor (College Essay Guy) |
+| 5 | wYa_tcOOzHI | The Ultimate College Admissions Checklist (50 Things to Do Now) | Ask Dr. Hoffman | former admissions officer (former director of admissions at Swarthm... |
+| 4 | bEDVAABB2_g | How to get into MIT as an International Student? | Samuel Bosch | student (international PhD student at MIT, self-described friends i... |
+| 4 | oaSRxMgeqRk | 5 Free MIT Resources That Boost Your College Application | Shinwoo Lee | test-prep/consultancy marketer (runs 'Inspirit Consulting') |
+| 4 | BL4Tz9m-YlU | how to fill out the BEST common app activities section / + free spreadsheet | Emily | independent counselor (college admissions consultant, also a colleg... |
+| 4 | 2ExtRI-4w2Y | How to Write a KILLER Common App Activities List in 2026 (FULL GUIDE) | Prepworks Education | independent counselor (unnamed YouTuber presenting own methodology;... |
+| 4 | gfUUSfPGEJg | The Truth About Early Decision & Early Action Acceptance Rates | BlueSkies Ivy League Coaching | independent counselor (founder of BlueSkies Ivy League Coaching) |
+| 4 | cxWXg2JP6a4 | How to Present Activities on the Common App / Tips & Examples | Emmy Song | student (college student sharing personal Common App experience) |
+| 4 | xqdpuHkfor0 | Inside MITs Most Selective Summer Program / How RSI Shapes Future Scientists | Rise with Kyros | current program administrator (MIT Research Science Institute/RSI),... |
+| 4 | 5oU8WGmc4_0 | How I Scored Ivy League Summer Program Opportunities (STEM Research Camps) | Rishab Jain STEM | student/recent admit (Harvard neuroscience student, self-described ... |
+| 4 | v-noYF7ttgM | Confused by Early Action vs. Early Decision? Here's What You Need to Know | Goforth Admissions Consulting | independent educational consultant (Amy Goforth, Goforth Admissions... |
+| 4 | LK4TxLVERpo | How To Create: Your Common App Activities List | Lee Educational Consulting | independent educational consultant (Lee Educational Consulting, app... |
+| 4 | 8A0MQsyOmCo | You're asking for letters of rec WRONG | Amy Wang | former student/alum (Caltech graduate) turned YouTube content creator |
+| 4 | tDGVAyx-_xQ | Requesting letters of recommendation | YouTube College Admissions | compiled clip of multiple current school/admissions professionals (... |
+| 4 | zjyU1rPmkg0 | Top Tier STEM Summer Programs recommended by MIT | CounselorJay | independent educational consultant (CounselorJay) |
+| 4 | iO0W-_6XQk8 | Essays, Testing, Activities & More: Live College Admissions Q&A / Live Tikt... | CounselMore Software | panel of independent educational consultants (Lee Norwood of Annapo... |
+| 4 | Y-OLlJUXwKU | College Admissions: Inside the Decision Room | Bloomberg Originals | admissions committee members (documentary footage; institution not ... |
+| 4 | qxetjeud-ks | Identifying Reach, Target, and Safety | Benjamin Smith | independent counselor/instructor (course-style lecture) |
+| 4 | qQKuZvVE4FQ | 6 Expert Steps to Master Your Common App Activities List (With Examples) | Kristina from Ivy Lounge Te... | test-prep/consultancy marketer (Ivy Lounge Test Prep) |
+| 4 | NA07QhVad6g | How I Got Into MIT (No Olympiads, No Crazy Hooks) | Vineet Saravanan | student (self-reported current MIT freshman) |
+| 4 | RFu_a6fHHo0 | How to Get Into MIT | CollegeVine | test-prep/consultancy marketer (CollegeVine) |
+| 4 | 9nr7U3YfUeI | College Applications: Important Metrics And Demonstrating Interest | Mocaa | independent counselor |
+| 4 | HzNH0tNcCiE | 5 Top Summer Programs and How to ACTUALLY Get in | Empowerly | independent counselor (Empowerly College Counseling; former assista... |
+| 4 | YOhRlx5qB24 | The Summer Extracurricular BLUEPRINT for ACCEPTANCE | Pratik Vangal | student/content creator (YouTuber, not an admissions professional) |
+| 4 | Mh8irmLJiTs | Holistic Admissions at Swarthmore College | Swarthmore College | current admissions officers (named Isthier and Yulia, Swarthmore Co... |
+| 4 | 39NFk-mBFyM | Is Being Waitlisted the Same As Being Deferred? What You Should Do | Carolyn J Smith | independent counselor (self-described educator, Carolyn J Smith) |
+| 3 | Hkh3sNT7MXA | Jen Allanach-College Application T.I.P.S. 3 Types of Colleges (Safety, Targ... | Jennifer Allanach | independent counselor |
+| 3 | b_HR-6JmMmw | College Admission: How to Answer "Tell Me About Yourself" During Interviews... | Rich Blazevich | independent counselor |
+| 3 | 3Y75Qv76UFM | A Holistic Review | Johns Hopkins University-Ad... | current admissions officer (Johns Hopkins University admissions cou... |
+| 3 | KutBQEdlufg | How I Got Into MIT as an International Student: SAT, TOEFL, Essay & Intervi... | Gabriela Erin | student (recent MIT graduate, international student from Indonesia) |
+| 3 | M7yY6miSZ64 | How to Ask for a Letter of Recommendation: Tips from a Professor | Professor Lace Padilla | unknown (self-described university professor in computer science an... |
+| 3 | xnFFt7h7dYs | Extracurricular Activities List for College: How to Fit More In | InGenius Prep | test-prep/consultancy marketer (co-founder, InGenius Prep) |
+| 3 | kYqoPwKNDNk | How do colleges evaluate unweighted versus weighted GPA? | Junior Year Jumpstart | unknown (narrated educational short; no credentials or named speake... |
+| 3 | f8A0dhMp8O4 | College Admissions Deferred vs Waitlist | Signature College Counseling | independent counselor (Signature College Counseling) |
+| 2 | skBxjCyycVM | How This Counseling Firm is Creating Higher Education Opportunities | Bloomberg News | test-prep/consultancy marketer (CEO/co-founder of a college counsel... |
+| 2 | Gtwh2p2CB7Y | Warrior Webinar - Accepted Student Q&A | University of Hawai'i at Mn... | current admissions officer (two UH Manoa admissions counselors) |
+| 2 | vUuhAYFeX9Y | How Do Colleges Evaluate High School Course Rigor? | College Admissions Insider | unknown/generic narrated content (no identified presenter or creden... |
+| 2 | HIFCpNMVxQM | What is Financial Aid? | Rollins College | institutional financial aid office staff (Rollins College, unnamed) |
+| 2 | 6g_p0EUbtZI | Ivy League ADMISSIONS HACK You DIDN'T Know Existed! | Crimson Education | test-prep/consultancy marketer (Crimson Education staff interviewin... |
+| 2 | 0G2Xcj9Nh2U | Financial Aid 101: FAFSA, Grants & Scholarships Explained / UEI College | UEI College & United Educat... | unknown (institutional marketing narration for UEI College, a for-p... |
+| 2 | LoQYyoWmE_Q | A Walk in my Shoes: First Generation Advice Section | K-State College of Education | unknown (mixed panel of first-gen students, faculty, and staff at K... |
+| 1 | roExJJX9GGM | First-Year - Life on Campus: HDH Webinar | UC San Diego Undergraduate ... | unknown (UC San Diego Housing/Dining/Hospitality staff, not admissi... |
+| 1 | rZemXFjDORs | Harvard & Yale Admissions Deans: What Actually Gets You Into Law School? | Yale Undergraduate Law Journal | current admissions officer (Dean of Admissions at Yale Law School a... |
+| 1 | UtGEmvzccl8 | Letters of recommendation- Graduate Admissions | Kutztown University | current graduate admissions director (Kutztown University) |
+| 1 | VFh-hOlZG-o | Counseling Aspiring First Generation College Students | Rice Continuing Studies | unknown (unidentified counselor/staff member, Rice Continuing Studies) |
+| 1 | PpKuL9K9JxA | A2Z S6 E03: Letters of Recommendation | Michigan Law | current admissions officer (Dean Z, University of Michigan Law School) |
+| 1 | Z_z-QOagXZU | Articulate Your Thoughts Clearly: 3 PRECISE Steps! | Kara Ronin | leadership/communication YouTuber (Kara Ronin), not an admissions p... |
+| 1 | _o6Qco06mfg | Insider Tips: 10 Secrets of the Adcom Revealed - Webinar | BeatTheGMAT Community | current admissions officers (University of Tampa graduate business ... |
+| 1 | vTdZ5V4hHWQ | College Admissions Counselors Give Advice to High School Students | College of Charleston | admissions counselor (College of Charleston, unnamed) |
+| 1 | 9L4o3xEYQoM | Applied Computer Science at Danville Area Community College | Danville Area Community Col... | students and faculty (Danville Area Community College, program test... |
+| 1 | ipKkwKzxoKQ | Computer Science & Innovation / Champlain College | Champlain College | institutional promotional narration (Champlain College) |
+| 1 | Qb15omQQkQo | Scholarships & Financial Aid : Getting Free Scholarships for Psychotherapy... | ehow | financial aid officer (Argus University, named Brooke Kramer) |
+| 1 | uVsQZL772AI | Meet your Admissions Counselor, Alex Alcantara! | Menlo College | current admissions officer (Menlo College) |
+| 1 | _zgkKdEhlTc | UCLA Law School Admissions Dean on What to Do If You're Waitlisted | LSAT Unplugged & Law School... | current admissions officer (described as UCLA Law School admissions... |
+| 1 | 31KpsY7m3bw | Computer Science fresher at Trinity College Cambridge: Zhiyi Liu | Frank Stajano Explains | student (incoming Trinity College Cambridge CS fresher), interviewe... |
+
+
 ## 1. How files move through an office (the strongest content in the set)
 
 Six of the top-rated videos are about how reading actually works. The most detailed three are from a single ex-Swarthmore director, so treat them as one source's view, with the caveat that he says outright that practice varies by college and that several of his examples (rating charts, mock systems, committee votes) are **fictional illustrations**, not real data.
@@ -705,9 +777,53 @@ Several videos were flagged off-scope per this project's US-undergraduate focus:
 
 ---
 
+## 6g. Round 8: AI-in-admissions gets addressed directly, activities-list mechanics, and a sitting VP debunks a media AI claim
+
+### 6g-a. AI in admissions — a sitting VP on the record, plus conference-sourced specifics
+
+- **A sitting University of Georgia VP of Enrollment Management** (former director of admissions, University of Illinois) directly rebuts a widely circulated media claim that admissions offices use AI to read/rank applications: based on his own cross-institution conversations, selective schools use traditional statistical regression (not AI) for scoring/sorting. One institution he cites found ~10% of a 2023 essay batch flagged by an AI detector as AI-assisted — and ~10% of a **2013, pre-ChatGPT batch** run through the same detector was also falsely flagged, undercutting AI-detector reliability generally. *(VoI5PjKk_MQ)*
+- A separate counselor relaying conference notes reports the same split documented in round 7 (§6f-i) with more texture: Virginia Tech reportedly cut essay readers from two per file to one using AI to triage (human review still required); UNC Charlotte piloted AI to flag grammar/style issues, raising concern about unfairly penalizing ESL students; Yale, Columbia, UCLA and Carnegie Mellon reps stated they don't use AI to evaluate applications at all. A concrete word-frequency anecdote from a named GW admissions officer: the word "tapestry" appeared in fewer than 50 essays five years ago vs. over 500 times last year — offered as informal evidence of ChatGPT's homogenizing effect on essay language. *(Hqm2x7KRHwU)*
+
+### 6g-b. Activities list mechanics — the project's first dedicated cluster on this topic
+
+Six videos this round focus specifically on the Common App activities list (10 entries, 50/100/150-character fields), more concentrated coverage than any prior round:
+- Multiple independent counselors converge on the same writing formula: lead with a quantified accomplishment, add a sub-action/impact, close with a qualitative insight, using semicolon-separated phrases and action verbs to maximize the character limit; one suggests a rough 75/25 split between quantitative and qualitative content. *(BL4Tz9m-YlU; 2ExtRI-4w2Y; cxWXg2JP6a4)*
+- A test-prep-affiliated source adds a specific ordering tactic not seen elsewhere in this project: deliberately placing one "bridge" activity that spans two thematic clusters at the boundary between them so both clusters read as larger and more connected. *(qQKuZvVE4FQ)*
+- A consultant working with international (Hong Kong-based) applicants gives a live screen-recorded walkthrough of the actual Common App interface, adding a mechanical note not covered before: university-affiliated summer programs should go under the Common App's Education section, not the activities list, to avoid wasting a slot. *(LK4TxLVERpo)*
+
+### 6g-c. Early decision/action — named litigation data and a "why the gap overstates your odds" breakdown
+
+- One source cites **Harvard's own admissions-lawsuit data**: applicants ranked in tier 2 of 6 were admitted at 89% early vs. 74% regular decision; tier-3 applicants showed a similar early/regular gap — a rare primary-litigation-sourced figure rather than a marketing claim. Also cites a named third-party dataset (~400 schools' ED vs. RD rates) showing Brown, Cornell, Dartmouth, Northwestern, Tulane and Vanderbilt each fill over 50% of their class via ED. *(gfUUSfPGEJg)*
+- A different independent counselor gives the clearest deconstruction yet of *why* published early-vs-regular admit-rate gaps mislead an individual applicant: the strongest candidates get "plucked off" early and don't compete in the regular pool; legacy applicants concentrate in early rounds at schools like Penn/Harvard (admitted at several times the base rate); and the regular pool swells with early-rejected students reapplying broadly, inflating apparent competition without proportional quality. Advises that students with unfinished essays or a strong upward grade trend may do better waiting for regular decision despite the raw admit-rate gap. *(F86hWTifByQ)*
+- A historical framing not covered in prior rounds: regular decision existed first, ED emerged in the 1950s-60s at Harvard and peers, EA followed about a decade later partly as an equity response, with restrictive EA and ED2 arriving later still. *(v-noYF7ttgM)*
+
+### 6g-d. Demonstrated interest, college-list building and financial aid — further corroboration
+
+- Demonstrated interest remained a heavily covered topic (5+ videos), with every source independently pointing to **Common Data Set section C7** as the concrete check — now corroborated across three consecutive rounds. New numbers: one former officer cites 75-80 US colleges offering fly-in programs; American University, Tulane and Lehigh are named as schools known to weigh interest explicitly. *(YEzE6r3NdI0; YgoMcKdV-U4; 9nr7U3YfUeI)*
+- College-list mechanics continue converging on the same bands (reach <20-25% admit chance, match 25-50%, safety/likely >75-80%, recommended list size 6-10 with wider lists for high-need or international-aid-seeking families), with one source explicitly warning to compare personal stats against *admitted*-student data, not enrolled-student data, since admitted stats run higher. *(IjrBvtamk04; qxetjeud-ks; F-xH4kY8_rI)*
+- A financial-aid consultant ("The FAFSA Guru") adds detail not in prior rounds' CSS Profile coverage: for divorced/separated families, **both** custodial and non-custodial parents typically must each complete a separate CSS Profile, and the form asks families to estimate *next year's* projected income in addition to the prior year's, unlike FAFSA. *(j7qPRtIaE2o)*
+
+### 6g-e. Summer programs — named acceptance rates from an actual RSI administrator
+
+- **A current MIT Research Science Institute (RSI) program administrator**, interviewed directly, gives first-hand figures: ~2% acceptance rate (down from 2.5% the prior year), over 80% of RSI students go on to attend Harvard/Yale/Princeton/Stanford/MIT (climbing to ~97-98% among US students specifically), and a hard minimum age of 16 by the program's start date due to MIT dorm and Massachusetts regulations. *(xqdpuHkfor0)*
+- Multiple sources name and tier specific free STEM programs (MIT RAISE, MITx, RSI, MITES, WTP, SSP, Beaverworks, Clark Scholars) as more credible signals than paid "pay-to-play" programs, consistent with round 6's Vanderbilt-template-letter finding (§6e-e) about paid programs' weak admissions value. *(oaSRxMgeqRk; zjyU1rPmkg0; HzNH0tNcCiE)*
+
+### 6g-f. Essays, recommendation letters, waitlists and a former Yale reader's non-commercial stance
+
+- **A former Yale admissions reader**, now speaking at a school district webinar rather than selling a consulting service, states on the record that families should **not pay for independent college essay consultants** — that school counselors and free published resources are sufficient — a notably non-commercial position rarely voiced this directly in a project otherwise dominated by paid-consultant content. Also states there are no inherently "bad" essay topics; quality depends on depth of reflection, not topic choice. *(zOGAlBsMc84)*
+- A former Swarthmore/Vanderbilt AO's 50-item freshman-planning checklist adds operationally specific advice not seen in prior rounds' more thematic coverage: proofread the *generated* Common App PDF specifically (not just the draft), and limit how widely a student shares their college list/scores/decisions to reduce social comparison pressure. *(wYa_tcOOzHI)*
+- Waitlist/deferral coverage converges with round 7's Swarthmore/Vanderbilt mechanics (§6f-h): a letter of continued interest should be a half-to-one-page update following the school's specific instructions exactly, and one source adds a concrete decision tree for addressing the letter based on who signed the original deferral notice. *(-K7jEhB2bvs; 39NFk-mBFyM)*
+- **Swarthmore admissions officers** (named, on camera) give the project's most concrete illustration yet of contextual rigor evaluation: a student at a school offering only 2 AP classes who takes both is judged as having taken the *most* rigorous load available — not compared unfavorably to a student at a 30-AP school. *(Mh8irmLJiTs)*
+
+### 6g-g. MIT/CS specifics from a current admit and a program insider
+
+A self-reported current MIT freshman gives a granular account of his own application, crediting an optional "maker portfolio" (EEG headset, drone, robotics builds) plus a research supplement as the pieces he believes mattered most, alongside a self-founded nonprofit and three years in an NLP research lab; notes MIT's own application format (not the Common App) has unique fields for jobs, summer activities and up to five scholastic/five non-scholastic awards. A separate source states MIT's early round provides little to no admit-rate boost, unlike most peer schools — contrasted explicitly against Harvard's much larger early-vs-regular gap. *(NA07QhVad6g; RFu_a6fHHo0)*
+
+---
+
 ## 7. Coverage, gaps and how to extend it
 
-- **What was collected:** 460 candidate videos logged; 287 with transcripts and all 287 summarized (one, 005TMfaVdqU, confirmed a duplicate upload and not separately used); 164 waiting on transcripts and 9 failed on network errors. The database `pipeline/youtube/youtube_videos.db` (table `videos`) tracks each video's ID, title, channel, duration, status (`discovered`, `transcript_ok`, `no_transcript`, `summarized`), transcript word count, relevance, speaker role and summary file path.
+- **What was collected:** 460 candidate videos logged; 353 with transcripts and all 353 summarized (one, 005TMfaVdqU, confirmed a duplicate upload and not separately used); 93 waiting on transcripts and 14 failed on network errors. The database `pipeline/youtube/youtube_videos.db` (table `videos`) tracks each video's ID, title, channel, duration, status (`discovered`, `transcript_ok`, `no_transcript`, `summarized`), transcript word count, relevance, speaker role and summary file path.
 - **Why only 114:** YouTube blocks transcript requests from an IP after roughly 30 downloads. Rounds 2-5 each succeeded after the block cleared on a different connection; most other attempts were blocked immediately. Run `python rank_videos.py` before further fetches so blocked-request budget goes to the highest-value videos first (see `pipeline/youtube/README.md`). The fetch script stops cleanly on a block without marking videos as failed.
 - **To continue:** run `python pipeline/youtube/fetch_transcripts.py` again later (it resumes from `discovered`; expect it to stop again after a similar number if the block persists), then ask for the next summarization batch. Waiting several hours between runs, or running from a different network, usually works.
 - **Selection bias:** the queries that ran first ("how admissions officers read applications", essays) dominated rounds 1-2; rounds 3-5's ranking corrected this toward testing, rigor, financial aid, extracurriculars, ED/EA, interviews, CS/STEM and — unplanned but valuable — real FERPA file-review videos, though essay-adjacent queries still dominate the pool of 342 not yet fetched. Financial aid, list-building, ED/EA strategy, computer-science-specific and freshman-year-planning queries are in the database but not yet transcribed, so those topics are underrepresented here.

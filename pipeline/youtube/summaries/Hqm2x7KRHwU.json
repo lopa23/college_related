@@ -1,0 +1,24 @@
+{
+ "video_id": "Hqm2x7KRHwU",
+ "topic": "AI in college applications",
+ "relevance": 5,
+ "speaker_role": "independent counselor (Kevin, self-described Yale grad and college counselor, ElevatEd School)",
+ "commercial_incentive": "explicitly promotes his own paid essay-editing service (elevated.school/editmyessay) with a discount code at the end",
+ "key_insights": [
+  "At a major college admissions conference, most AI use by colleges was on the business/enrollment-marketing side (chatbots, funnel automation) rather than in evaluating applicants.",
+  "Virginia Tech reportedly uses AI to cut essay readers from two per file to one, with AI helping 'triage' the load while humans still review every file - presenter flags this as a concerning trend toward less human review over time.",
+  "UNC Charlotte reportedly piloted AI specifically to flag grammar/writing-style issues in essays; presenter raises concern this could unfairly penalize ESL students for minor errors.",
+  "Representatives from top/elite schools (Yale, Columbia, UCLA, Carnegie Mellon) stated they do not use AI to evaluate applications and that a human always makes the final admissions decision.",
+  "Most colleges reportedly do not rely on AI-detection tools to screen essays because of high false-positive/hallucination rates, per a GW admissions officer cited by the presenter.",
+  "Admissions officers at the conference said using AI to brainstorm or polish an essay is acceptable (comparable to getting help from a family member or teacher), but writing the essay outright with AI is easily detected, and an inconsistent 'voice' across parts of an application (e.g., a required writing sample) can raise red flags.",
+  "Flags overuse of certain 'AI-coded' words (e.g., 'tapestry') and heavy em-dash use as patterns that may read as AI-generated to reviewers and should be minimized.",
+  "Notes admissions officers reportedly encourage high school counselors to use AI to help draft recommendation letters (e.g., feeding it past letters and student brag sheets), since counselors often write 200-300 letters in a short winter-break window."
+ ],
+ "specific_numbers_or_facts": [
+  "The word 'tapestry' appeared in fewer than 50 essays five years ago versus more than 500 times last year, per a GW admissions officer cited by the presenter",
+  "Counselors reportedly writing 200-300 recommendation letters within a 2-3 week span over winter break, per admissions officers cited by the presenter",
+  "Virginia Tech reportedly reduced its essay readers from two per file to one, per the presenter's conference notes"
+ ],
+ "notable_or_distinctive": "The specific, named 'tapestry' word-frequency anecdote and the Virginia Tech two-readers-to-one detail are unusually concrete, source-attributed claims rather than generic AI-ethics advice.",
+ "reliability_notes": "All claims are the presenter's secondhand summary of conference panel statements without direct quotes or citations to verify; individual schools' internal AI practices cannot be independently confirmed from the transcript, and the video closes with a paid essay-editing service promotion."
+}

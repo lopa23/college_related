@@ -1,0 +1,27 @@
+{
+ "video_id": "VoI5PjKk_MQ",
+ "topic": "testing",
+ "relevance": 5,
+ "speaker_role": "current admissions officer (Andy Borst, VP of Enrollment Management at University of Georgia, former director of admissions at University of Illinois) plus independent counselors (Julia, former Haverford admissions officer now at Milton Academy; Mark, college coach)",
+ "commercial_incentive": "Podcast hosts run a paid college counseling firm (School Match 4U) and solicit donations/reviews, but the interview content itself is not a direct sales pitch",
+ "key_insights": [
+  "Hosts report that immediately after Dartmouth announced a return to test-mandatory admissions, several peer Ivies (Princeton, Harvard, Cornell, Johns Hopkins, Stanford, Columbia, UC system) publicly reaffirmed test-optional/test-free policies, arguing this shows no broad trend back to mandatory testing.",
+  "Notes only a small named list (Georgetown, MIT, Purdue, Dartmouth) plus a few state systems (Florida, Tennessee, and inconsistently Georgia) currently require test scores, often because state merit scholarships (e.g., Florida's Bright Futures, Georgia's Zell Miller/HOPE) are statutorily tied to test scores.",
+  "Counselor Julia states her core, unchanged advice regardless of any school's test-optional status: always submit strong scores, and the worst option is submitting non-competitive scores -- never submit a weak score.",
+  "Julia notes some officially 'test optional' schools privately tell counselors they still value scores and only became optional because they have other ways to evaluate without being unable to justify penalizing students who genuinely couldn't test.",
+  "University of Georgia VP Andy Borst states, based on internal conversations across admissions offices, that AI is NOT being used to read or rank full applications at selective institutions, disputing a media report to that effect; what institutions actually use for scoring/sorting (e.g., GPA/test-score formulas) is traditional statistical regression, not AI.",
+  "Borst describes one real pilot use of AI: extracting structured data from self-reported transcripts (which vary by format across tens of thousands of high schools) to reduce the time burden on students filling out self-reported academic records.",
+  "Borst is skeptical of AI essay detectors, citing one institution that ran old (pre-ChatGPT) 2013 essays through a detector and found about 10% were falsely flagged as AI-generated, illustrating detector unreliability; he argues schools should not penalize students based on unverified AI-detection flags.",
+  "Borst states cost/price, not admission itself, is the dominant sorting mechanism determining where students actually enroll, alongside distance from home (most students enroll within about a 3-hour drive) and academic profile ('program, place, price' framework).",
+  "Borst explains that a high GPA (e.g., 3.9-3.98) can be nearly meaningless without knowing a school's specific weighting scale, citing an example of a student with several D grades but a 3.98 GPA due to inflated weighting of honors driver's ed/PE; he says Georgia Tech's public 'admission snapshots' tool (aggregating GPA/test score vs. resulting college GPA by high school) is a rare, useful transparency resource other schools don't widely offer."
+ ],
+ "specific_numbers_or_facts": [
+  "Hosts: Harvard committed to test-optional through the college class of 2030 before re-evaluating; Columbia committed to permanent/indefinite test-optional status",
+  "Hosts: Vanderbilt's dean of admissions (quoted from an Inside Higher Ed article) extended test-optional policy three more years, citing that removing testing boosted applicant diversity and that transcripts appear more predictive than test scores",
+  "Borst: one institution found about 10% of essays from a 2023 batch were flagged by an AI detector as AI-assisted, and about 10% of a 2013 (pre-ChatGPT) batch were also falsely flagged when run through the same detector",
+  "Borst: most students enroll within roughly a 3-hour driving radius of home",
+  "Hosts (from Georgia Tech's public 'admission snapshots' tool): shows aggregate high school GPA/test scores by individual high school translated into actual first-year Georgia Tech GPA, requiring at least 10 students from that school over 4 years"
+ ],
+ "notable_or_distinctive": "A sitting VP of enrollment directly rebuts a widely circulated media claim that admissions offices use AI to read/rank applications, explains what predictive statistical modeling (linear/logistic regression) actually is versus AI, and gives a concrete real-world example (Georgia Tech's admission snapshots tool) of GPA weighting distortion undermining raw GPA comparisons.",
+ "reliability_notes": "Content is a current, well-sourced expert interview (named on-record VP of enrollment) plus experienced counselors, making it relatively high-reliability, though some claims (e.g., other schools' private views on test-optional policy) are secondhand and anecdotal; long-running podcast banter and unrelated personal content (weight loss, weather) pad the transcript and are irrelevant to admissions content; auto-captions occasionally misspell names (e.g., 'Andy Bor' for Borst, 'jul' for Julia)."
+}
