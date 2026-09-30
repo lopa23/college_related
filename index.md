@@ -27,7 +27,7 @@ For folder layout, see `README.md`/`CLAUDE.md`. This file is a per-document inde
 - **`Parchment Cross-Admit Yield Data.md`** — head-to-head "which school wins" revealed-preference data (e.g. MIT beats Harvard 63–37); flags that Parchment's aggregate rankings are stuck on stale 2021-cycle data.
 - **`College Scorecard Field-of-Study Earnings (CS & Engineering).md`** — federal major-level (not whole-institution) earnings data; CMU's CS program tops the national list at $161,723 median 1-year earnings.
 - **`State Percent Plans & Guaranteed Admission Policies.md`** — Texas Top 10% Rule, California's ELC, Florida's Talented Twenty, traced to their origin as race-neutral responses to affirmative-action bans.
-- **`Top-20 Student Body Demographics & Major Distribution (Scorecard+IPEDS).md`** — race/ethnicity, gender, first-gen, Pell-grant rate and major-category mix for 18 of 20 top-tier schools, built from the College Scorecard API as a compliant substitute for a proposed LinkedIn Alumni-tool crawl (blocked by its login wall and anti-scraping ToS); Vanderbilt and Michigan pending a personal API key.
+- **`Top-20 Student Body Demographics & Major Distribution (Scorecard+IPEDS).md`** — race/ethnicity, gender, first-gen, Pell-grant rate and major-category mix for all 20 top-tier schools, built from the College Scorecard API as a compliant substitute for a proposed LinkedIn Alumni-tool crawl (blocked by its login wall and anti-scraping ToS).
 - **`school_data/`** — raw pulls and build scripts backing the files above (CDS/IPEDS JSON for 60 schools, the full national IPEDS record for ~2,000 institutions, UC Tableau data, Scorecard field-of-study CSVs, Scorecard demographics JSON for the top-20 set).
 
 ## applicant_profiles/ — the archive itself
