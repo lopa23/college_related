@@ -65,12 +65,14 @@ def persona_prompt(personas_dir: Path, name: str) -> str:
     return p.read_text(encoding="utf-8")
 
 
-def run_critique(client, model: str, system_prompt: str, context: str, draft: str,
-                  temperature: float) -> str:
+def run_critique(client, model: str, system_prompt: str, context: str, draft: str) -> str:
+    # Note: current Claude models (claude-sonnet-5 and later) no longer accept
+    # `temperature` as a sampling parameter, so divergence across repeated runs
+    # relies on the model's own inherent response variability rather than an
+    # explicit temperature knob (unlike Gauntlet's original 0.3/0.7/1.0 design).
     message = client.messages.create(
         model=model,
         max_tokens=4096,
-        temperature=temperature,
         system=system_prompt,
         messages=[{
             "role": "user",
@@ -92,7 +94,6 @@ def run_synthesis(client, model: str, synth_prompt: str, reviews: dict[str, str]
     message = client.messages.create(
         model=model,
         max_tokens=4096,
-        temperature=0.5,
         system=synth_prompt,
         messages=[{"role": "user", "content": body}],
     )
@@ -145,14 +146,14 @@ def main():
         persona_out = reviews_dir / short
         persona_out.mkdir(parents=True, exist_ok=True)
         run_paths[short] = []
-        for i, temp in enumerate(temperatures, start=1):
+        for i in range(1, len(temperatures) + 1):
             out_path = persona_out / f"run_{i}.md"
             run_paths[short].append(out_path)
             if out_path.exists():
                 print(f"[skip] {out_path} already exists")
                 continue
-            print(f"[critique] {short} (temp={temp}) -> {out_path}")
-            review = run_critique(client, model, system_prompt, context_text, draft_text, temp)
+            print(f"[critique] {short} (run {i}/{len(temperatures)}) -> {out_path}")
+            review = run_critique(client, model, system_prompt, context_text, draft_text)
             out_path.write_text(review, encoding="utf-8")
 
     # --- Convergence: synthesize every combination of one run per persona ---

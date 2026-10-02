@@ -118,7 +118,6 @@ markers before this goes anywhere near the actual committee critique.
     message = client.messages.create(
         model=model,
         max_tokens=4096,
-        temperature=0.7,
         system=system_prompt,
         messages=[{"role": "user", "content": user_content}],
     )
