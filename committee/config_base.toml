@@ -1,0 +1,45 @@
+# The Committee — base configuration.
+# Comment out any [[personas]] block you don't want to run; fewer personas
+# keeps synthesis combinatorics sane if you raise `temperatures` below.
+
+model = "claude-sonnet-5"
+
+# One critique per persona per temperature. [0.3] (the default) gives one
+# conservative critique per persona and one synthesis combo total. Raising
+# this to [0.3, 0.7, 1.0] gives 3 critiques per persona (conservative,
+# balanced, divergent) — with 5 personas that's 3^5 = 243 synthesis combos,
+# which is almost certainly more than you want; drop to 2-3 personas first.
+temperatures = [0.3]
+
+synthesizer = "synthesizer"
+
+[[personas]]
+name  = "admissions_officer_elite_private"
+short = "ao_private"
+
+[[personas]]
+name  = "admissions_officer_public_flagship"
+short = "ao_public"
+
+[[personas]]
+name  = "financial_aid_officer"
+short = "aid"
+
+[[personas]]
+name  = "independent_counselor_skeptic"
+short = "skeptic"
+
+[[personas]]
+name  = "international_admissions_specialist"
+short = "intl"
+
+# Used only by draft_generator.py. Keep it rough and directional — the
+# Strategist's job is to find the best framing for this seed, not to follow
+# a pre-written argument. Example:
+seed = """
+I'm drafting the "Why This College" supplemental essay for [school name].
+I want to argue that [the specific thing the student actually wants to say —
+a program, a research interest, a value]. I'm [ED / EA / RD] and [do / don't]
+need financial aid. Flag anything that reads generic or that a real reader
+would see as a template with the school name swapped in.
+"""

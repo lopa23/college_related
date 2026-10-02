@@ -42,6 +42,14 @@ For folder layout, see `README.md`/`CLAUDE.md`. This file is a per-document inde
 - **`redditt_scrapper.py`** — the scraper itself.
 - **`enrichment_progress.json`**, **`cc_enrichment_progress.json`**, **`chanceme_enrichment_progress.json`**, **`rows_index.json`** — checkpoint/progress state for resumable scraping and enrichment runs.
 
+## committee/ — multi-persona critique engine for a specific student's materials
+
+- **`personas/`** — five reviewer personas (admissions officer at an elite private school, admissions officer at a UC-style public flagship, financial aid officer, myth-busting independent counselor, international admissions specialist) plus a synthesizer; each persona's evaluation criteria cite specific findings from `qualitative_insights/` and `institutional_data/` rather than being generic.
+- **`main.py`** — runs the critique: each configured persona reviews a document (divergence), then a synthesizer merges every combination of critiques into a prioritized Admissions Strategy Memo (convergence); idempotent, modeled on [Gauntlet](https://github.com/VerticalResearchGroup/Gauntlet).
+- **`draft_generator.py`** — optional front-end ("The Strategist") that drafts a document already written against the same personas, given a rough seed; see `DRAFTING.md`.
+- **`config_base.toml`** — selects which personas run, the model, temperatures, and the draft generator's seed.
+- **`inputs/`**, **`outputs/`** — real student material and the generated critiques/syntheses; both gitignored (only `inputs/context.example.md` is tracked, as a template).
+
 ---
 
 *Keep this in sync with `README.md`/`CLAUDE.md` when files are added, removed, or renamed — those two cover the folder tree, this one covers what's actually inside each file.*

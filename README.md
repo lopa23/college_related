@@ -35,15 +35,22 @@ M_college_related/
 │   ├── reditt_results.md
 │   └── applicant_profile_to_query/
 │
-└── pipeline/                    # scraper scripts and checkpoint/progress state
-    ├── redditt_scrapper.py
-    ├── rows_index.json
-    ├── enrichment_progress.json
-    ├── cc_enrichment_progress.json
-    ├── chanceme_enrichment_progress.json
-    └── youtube/                 # YouTube video tracking DB (youtube_videos.db) plus discovery/transcript/summary scripts
+├── pipeline/                    # scraper scripts and checkpoint/progress state
+│   ├── redditt_scrapper.py
+│   ├── rows_index.json
+│   ├── enrichment_progress.json
+│   ├── cc_enrichment_progress.json
+│   ├── chanceme_enrichment_progress.json
+│   └── youtube/                 # YouTube video tracking DB (youtube_videos.db) plus discovery/transcript/summary scripts
+│
+└── committee/                   # multi-persona critique engine for a specific student's application materials
+    ├── personas/                # admissions officer, financial aid officer, counselor-skeptic, etc. — grounded in
+    │                             #   qualitative_insights/ and institutional_data/, not generic personas
+    ├── main.py                  # runs the critique (divergence) + synthesis (convergence) pipeline
+    ├── draft_generator.py       # optional: drafts a document already written against the same personas
+    └── inputs/ outputs/         # real student material and generated critiques — both gitignored
 ```
 
-**How the pieces relate:** `applicant_profiles/combined_profiles.json` is the central dataset — real profile narratives, joined against `institutional_data/school_data/school_facts.json` for a subset with confirmed commitments (see `school_data/join_profiles.py`). `institutional_data/` supplies the hard numbers (admit rates, trends, lawsuit disclosures, legal/policy structure) that every qualitative claim in `qualitative_insights/` should be checked against. `pipeline/` holds the scraper and its checkpoint state, kept separate from the data it produces.
+**How the pieces relate:** `applicant_profiles/combined_profiles.json` is the central dataset — real profile narratives, joined against `institutional_data/school_data/school_facts.json` for a subset with confirmed commitments (see `school_data/join_profiles.py`). `institutional_data/` supplies the hard numbers (admit rates, trends, lawsuit disclosures, legal/policy structure) that every qualitative claim in `qualitative_insights/` should be checked against. `pipeline/` holds the scraper and its checkpoint state, kept separate from the data it produces. `committee/` is the one folder that *consumes* the rest of the project rather than adding to it — its personas cite specific findings from `qualitative_insights/` and `institutional_data/` as their evaluation criteria, so if that research changes, the personas should be updated to match. See `committee/README.md`.
 
 **Adding new files:** place them in the matching category folder rather than at root. Internal relative-path references between files (e.g. a reference doc in `institutional_data/` pointing at `school_data/...`) rely on the referenced folder being a sibling — keep data folders alongside the `.md` files that cite them if either ever moves again.

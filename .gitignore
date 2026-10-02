@@ -5,3 +5,9 @@ applicant_profiles/applicant_profile_to_query/
 applicant_profile_to_query/
 pipeline/youtube/transcripts/
 pipeline/youtube/fetch_log.txt
+committee/.env
+committee/inputs/*
+!committee/inputs/.gitkeep
+!committee/inputs/context.example.md
+committee/outputs/*
+!committee/outputs/.gitkeep

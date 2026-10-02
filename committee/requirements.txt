@@ -1,0 +1,4 @@
+anthropic
+python-dotenv
+pypdf
+tomli; python_version < "3.11"
