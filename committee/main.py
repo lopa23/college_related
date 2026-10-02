@@ -19,6 +19,17 @@ import os
 import sys
 from pathlib import Path
 
+# On some Windows setups, httpx's default TLS verification via `truststore`
+# hits a self-recursion bug (ssl.SSLContext.verify_mode). Pointing it at
+# certifi's cert bundle instead avoids that code path. Must happen before
+# anthropic/httpx are imported.
+if "SSL_CERT_FILE" not in os.environ:
+    try:
+        import certifi
+        os.environ["SSL_CERT_FILE"] = certifi.where()
+    except ImportError:
+        pass
+
 try:
     import tomllib
 except ModuleNotFoundError:

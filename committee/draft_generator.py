@@ -20,6 +20,15 @@ import os
 import sys
 from pathlib import Path
 
+# See main.py for why: avoids a truststore self-recursion bug on some Windows
+# setups by using certifi's cert bundle for TLS verification instead.
+if "SSL_CERT_FILE" not in os.environ:
+    try:
+        import certifi
+        os.environ["SSL_CERT_FILE"] = certifi.where()
+    except ImportError:
+        pass
+
 try:
     import tomllib
 except ModuleNotFoundError:
